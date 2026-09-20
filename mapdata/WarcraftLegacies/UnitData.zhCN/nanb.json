@@ -5,18 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ufoo",
-      "Value": 0
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "轻型远程单位。"

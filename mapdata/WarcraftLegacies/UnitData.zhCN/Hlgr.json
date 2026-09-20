@@ -5,97 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "A0W3,AInv"
-    },
-    {
-      "Id": "uagi",
-      "Value": 22
-    },
-    {
-      "Id": "uagp",
-      "Type": 2,
-      "Value": 1.7
-    },
-    {
-      "Id": "ubld",
-      "Value": 13
-    },
-    {
-      "Id": "ucol",
-      "Type": 2,
-      "Value": 16
-    },
-    {
-      "Id": "ua1b",
-      "Value": 20
-    },
-    {
-      "Id": "ugol",
-      "Value": 100
-    },
-    {
-      "Id": "uhab",
-      "Type": 3,
-      "Value": "AHtb,Aamk,A07X,A038,A04K"
-    },
-    {
-      "Id": "uhpm",
-      "Value": 200
-    },
-    {
-      "Id": "uinp",
-      "Type": 2,
-      "Value": 1.5
-    },
-    {
-      "Id": "upri",
-      "Value": 17
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": "R023"
-    },
-    {
-      "Id": "ustr",
-      "Value": 25
-    },
-    {
-      "Id": "ustp",
-      "Type": 2,
-      "Value": 2.4
-    },
-    {
-      "Id": "usma",
-      "Value": 1
-    },
-    {
-      "Id": "usrg",
-      "Value": 0
-    },
-    {
-      "Id": "usst",
-      "Value": 0
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（血色）"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "unam",
@@ -106,10 +18,6 @@
       "Id": "utub",
       "Type": 3,
       "Value": "战斗型英雄，擅长支援军队。"
-    },
-    {
-      "Id": "ubpx",
-      "Value": 3
     },
     {
       "Id": "utip",

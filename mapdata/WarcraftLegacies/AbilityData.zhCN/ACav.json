@@ -5,33 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 1200
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Had1",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "h05A"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（暴风城 - 都城）"

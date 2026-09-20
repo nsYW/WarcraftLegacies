@@ -5,39 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ssk2",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ssk3",
-      "Type": 2,
-      "Value": 12
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R00F"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASLancelot_Plate.blp"
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（矮人战士）"

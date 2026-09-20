@@ -5,29 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "unp2"
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
@@ -47,29 +24,9 @@
     },
     {
       "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNLichVersion2.blp"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "S"
-    },
-    {
-      "Level": 1,
       "Id": "gub1",
       "Type": 3,
       "Value": "允许在浮空城、亡者大厅和黑色城堡中训练巫妖。|n|n|cffc864c8无法与死亡骑士同时研究。|r"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
     }
   ],
   "NewId": "ZB74"

@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRavenForm.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "群鸦突袭"

@@ -15,16 +15,6 @@
       "Value": "该单位被困在荆棘藤蔓之中，移动速度降低。"
     },
     {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNInvadingVines.blp"
-    },
-    {
       "Id": "fnam",
       "Type": 3,
       "Value": "荆棘藤蔓"

@@ -5,59 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gglb",
-      "Value": 80
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 35
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "n06R"
-    },
-    {
-      "Id": "gef2",
-      "Type": 3,
-      "Value": "renw"
-    },
-    {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDragonFire2.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（元素）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
     },
     {
       "Level": 1,

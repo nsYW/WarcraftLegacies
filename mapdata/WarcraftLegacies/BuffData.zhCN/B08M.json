@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNBoneChimes.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "死亡进军"

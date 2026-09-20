@@ -5,54 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rhpx"
-    },
-    {
-      "Id": "gglb",
-      "Value": 90
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 25
-    },
-    {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Id": "gef2",
-      "Type": 3,
-      "Value": "rart"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSphereOfFire.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（元素）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,

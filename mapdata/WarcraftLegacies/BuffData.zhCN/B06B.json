@@ -5,38 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "naga"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": "WingsBuff_Overhead.mdx"
-    },
-    {
-      "Id": "ftac",
-      "Value": 0
-    },
-    {
-      "Id": "fta0",
-      "Type": 3,
-      "Value": "overhead"
-    },
-    {
-      "Id": "fta1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "疾风"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWindOrb.blp"
     },
     {
       "Id": "fube",

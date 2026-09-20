@@ -5,45 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ctb1",
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 750
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（橙色 - 大地魔像）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

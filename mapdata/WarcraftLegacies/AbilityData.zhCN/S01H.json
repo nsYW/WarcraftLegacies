@@ -5,20 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "friend,invulnerable,vulnerable"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（蒸汽坦克）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "anam",

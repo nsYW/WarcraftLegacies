@@ -5,20 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 12
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "未使用"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "anam",

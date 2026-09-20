@@ -5,40 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "glmb",
-      "Value": 5
-    },
-    {
-      "Id": "gglb",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "naga"
-    },
-    {
       "Level": 1,
       "Id": "gnam",
       "Type": 3,
       "Value": "反馈"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "replaceabletextures\\commandbuttons\\btnfeedback.dds"
     },
     {
       "Level": 1,
@@ -54,19 +24,9 @@
     },
     {
       "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
-    },
-    {
-      "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（伊利达雷）"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
     }
   ],
   "NewId": "R00H"

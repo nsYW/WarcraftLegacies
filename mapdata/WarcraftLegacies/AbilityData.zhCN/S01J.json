@@ -5,22 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R02Z"
-    },
-    {
-      "Level": 1,
-      "Id": "Cha1",
-      "Type": 3,
-      "Value": "h04C"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（深绿色 - 民兵）（反射镀层）"

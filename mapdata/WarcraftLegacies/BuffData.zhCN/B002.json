@@ -8,11 +8,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "召唤目标"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Demon\\RainOfFire\\RainOfFireTarget.mdl"
     }
   ],
   "NewId": "B002"

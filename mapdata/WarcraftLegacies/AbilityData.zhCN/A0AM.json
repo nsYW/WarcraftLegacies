@@ -5,19 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "abpx",
-      "Value": 2
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "(25%)(暴风城勇士"

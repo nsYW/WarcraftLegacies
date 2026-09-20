@@ -5,15 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "RFTF"
-    },
-    {
-      "Id": "achd",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（克苏恩奖励 - 实体）"

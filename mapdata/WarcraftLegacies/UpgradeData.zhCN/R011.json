@@ -5,26 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A0I6"
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,

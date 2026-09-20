@@ -5,59 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A0CC"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "gglb",
-      "Value": 150
-    },
-    {
-      "Id": "glmb",
-      "Value": 15
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "h07G"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTN_CR_SEGGOLEM.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（铁炉堡）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,

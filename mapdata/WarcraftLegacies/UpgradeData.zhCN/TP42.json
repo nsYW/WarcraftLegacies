@@ -5,92 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 0.35
-    },
-    {
-      "Id": "gba4",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gmo2",
-      "Type": 2,
-      "Value": 0.35
-    },
-    {
-      "Id": "gmo4",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 2,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "h07G"
-    },
-    {
-      "Id": "glmb",
-      "Value": 5
-    },
-    {
-      "Id": "glmm",
-      "Value": 0
-    },
-    {
-      "Id": "gef4",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gmo3",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Id": "gba3",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Id": "gef3",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gglm",
-      "Value": 25
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeavenlyDemolisher.blp"
-    },
-    {
-      "Level": 2,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeavenlyDemolisher.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（铁炉堡）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
-    },
-    {
-      "Level": 2,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,
@@ -127,10 +45,6 @@
       "Id": "gub1",
       "Type": 3,
       "Value": "提高符文铁匠的法力值上限和法力恢复速度，并使其获得施放易爆药剂的能力。"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
     }
   ],
   "NewId": "TP42"

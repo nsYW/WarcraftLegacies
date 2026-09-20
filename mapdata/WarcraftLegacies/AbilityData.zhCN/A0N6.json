@@ -5,195 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 2,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 3,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 165
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 200
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 4
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 450
-    },
-    {
-      "Level": 2,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 3,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 1350
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 2,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 3,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 2,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 3,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 3,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Id": "alev",
-      "Value": 3
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWorgenMoon.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（吉尔尼斯）"
     },
     {
-      "Id": "aefs",
-      "Type": 3,
-      "Value": "BattleRoar"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "R"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "戈德林之力"
-    },
-    {
-      "Id": "arar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWorgenMoon.blp"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "aret",
@@ -240,11 +59,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "激活戈德林之力，使吉恩获得<A03C,DataA3>点额外护甲、<A03C,DataB3>点额外生命值、<A03C,DataC3>点额外伤害和法术免疫。|n持续<A03C,Dur3>秒。"
-    },
-    {
-      "Id": "auar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWorgenMoon.blp"
     },
     {
       "Level": 2,

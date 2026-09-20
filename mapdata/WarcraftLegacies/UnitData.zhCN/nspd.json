@@ -5,27 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "Aweb"
-    },
-    {
-      "Id": "udef",
-      "Value": 1
-    },
-    {
-      "Id": "ua1b",
-      "Value": 17
-    },
-    {
-      "Id": "ufoo",
-      "Value": 0
-    },
-    {
-      "Id": "uhpm",
-      "Value": 390
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "轻型近战单位。"

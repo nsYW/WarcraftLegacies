@@ -5,25 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ssk2",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "Rers"
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ssk3",
-      "Type": 2,
-      "Value": 15
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（山岭巨人）"

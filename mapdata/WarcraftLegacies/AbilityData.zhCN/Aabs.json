@@ -5,18 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "abpx",
-      "Value": 2
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（天灾 - 毁灭者）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 1,

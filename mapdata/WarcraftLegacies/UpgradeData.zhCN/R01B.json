@@ -5,84 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Id": "gba3",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A0C3"
-    },
-    {
-      "Id": "gco2",
-      "Type": 3,
-      "Value": "h03U"
-    },
-    {
-      "Id": "gco3",
-      "Type": 3,
-      "Value": "A094"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "gef2",
-      "Type": 3,
-      "Value": "rmnx"
-    },
-    {
-      "Id": "ginh",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "h036"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNNeutralManaShield.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（达拉然）（卡拉赞）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

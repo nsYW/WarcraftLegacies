@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNShip.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "海军光环"
@@ -23,11 +13,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "海军光环"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": "fube",

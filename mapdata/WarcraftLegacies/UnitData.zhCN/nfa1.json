@@ -5,10 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uhpm",
-      "Value": 1150
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "口袋工厂"

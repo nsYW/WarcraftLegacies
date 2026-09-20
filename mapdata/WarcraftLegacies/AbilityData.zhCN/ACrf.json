@@ -5,28 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 150
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSpell_Shadow_RainOfFire.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（末日守卫）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

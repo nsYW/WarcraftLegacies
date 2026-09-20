@@ -5,19 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "|cff00ff00嘲讽|r"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTaunt.blp"
     },
     {
       "Id": "fube",

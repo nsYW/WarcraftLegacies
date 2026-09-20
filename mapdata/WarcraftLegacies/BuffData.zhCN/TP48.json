@@ -18,21 +18,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "复苏之风"
-    },
-    {
-      "Id": "fnsf",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASSecondWind.blp"
     }
   ],
   "NewId": "TP48"

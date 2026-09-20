@@ -5,93 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 400
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 60
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Uls1",
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Uls2",
-      "Type": 2,
-      "Value": 0.15
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Uls3",
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Pointer": 4,
-      "Id": "Uls4",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Pointer": 5,
-      "Id": "Uls5",
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "other"
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（克苏恩 - 巨像）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "aret",

@@ -5,19 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "可施放驱散魔法与亡者复生的重型近战单位。"

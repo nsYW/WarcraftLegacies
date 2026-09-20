@@ -5,70 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "B097"
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Nsy2",
-      "Type": 3,
-      "Value": "h06H"
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Level": 1,
-      "Id": "Nsyu",
-      "Type": 3,
-      "Value": "o003"
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDwarfTurret.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（工程师）"
     },
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "便携火炮"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

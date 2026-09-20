@@ -5,54 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A03V,AIlf,AIa5,A0F6"
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Artifact"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "AIin"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ilev",
-      "Value": 8
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "ipri",
-      "Value": 200
-    },
-    {
-      "Id": "isel",
-      "Value": 0
-    },
-    {
-      "Id": "iusa",
-      "Value": 1
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNmidnightGS.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "使生命值提高 150 点、敏捷提高 5 点、智力提高 9 点。可使用虚空爆炸，在较大区域内降下 6 波虚空爆炸；每波对一小片范围内的单位造成 45 点伤害。"

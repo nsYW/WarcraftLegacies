@@ -5,48 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 150
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 35
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "hkee"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRapid Fire.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（洛丹伦）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "S"
     },
     {
       "Level": 1,

@@ -5,17 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R004"
-    },
-    {
-      "Level": 1,
-      "Id": "Cha1",
-      "Type": 3,
-      "Value": "o00E"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（战歌-血契苦工）"

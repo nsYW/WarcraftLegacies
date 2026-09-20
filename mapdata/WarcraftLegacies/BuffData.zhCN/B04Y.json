@@ -5,24 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "坚韧箴言"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSpell_Holy_SealOfProtection.blp"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": "war3mapImported\\Effect_ShieldBuff_Small.mdx"
     },
     {
       "Id": "fube",

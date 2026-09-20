@@ -5,30 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 75
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（克苏恩）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
     },
     {
       "Level": 1,

@@ -18,21 +18,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "能量波"
-    },
-    {
-      "Id": "fnsf",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASBTNFelBurn.blp"
     }
   ],
   "NewId": "HWP3"

@@ -5,67 +5,16 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 95
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "R052"
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Level": 2,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "R052"
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gglm",
-      "Value": -45
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（浅蓝色研究）"
     },
     {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "A"
-    },
-    {
-      "Level": 2,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUpgradeMoonGlaive.blp"
-    },
-    {
       "Level": 2,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（浅蓝色研究）"
-    },
-    {
-      "Level": 2,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "A"
     },
     {
       "Level": 2,

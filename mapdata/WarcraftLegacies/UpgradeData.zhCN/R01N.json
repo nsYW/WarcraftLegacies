@@ -5,81 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 100
-    },
-    {
-      "Id": "gba3",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A0C3"
-    },
-    {
-      "Id": "gco2",
-      "Type": 3,
-      "Value": "h03U"
-    },
-    {
-      "Id": "gco3",
-      "Type": 3,
-      "Value": "A094"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "ratd"
-    },
-    {
-      "Id": "gef2",
-      "Type": 3,
-      "Value": "rhpx"
-    },
-    {
-      "Id": "gef3",
-      "Type": 3,
-      "Value": "rarm"
-    },
-    {
-      "Id": "gglb",
-      "Value": 200
-    },
-    {
-      "Id": "ginh",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 1
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（洛丹伦、暴风城）（任务）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,

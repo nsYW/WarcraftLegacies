@@ -5,23 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（人类箭塔）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "anam",

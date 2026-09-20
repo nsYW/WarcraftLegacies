@@ -5,22 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R09P"
-    },
-    {
-      "Level": 1,
-      "Id": "Cha1",
-      "Type": 3,
-      "Value": "okod"
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（解除血契 - 科多兽）"

@@ -5,33 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A09O,AItx"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "A02X"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRegenerationAura.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "造成额外伤害，并允许你施放强大的法力燃烧技能。"

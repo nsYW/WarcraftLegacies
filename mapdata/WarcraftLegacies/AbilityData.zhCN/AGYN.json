@@ -5,123 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 180
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 165
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 175
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 225
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Etq1",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Etq1",
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Level": 2,
-      "Pointer": 3,
-      "Id": "Etq3",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 3,
-      "Pointer": 3,
-      "Id": "Etq3",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 2,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 3,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 3,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（瓦兰奈尔）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "aret",
@@ -162,10 +48,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "召唤治疗能量之雨倾泻于大片区域，每秒为友方盟友单位恢复 50 点生命值。|n持续 20 秒。"
-    },
-    {
-      "Id": "abpx",
-      "Value": 2
     }
   ],
   "NewId": "AGYN"

@@ -5,63 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ufn2",
-      "Type": 2,
-      "Value": 65
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 700
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ufn1",
-      "Type": 2,
-      "Value": 100
-    },
-    {
-      "Level": 1,
-      "Pointer": 5,
-      "Id": "Ufn5",
-      "Type": 2,
-      "Value": 600
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（潮汐领主）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

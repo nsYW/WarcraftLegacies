@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNBlueImmolationOff.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（天灾 - 冰冠方尖碑）"

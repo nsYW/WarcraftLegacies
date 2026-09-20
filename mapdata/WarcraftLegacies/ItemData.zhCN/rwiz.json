@@ -5,27 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "igol",
-      "Value": 50
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Purchasable"
-    },
-    {
-      "Id": "ubpx",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "装备时使英雄的魔法恢复速度提高 50%。"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "unam",

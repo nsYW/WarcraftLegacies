@@ -5,44 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "Aens"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gtib",
-      "Value": 30
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（哨兵）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,

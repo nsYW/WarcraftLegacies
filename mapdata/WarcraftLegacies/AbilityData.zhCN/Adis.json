@@ -5,32 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 175
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,structure,tree,vulnerable,ward"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（奎尔萨拉斯 - 牧师）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

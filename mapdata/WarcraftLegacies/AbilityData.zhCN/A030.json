@@ -5,68 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Osf2",
-      "Value": 3
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Level": 1,
-      "Id": "Osf1",
-      "Type": 3,
-      "Value": "efon"
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "BFig"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNEnt.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（日怒）"
     },
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "召唤树人"
-    },
-    {
-      "Id": "arpx",
-      "Value": 1
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

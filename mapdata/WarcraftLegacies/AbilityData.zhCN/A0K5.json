@@ -5,41 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 1500
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "B093"
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Had1",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "friend,self,structure"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASMetalPlatingLevel3.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（城堡） （黄色）"
@@ -48,11 +13,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "矮人石工技术"
-    },
-    {
-      "Id": "atat",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,

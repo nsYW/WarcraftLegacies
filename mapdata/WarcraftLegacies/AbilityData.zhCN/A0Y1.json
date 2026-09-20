@@ -5,39 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ssk2",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ssk3",
-      "Type": 2,
-      "Value": 18
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASDarkness Shield.blp"
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（克苏恩 - 维扎克斯）"

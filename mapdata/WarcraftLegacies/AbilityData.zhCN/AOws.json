@@ -5,83 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 275
-    },
-    {
-      "Level": 3,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 4,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 325
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 105
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 120
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 135
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Wrs1",
-      "Type": 2,
-      "Value": 100
-    },
-    {
-      "Level": 4,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 4,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Id": "abpx",
-      "Value": 2
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "未使用"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
-      "Id": "arpx",
-      "Value": 2
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "arut",

@@ -5,22 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ugol",
-      "Value": 244
-    },
-    {
-      "Id": "uhpm",
-      "Value": 1000
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "重型近战单位。"

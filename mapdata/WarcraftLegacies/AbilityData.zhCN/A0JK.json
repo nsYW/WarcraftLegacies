@@ -5,32 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 125
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 2
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（邪部落 - 死亡骑士）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

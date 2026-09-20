@@ -5,28 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "War1",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "enemies,ground,neutral"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNSeaGiantPulverize.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（库尔提拉斯 - 海巨人）"

@@ -5,23 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Id": "aite",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（肯瑞托）（功能）"
-    },
-    {
-      "Id": "abpy",
-      "Value": -11
     },
     {
       "Id": "anam",

@@ -5,252 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 2,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 3,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 115
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 95
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 4
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Level": 2,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 3,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 450
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 2,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 3,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 2,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 3,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 3,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "arlv",
-      "Value": 1
-    },
-    {
-      "Level": 4,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 60
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Level": 4,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 600
-    },
-    {
-      "Level": 4,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 4,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 75
-    },
-    {
-      "Level": 4,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 4,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 135
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 110
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 110
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 110
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 110
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeroAvatarOfFlame.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（拉格纳罗斯）"
     },
     {
-      "Id": "aefs",
-      "Type": 3,
-      "Value": "BattleRoar"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "毁灭先驱"
-    },
-    {
-      "Id": "arar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeroAvatarOfFlame.blp"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "aret",
@@ -299,11 +61,6 @@
       "Value": "使该单位获得<A0WF,DataA3>点额外护甲、<A0WF,DataB3>点额外生命值、<A0WF,DataC3>点额外伤害与法术免疫。|n持续<A0WF,Dur3>秒。"
     },
     {
-      "Id": "auar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeroAvatarOfFlame.blp"
-    },
-    {
       "Level": 2,
       "Id": "aut1",
       "Type": 3,
@@ -322,14 +79,6 @@
       "Value": "关闭毁灭先驱"
     },
     {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "arpx",
-      "Value": 0
-    },
-    {
       "Level": 4,
       "Id": "atp1",
       "Type": 3,
@@ -346,10 +95,6 @@
       "Id": "aut1",
       "Type": 3,
       "Value": "关闭毁灭先驱"
-    },
-    {
-      "Id": "aubx",
-      "Value": 0
     }
   ],
   "NewId": "A0WF"

@@ -5,68 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ginh",
-      "Value": 1
-    },
-    {
-      "Id": "glmm",
-      "Value": 0
-    },
-    {
-      "Id": "glvl",
-      "Value": 4
-    },
-    {
-      "Level": 2,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 3,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gtib",
-      "Value": 75
-    },
-    {
-      "Id": "gtim",
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "R04R"
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gglm",
-      "Value": 125
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanMissileUpThree.blp"
-    },
-    {
-      "Level": 2,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanMissileUpThree.blp"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
@@ -89,24 +27,6 @@
       "Id": "gnsf",
       "Type": 3,
       "Value": "（所有队伍）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
-    },
-    {
-      "Level": 2,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
-    },
-    {
-      "Level": 3,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
     },
     {
       "Level": 1,
@@ -161,12 +81,6 @@
       "Id": "gub1",
       "Type": 3,
       "Value": "进一步提高所有海军单位的攻击力。"
-    },
-    {
-      "Level": 4,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
     }
   ],
   "NewId": "R00C"

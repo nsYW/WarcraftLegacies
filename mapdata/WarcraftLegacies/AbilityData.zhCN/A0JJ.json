@@ -5,32 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 180
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Imps",
-      "Value": 2500
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ihps",
-      "Value": 2500
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（太阳之井的井水）"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPoTN_Sanctity_Potion.blp"
     },
     {
       "Id": "anam",

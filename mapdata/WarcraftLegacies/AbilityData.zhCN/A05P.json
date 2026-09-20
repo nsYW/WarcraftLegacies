@@ -5,24 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "self"
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（治疗尖塔）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "D"
     },
     {
       "Id": "anam",

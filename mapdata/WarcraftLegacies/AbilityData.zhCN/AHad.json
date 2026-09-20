@@ -5,56 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 450
-    },
-    {
-      "Level": 2,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 450
-    },
-    {
-      "Level": 3,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 450
-    },
-    {
-      "Level": 4,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 450
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Had1",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Had1",
-      "Type": 2,
-      "Value": 2.5
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（洛丹伦-乌瑟尔-督察伊德拉克斯）"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 4,

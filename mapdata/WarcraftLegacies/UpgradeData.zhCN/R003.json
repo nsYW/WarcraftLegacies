@@ -5,49 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 20
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "u022"
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNEvolveExplode.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（兽人部落）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "S"
     },
     {
       "Level": 1,
@@ -66,10 +27,6 @@
       "Id": "gub1",
       "Type": 3,
       "Value": "将你当前控制的所有工人转化为士兵。"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
     }
   ],
   "NewId": "R003"

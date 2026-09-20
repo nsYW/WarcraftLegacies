@@ -5,37 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A0I7,AItf,AIsx,AIa6"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "A02X"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "isel",
-      "Value": 0
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSpiritWalkerMasterTraining.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "提高攻击力与攻击速度。"

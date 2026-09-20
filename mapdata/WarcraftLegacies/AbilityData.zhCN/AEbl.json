@@ -5,79 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 14
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 7
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 25
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ebl1",
-      "Type": 2,
-      "Value": 400
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Ebl1",
-      "Type": 2,
-      "Value": 500
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Ebl1",
-      "Type": 2,
-      "Value": 600
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Ebl1",
-      "Type": 2,
-      "Value": 700
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（洛瑟玛）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "arut",

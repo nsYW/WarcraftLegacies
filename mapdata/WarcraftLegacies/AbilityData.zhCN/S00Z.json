@@ -5,17 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R00K"
-    },
-    {
-      "Level": 1,
-      "Id": "Cha1",
-      "Type": 3,
-      "Value": "o071"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（战歌 - 投斧手升级为暗矛狂战士）"

@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "glob",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSteelRanged.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,

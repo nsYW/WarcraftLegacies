@@ -5,83 +5,15 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Dda2",
-      "Type": 2,
-      "Value": 500
-    },
-    {
-      "Level": 1,
-      "Pointer": 4,
-      "Id": "Dda4",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Id": "alev",
-      "Value": 2
-    },
-    {
-      "Level": 2,
-      "Pointer": 6,
-      "Id": "Uco6",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 2,
-      "Pointer": 2,
-      "Id": "Dda2",
-      "Type": 2,
-      "Value": 1000
-    },
-    {
-      "Level": 2,
-      "Pointer": 4,
-      "Id": "Dda4",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 2,
-      "Pointer": 3,
-      "Id": "Dda3",
-      "Type": 2,
-      "Value": 350
-    },
-    {
-      "Level": 2,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 400
-    },
-    {
-      "Level": 2,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,neutral,enemy"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（粉色 - 巨魔蝙蝠骑士）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,
       "Id": "atp1",
       "Type": 3,
       "Value": "不稳定化合物 - [|cffffcc00级别 1|r]"
-    },
-    {
-      "Id": "auhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 2,

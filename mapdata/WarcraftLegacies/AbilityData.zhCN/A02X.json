@@ -5,27 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 12
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Id": "aite",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（费洛梅恩）"

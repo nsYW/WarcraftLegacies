@@ -5,36 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ocr2",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ocr1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（日怒、暴风城）"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 1,
@@ -48,23 +21,10 @@
       "Value": "奥术吸收"
     },
     {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures/PassiveButtons/PASArcaneEnergy.blp"
-    },
-    {
       "Level": 1,
       "Id": "atp1",
       "Type": 3,
       "Value": "奥术吸收"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
     }
   ],
   "NewId": "A11N"

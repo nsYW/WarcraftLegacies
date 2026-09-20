@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "召唤驻军"
@@ -18,11 +13,6 @@
       "Id": "fnsf",
       "Type": 3,
       "Value": "（洛丹伦/暴风城）"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCallToArms.blp"
     }
   ],
   "NewId": "B09K"

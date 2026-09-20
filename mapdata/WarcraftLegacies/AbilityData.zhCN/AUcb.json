@@ -5,55 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 30
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 30
-    },
-    {
-      "Level": 4,
-      "Pointer": 5,
-      "Id": "Ucb5",
-      "Value": 12
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 30
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 30
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Rai1",
-      "Value": 4
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（红色 - 阿努巴拉克）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Id": "arut",

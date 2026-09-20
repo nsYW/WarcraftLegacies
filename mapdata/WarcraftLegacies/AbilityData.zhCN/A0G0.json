@@ -5,58 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "achd",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 120
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ucs1",
-      "Type": 2,
-      "Value": 70
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ucs2",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ucs3",
-      "Type": 2,
-      "Value": 500
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R01O"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（库尔提拉斯 - 海巨人）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

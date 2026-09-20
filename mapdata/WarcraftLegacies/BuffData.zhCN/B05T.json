@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpOne.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "鼓舞"

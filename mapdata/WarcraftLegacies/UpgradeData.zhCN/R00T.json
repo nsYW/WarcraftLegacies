@@ -5,49 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gglb",
-      "Value": 100
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "h07G"
-    },
-    {
-      "Id": "gtib",
-      "Value": 45
-    },
-    {
-      "Id": "glmb",
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNEngineeringUpgrade.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 3
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（铁炉堡 蒸汽坦克）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "V"
     },
     {
       "Level": 1,

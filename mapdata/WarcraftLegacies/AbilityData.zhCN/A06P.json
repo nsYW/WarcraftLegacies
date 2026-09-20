@@ -5,23 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "abpx",
-      "Value": 2
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（恐惧魔王）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 1,

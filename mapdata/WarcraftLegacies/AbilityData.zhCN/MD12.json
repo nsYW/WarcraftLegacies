@@ -5,42 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "Rpb6",
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 3
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Rej2",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 1,
-      "Pointer": 5,
-      "Id": "Rpb5",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（奎尔萨拉斯 - 奥术货车）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
-      "Id": "auhk",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

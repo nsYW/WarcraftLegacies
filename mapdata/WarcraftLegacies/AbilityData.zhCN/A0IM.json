@@ -5,45 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 350
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ocl1",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ocl3",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 550
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（绿色 - 奥，凯尔的凤凰召唤物）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "anam",

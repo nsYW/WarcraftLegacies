@@ -5,46 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Eah1",
-      "Type": 2,
-      "Value": 0.08
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Eah1",
-      "Type": 2,
-      "Value": 0.16
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Eah1",
-      "Type": 2,
-      "Value": 0.24
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Eah1",
-      "Type": 2,
-      "Value": 0.32
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（棕色 - 塞纳留斯）"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Id": "arut",

@@ -5,29 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（苔丝）"
-    },
-    {
-      "Id": "abpx",
-      "Value": 2
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
     }
   ],
   "NewId": "STJW"

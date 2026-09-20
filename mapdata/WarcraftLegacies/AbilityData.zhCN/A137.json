@@ -5,34 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures/PassiveButtons/PASweapon_sword.blp"
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（国王阿尔萨斯）"
@@ -41,15 +13,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "洛丹伦国王之剑"
-    },
-    {
-      "Id": "arpx",
-      "Value": 0
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "T"
     },
     {
       "Level": 1,

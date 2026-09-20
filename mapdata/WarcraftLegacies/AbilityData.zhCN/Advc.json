@@ -5,13 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Dev2",
-      "Type": 2,
-      "Value": 5000
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（粉色 - 科多兽。青色 - 黑龙）"

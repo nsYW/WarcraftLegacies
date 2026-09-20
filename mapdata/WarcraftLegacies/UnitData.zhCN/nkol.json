@@ -5,22 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ua1b",
-      "Value": 38
-    },
-    {
-      "Id": "uhpm",
-      "Value": 800
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "拥有统御光环的重型近战单位。可猛击敌人。"

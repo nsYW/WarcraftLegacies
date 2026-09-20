@@ -5,35 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "AIt6,A0E5"
-    },
-    {
-      "Id": "igol",
-      "Value": 50
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Purchasable"
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUsedSoulGem.blp"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "Z"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "购买闪电宝珠"

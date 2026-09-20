@@ -5,59 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Id": "gba3",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gco2",
-      "Type": 3,
-      "Value": "h03U"
-    },
-    {
-      "Id": "gco3",
-      "Type": 3,
-      "Value": "A094"
-    },
-    {
-      "Id": "gglb",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 5
-    },
-    {
-      "Id": "gtib",
-      "Value": 20
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "naga"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNEnsnare.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（伊利达雷）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,

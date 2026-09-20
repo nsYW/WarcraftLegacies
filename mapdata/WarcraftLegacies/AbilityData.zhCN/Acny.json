@@ -5,45 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "arqa",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 0.5
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（救赎的上层精灵）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

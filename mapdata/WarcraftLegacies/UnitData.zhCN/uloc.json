@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ua1c",
-      "Type": 2,
-      "Value": 0.5
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "训练蝗虫"

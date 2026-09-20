@@ -5,22 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ocr1",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（雷德·黑手，剑圣）"

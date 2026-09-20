@@ -5,40 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 150
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "R00O,o02S"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\btnmassbloodlust.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（霜狼）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "C"
     },
     {
       "Level": 1,

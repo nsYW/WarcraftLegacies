@@ -5,25 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 1000
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Eim2",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,enemies,ground,nonancient,ward"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（射程 1000）"

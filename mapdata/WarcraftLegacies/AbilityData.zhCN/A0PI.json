@@ -5,37 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Def1",
-      "Type": 2,
-      "Value": 0.8
-    },
-    {
-      "Level": 1,
-      "Pointer": 5,
-      "Id": "Def5",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Pointer": 7,
-      "Id": "Def7",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\pasNecromancy.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（所有骷髅）"

@@ -5,29 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 80
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Emb1",
-      "Type": 2,
-      "Value": 350
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（托尔卡拉）"

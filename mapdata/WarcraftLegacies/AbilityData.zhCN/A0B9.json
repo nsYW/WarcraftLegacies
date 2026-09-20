@@ -5,27 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "achd",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Eev1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R098"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（邪兽人步兵）"
@@ -46,11 +25,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "邪能骷髅"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASSkeletalOrcGrunt.blp"
     }
   ],
   "NewId": "A0B9"

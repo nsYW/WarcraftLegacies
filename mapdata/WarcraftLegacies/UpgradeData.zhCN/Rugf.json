@@ -5,14 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,

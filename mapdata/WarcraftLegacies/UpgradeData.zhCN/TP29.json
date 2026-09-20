@@ -5,40 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 5
-    },
-    {
-      "Id": "gtib",
-      "Value": 35
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "h07G"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNArtilleryAttack.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（铁炉堡）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "D"
     },
     {
       "Level": 1,
@@ -57,10 +27,6 @@
       "Id": "gub1",
       "Type": 3,
       "Value": "将蒸汽坦克升级为远程火炮，提高其攻击距离和伤害，并赋予火箭弹幕，使其攻击时向附近的敌方空中单位发射额外弹幕。|n|n|cffc864c8无法与火焰喷射器同时研究。|r\n"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
     }
   ],
   "NewId": "TP29"

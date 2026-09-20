@@ -5,10 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uhpm",
-      "Value": 280
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "轻型远程单位。"

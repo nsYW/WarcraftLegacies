@@ -5,32 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Hbh3",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 0.01
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 0.4
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hbh1",
-      "Type": 2,
-      "Value": 100
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（接舷战船）"
@@ -51,11 +25,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "接舷"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBridgeDown.blp"
     }
   ],
   "NewId": "A100"

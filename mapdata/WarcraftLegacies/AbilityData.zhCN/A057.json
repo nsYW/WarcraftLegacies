@@ -5,95 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 12
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 12
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hfa1",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Hfa1",
-      "Type": 2,
-      "Value": 35
-    },
-    {
-      "Id": "alev",
-      "Value": 2
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 90
-    },
-    {
-      "Level": 2,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 90
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "enemies,ground,neutral,structure"
-    },
-    {
-      "Level": 2,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "enemies,ground,neutral,structure"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\ATCNorthSword.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "acat",
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\FarseerMissile\\FarseerMissile.mdl"
-    },
-    {
-      "Id": "acap",
-      "Type": 3,
-      "Value": "weapon"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（达拉然 - 战斗法师）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
-      "Id": "amat",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": "anam",
@@ -123,20 +37,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "攻击敌人时造成<A057,DataA2>点额外伤害，但每次攻击都会消耗法力值。"
-    },
-    {
-      "Id": "auar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\ATCNorthSword.blp"
-    },
-    {
-      "Id": "aubx",
-      "Value": 0
-    },
-    {
-      "Id": "auhk",
-      "Type": 3,
-      "Value": "Q"
     }
   ],
   "NewId": "A057"

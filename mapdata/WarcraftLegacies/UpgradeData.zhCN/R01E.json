@@ -5,24 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 125
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（洛丹伦）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,
@@ -41,12 +27,6 @@
       "Id": "gnam",
       "Type": 3,
       "Value": "空中枷锁"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMagicLariet.blp"
     }
   ],
   "NewId": "R01E"

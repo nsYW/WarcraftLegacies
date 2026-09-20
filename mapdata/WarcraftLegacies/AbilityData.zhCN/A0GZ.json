@@ -5,31 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Uav1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "self"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（蓝色 - 恐惧魔王图标）"
@@ -38,16 +13,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "吸血攻击"
-    },
-    {
-      "Id": "atat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ata0",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,
@@ -60,10 +25,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "该单位会将所造成的伤害的 50% 转化为生命值。"
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
     }
   ],
   "NewId": "A0GZ"

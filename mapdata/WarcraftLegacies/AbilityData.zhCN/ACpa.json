@@ -5,18 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "(邪能部落"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "anam",
@@ -28,15 +19,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "虚空寄生虫"
-    },
-    {
-      "Id": "aubx",
-      "Value": 1
-    },
-    {
-      "Id": "auhk",
-      "Type": 3,
-      "Value": "W"
     }
   ]
 }

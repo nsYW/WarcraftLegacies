@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "creeps"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "烈焰护盾"
@@ -23,16 +18,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "烈焰护盾（拉格纳罗斯）"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Other\\ImmolationRed\\ImmolationRedTarget.mdl"
-    },
-    {
-      "Id": "fsat",
-      "Type": 3,
-      "Value": ""
     }
   ],
   "NewId": "B03E"

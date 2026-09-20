@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "other"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMoonlight.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "月光束光环"

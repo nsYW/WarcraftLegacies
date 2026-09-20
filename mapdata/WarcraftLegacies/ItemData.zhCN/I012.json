@@ -5,58 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "AIvl,A0AL,AItx"
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Artifact"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "AIvl"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ilev",
-      "Value": 8
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "ipri",
-      "Value": 200
-    },
-    {
-      "Id": "isel",
-      "Value": 0
-    },
-    {
-      "Id": "iusa",
-      "Value": 1
-    },
-    {
-      "Id": "idro",
-      "Value": 0
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNAshbringer2.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "提高攻击力，并提供生命窃取。可使用圣盾术。"

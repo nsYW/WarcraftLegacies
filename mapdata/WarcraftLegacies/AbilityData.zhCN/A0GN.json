@@ -5,67 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Uls3",
-      "Value": 8
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Id": "Ulsu",
-      "Type": 3,
-      "Value": "u01L"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "e00L"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNGhost.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（浅蓝色 - 主基地建筑）"
     },
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "X"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "先祖之魂"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "aret",

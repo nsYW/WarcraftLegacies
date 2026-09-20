@@ -8,11 +8,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "虚空冰雹（效果）"
-    },
-    {
-      "Id": "feat",
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Undead\\DarkRitual\\DarkRitualTarget.mdl"
     }
   ],
   "NewId": "X00L"

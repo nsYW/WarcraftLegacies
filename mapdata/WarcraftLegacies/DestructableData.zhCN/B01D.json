@@ -5,19 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "bhps",
-      "Type": 2,
-      "Value": 1500
-    },
-    {
       "Id": "bsuf",
       "Type": 3,
       "Value": "（达拉然）"
-    },
-    {
-      "Id": "bmas",
-      "Type": 2,
-      "Value": 10
     }
   ],
   "NewId": "B01D"

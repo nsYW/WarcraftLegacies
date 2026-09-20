@@ -5,60 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ssk2",
-      "Type": 2,
-      "Value": 7
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ssk3",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "arlv",
-      "Value": 1
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（加林·托尔贝恩）"
     },
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "硬化"
-    },
-    {
-      "Id": "arar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNShieldHumanLionMark.BLP"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Id": "aret",

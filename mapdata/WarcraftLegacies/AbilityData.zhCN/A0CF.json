@@ -5,67 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Uts1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Uts1",
-      "Type": 2,
-      "Value": 0.2
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Uts1",
-      "Type": 2,
-      "Value": 0.4
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Uts3",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 2,
-      "Pointer": 3,
-      "Id": "Uts3",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Level": 3,
-      "Pointer": 3,
-      "Id": "Uts3",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "Rosp"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNSpikedBarricades.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（部落）"
@@ -74,11 +13,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "尖刺障碍"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "arut",

@@ -5,36 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 100
-    },
-    {
-      "Id": "ginh",
-      "Value": 1
-    },
-    {
-      "Id": "gtib",
-      "Value": 140
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "S"
-    },
-    {
       "Level": 1,
       "Id": "gub1",
       "Type": 3,

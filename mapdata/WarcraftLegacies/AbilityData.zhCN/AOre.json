@@ -5,42 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "acas",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Level": 3,
-      "Id": "acas",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 180
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 120
-    },
-    {
-      "Id": "alev",
-      "Value": 3
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（萨鲁法尔）"

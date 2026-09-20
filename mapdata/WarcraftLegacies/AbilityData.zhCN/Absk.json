@@ -5,33 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "bsk1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "bsk2",
-      "Type": 2,
-      "Value": 0.6
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（通用技能）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

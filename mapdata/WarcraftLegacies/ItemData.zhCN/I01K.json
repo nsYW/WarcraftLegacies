@@ -5,41 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "AIaz"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "AIfu"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHeartOfSearinox.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "恶魔之魂的碎片，提供敏捷加成。"
-    },
-    {
-      "Id": "ifil",
-      "Type": 3,
-      "Value": "Objects\\InventoryItems\\tome\\tome.mdl"
     },
     {
       "Id": "utub",

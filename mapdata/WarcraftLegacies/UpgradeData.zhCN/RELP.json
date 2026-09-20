@@ -5,35 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gglb",
-      "Value": 75
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "n05W"
-    },
-    {
       "Level": 1,
       "Id": "gnam",
       "Type": 3,
       "Value": "电击之刃"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPhaseBlade.blp"
     },
     {
       "Level": 1,
@@ -49,19 +24,9 @@
     },
     {
       "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
-    },
-    {
-      "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（天空之墙）"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
     }
   ],
   "NewId": "RELP"

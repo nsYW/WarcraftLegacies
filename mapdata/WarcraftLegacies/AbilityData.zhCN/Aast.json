@@ -5,38 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "ast1",
-      "Type": 2,
-      "Value": 0.7
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 600
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 150
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（粉色 - 灵魂行者）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 1,

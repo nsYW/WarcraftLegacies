@@ -5,27 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Eah1",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "B032"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "惩戒光环"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASRetriAura.blp"
     },
     {
       "Id": "ansf",

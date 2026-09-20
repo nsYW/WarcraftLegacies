@@ -5,18 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "achd",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（霜狼 - 战歌 - 地洞）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "anam",

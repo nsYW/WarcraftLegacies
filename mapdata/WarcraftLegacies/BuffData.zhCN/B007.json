@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNAnimalWarTraining.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "集结"

@@ -5,45 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A0BT,A0W0"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "AIse"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "iusa",
-      "Value": 1
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNBookOfTheDead.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "强大的法术书，能够召唤出燃烧军团。提供额外智力，并可施放沉默。"
-    },
-    {
-      "Id": "ifil",
-      "Type": 3,
-      "Value": "Objects\\InventoryItems\\tomeRed\\tomeRed.mdl"
     },
     {
       "Id": "utub",

@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanCaptureFlag.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "集结于国王麾下！"

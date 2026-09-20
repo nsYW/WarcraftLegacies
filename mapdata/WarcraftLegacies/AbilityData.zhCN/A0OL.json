@@ -5,44 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 150
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hbz1",
-      "Value": 3
-    },
-    {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 125
-    },
-    {
-      "Id": "achd",
-      "Value": 1
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSpell_Shadow_RainOfFire.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（暮锤氏族）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

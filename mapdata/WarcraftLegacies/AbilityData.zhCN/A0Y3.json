@@ -5,53 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Poi1",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Poi2",
-      "Type": 2,
-      "Value": 0.25
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Poi3",
-      "Type": 2,
-      "Value": 0.25
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 0.5
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNPoisonSting.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（克苏恩 - 异种巨像）"

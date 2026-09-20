@@ -5,97 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 125
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 90
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 105
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 120
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Hwe2",
-      "Value": 4
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Hwe2",
-      "Value": 4
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Hwe2",
-      "Value": 4
-    },
-    {
-      "Level": 1,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "o04T"
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "naga"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（赞达拉）"
-    },
-    {
-      "Id": "arpx",
-      "Value": 0
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "arut",
@@ -154,11 +66,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "白骨图腾"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNBigBadTotem.blp"
     }
   ],
   "NewId": "A0OQ"

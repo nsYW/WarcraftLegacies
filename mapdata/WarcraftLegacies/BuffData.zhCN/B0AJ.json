@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWyvern.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "乘风而去！"
@@ -18,25 +13,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "乘风而去！"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Items\\AIsp\\SpeedTarget.mdl"
-    },
-    {
-      "Id": "fta0",
-      "Type": 3,
-      "Value": "overhead"
-    },
-    {
-      "Id": "fta1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ftac",
-      "Value": 1
     },
     {
       "Id": "fube",

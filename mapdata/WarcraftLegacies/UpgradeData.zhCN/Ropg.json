@@ -5,24 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gbpx",
-      "Value": 3
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（粉色/灰色研究）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Level": 1,

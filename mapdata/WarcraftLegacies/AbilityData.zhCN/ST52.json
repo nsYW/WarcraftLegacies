@@ -5,43 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Eev1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Eev1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Eev1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Eev1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（天灾）"
@@ -56,16 +19,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "亡者大军 - [|cffffcc00级别 4|r]"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBTNWC1RaiseDeadRemastered.blp"
-    },
-    {
-      "Id": "arar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWC1RaiseDeadRemastered.blp"
     },
     {
       "Id": "aret",

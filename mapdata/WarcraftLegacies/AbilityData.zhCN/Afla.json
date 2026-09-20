@@ -5,20 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 1550
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（卡兹莫丹 - 迫击炮小队）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

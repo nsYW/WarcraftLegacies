@@ -5,135 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 95
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Hhb1",
-      "Type": 2,
-      "Value": 800
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,nonancient,organic,vulnerable"
-    },
-    {
-      "Level": 2,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,nonancient,organic,vulnerable"
-    },
-    {
-      "Level": 3,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,nonancient,organic,vulnerable"
-    },
-    {
-      "Level": 4,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,nonancient,organic,vulnerable"
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 2,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 3,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hhb1",
-      "Type": 2,
-      "Value": 400
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Hhb1",
-      "Type": 2,
-      "Value": 600
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Hhb1",
-      "Type": 2,
-      "Value": 800
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（萨莉）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "R"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "arut",
@@ -174,14 +48,6 @@
       "Id": "aret",
       "Type": 3,
       "Value": "学习迅捷圣光术 - [|cffffcc00等级 %d|r]"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
-      "Id": "arpx",
-      "Value": 3
     },
     {
       "Level": 1,

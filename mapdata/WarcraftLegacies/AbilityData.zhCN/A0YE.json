@@ -5,37 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ocr1",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Pointer": 4,
-      "Id": "Ocr4",
-      "Type": 2,
-      "Value": 0.15
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（克苏恩守卫，剑主）"

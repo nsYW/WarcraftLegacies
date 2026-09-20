@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "卸载"

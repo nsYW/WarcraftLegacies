@@ -5,45 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 100
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 35
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "u021"
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNAbsorb.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（克苏恩）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "C"
     },
     {
       "Level": 1,

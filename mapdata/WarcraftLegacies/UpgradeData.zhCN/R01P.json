@@ -5,59 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "Aens"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "gtib",
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "hcas"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（洛丹伦）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
     },
     {
       "Level": 1,

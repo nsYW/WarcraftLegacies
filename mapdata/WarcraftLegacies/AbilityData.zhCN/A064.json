@@ -5,31 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hbh1",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Hbh3",
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（领主、食人魔领主、牛头人角斗士）"

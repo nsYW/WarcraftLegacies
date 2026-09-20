@@ -5,57 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "Bapl"
-    },
-    {
-      "Level": 2,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "Bapl"
-    },
-    {
-      "Level": 2,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 16
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Id": "alev",
-      "Value": 2
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "debris,enemies,ground,organic,structure,tree,wall"
-    },
-    {
-      "Level": 2,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "debris,enemies,ground,organic,structure,tree,wall"
-    },
-    {
-      "Level": 2,
-      "Id": "hwdu",
-      "Type": 3,
-      "Value": "u00B"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（红色 - 清道夫）"

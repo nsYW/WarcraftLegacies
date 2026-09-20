@@ -5,24 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNbigbadvoodoo2.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "巫毒恢复"
-    },
-    {
-      "Id": "fsat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": "Abilities\\Spells\\Orc\\Voodoo\\VoodooAura.mdl"
     },
     {
       "Id": "fube",

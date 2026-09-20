@@ -5,49 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 175
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Adm2",
-      "Type": 2,
-      "Value": 250
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,structure,tree,vulnerable,ward"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "Rune"
-    },
-    {
-      "Id": "arqa",
-      "Type": 3,
-      "Value": "1"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（天灾 - 通灵师）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

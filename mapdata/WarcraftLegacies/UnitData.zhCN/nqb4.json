@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ucol",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Id": "upgr",
-      "Type": 3,
-      "Value": "Rhme,Rhar"
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（等级 4）（灰色 - 雷克萨召唤）"

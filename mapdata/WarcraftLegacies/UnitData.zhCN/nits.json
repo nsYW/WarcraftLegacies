@@ -5,27 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "ACev,Absk"
-    },
-    {
-      "Id": "ufoo",
-      "Value": 1
-    },
-    {
-      "Id": "uhpm",
-      "Value": 675
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "中型远程单位。"

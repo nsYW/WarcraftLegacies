@@ -5,73 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "B02M"
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "bsk1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "bsk2",
-      "Type": 2,
-      "Value": 0.7
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "bsk3",
-      "Type": 2,
-      "Value": 0.15
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R00T"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNEngineeringUpgrade.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（铁炉堡 - 蒸汽坦克）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "D"
     },
     {
       "Id": "anam",

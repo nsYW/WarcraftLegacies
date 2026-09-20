@@ -5,34 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ndr1",
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 4
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（被遗忘者）"
@@ -48,11 +20,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "吸收目标敌方单位的生命精华，每秒抽取其 40 点生命值并将其给予施法者。 |n持续 10 秒。（英雄为 4 秒）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "anam",

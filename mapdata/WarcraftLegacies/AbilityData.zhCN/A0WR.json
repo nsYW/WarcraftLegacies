@@ -5,62 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "arqa",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": "hwdu",
-      "Type": 3,
-      "Value": "o02A"
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "BFig"
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "naga"
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 80
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 650
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 25
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（天空之墙）"
@@ -81,25 +25,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "疾风守卫"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNWindOrb.blp"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "aeat",
-      "Type": 3,
-      "Value": "Wind Blast.mdx"
     }
   ],
   "NewId": "A0WR"

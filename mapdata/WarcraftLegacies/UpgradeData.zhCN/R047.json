@@ -5,44 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gtib",
-      "Value": 30
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A13W"
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "etoe"
-    },
-    {
-      "Id": "gglb",
-      "Value": 50
-    },
-    {
       "Level": 1,
       "Id": "gub1",
       "Type": 3,
@@ -61,30 +23,10 @@
       "Value": "致残毒药"
     },
     {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（德鲁伊）"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCripplingVenom.blp"
     }
   ],
   "NewId": "R047"

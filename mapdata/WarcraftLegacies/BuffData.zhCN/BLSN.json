@@ -8,11 +8,6 @@
       "Id": "ftip",
       "Type": 3,
       "Value": "寒冰陷阱"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTrap_of_Ice.blp"
     }
   ],
   "NewId": "BLSN"

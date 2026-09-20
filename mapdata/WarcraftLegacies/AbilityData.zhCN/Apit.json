@@ -5,10 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "achd",
-      "Value": 1
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "商店购买物品"

@@ -5,28 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "igol",
-      "Value": 16
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ista",
-      "Value": 5
-    },
-    {
-      "Id": "isto",
-      "Value": 3
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "S"
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "使用时恢复 175 点魔法值。"

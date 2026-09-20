@@ -5,52 +5,10 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "glmm",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRune.blp"
-    },
-    {
-      "Level": 2,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNStaffOfNegation.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（洛丹伦-白银之手）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "C"
-    },
-    {
-      "Level": 2,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "C"
     },
     {
       "Level": 1,

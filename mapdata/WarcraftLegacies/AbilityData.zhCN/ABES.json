@@ -5,62 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "debris,enemies,ground,organic,structure,tree,wall"
-    },
-    {
-      "Level": 1,
-      "Id": "hwdu",
-      "Type": 3,
-      "Value": "o04Z"
-    },
-    {
-      "Level": 2,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "Bapl,Bplg"
-    },
-    {
-      "Level": 2,
-      "Id": "hwdu",
-      "Type": 3,
-      "Value": "rt4E"
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 2,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 2,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "debris,enemies,ground,organic,structure,tree,wall"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASFacelessOneWidow.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（图标 - 冥河巨兽）"

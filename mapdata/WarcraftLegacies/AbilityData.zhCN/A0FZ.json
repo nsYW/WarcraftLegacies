@@ -5,48 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 200
-    },
-    {
-      "Id": "abpx",
-      "Value": 2
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（库尔提拉斯 - 风暴巫师、伊利丹 - 海巫）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Id": "arut",

@@ -5,24 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "aub1",
       "Type": 3,
       "Value": "该单位的技能消耗油料，而非法力值。"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASOil.blp"
     },
     {
       "Id": "anam",

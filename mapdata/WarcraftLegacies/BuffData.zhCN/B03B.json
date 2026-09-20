@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCloudOfFog.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "烟雾弹"
@@ -33,16 +23,6 @@
       "Id": "fnsf",
       "Type": 3,
       "Value": "（哨兵）"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "fta0",
-      "Type": 3,
-      "Value": "chest"
     }
   ],
   "NewId": "B03B"

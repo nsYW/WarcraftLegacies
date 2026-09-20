@@ -5,30 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 175
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gglb",
-      "Value": 100
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Level": 1,
       "Id": "gnam",
       "Type": 3,
@@ -39,16 +15,6 @@
       "Id": "gtp1",
       "Type": 3,
       "Value": "研究强化月亮井"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "F"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
     },
     {
       "Level": 1,

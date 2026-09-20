@@ -5,39 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "urac",
-      "Type": 3,
-      "Value": "naga"
-    },
-    {
-      "Id": "ua1b",
-      "Value": 105
-    },
-    {
-      "Id": "ua1c",
-      "Type": 2,
-      "Value": 1.7
-    },
-    {
-      "Id": "umvt",
-      "Type": 3,
-      "Value": "foot"
-    },
-    {
-      "Id": "ucol",
-      "Type": 2,
-      "Value": 16
-    },
-    {
-      "Id": "uhpm",
-      "Value": 600
-    },
-    {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "A0LW,AInv"
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（变形 - 等级 2 - 伊利达雷）"

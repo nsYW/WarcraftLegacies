@@ -5,24 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNIceFissure.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "寒冰屏障"
-    },
-    {
-      "Id": "fube",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": "fnam",

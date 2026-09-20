@@ -5,24 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "igol",
-      "Value": 16
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ista",
-      "Value": 5
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "A"
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "使用时恢复 400 点生命值。"

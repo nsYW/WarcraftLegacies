@@ -5,81 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 75
-    },
-    {
-      "Id": "gglm",
-      "Value": 100
-    },
-    {
-      "Id": "ginh",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "glvl",
-      "Value": 3
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "R041"
-    },
-    {
-      "Id": "gtib",
-      "Value": 90
-    },
-    {
-      "Id": "gtim",
-      "Value": 30
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A0I8"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMage 01.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（邪部落）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,
@@ -134,34 +63,6 @@
       "Id": "gnam",
       "Type": 3,
       "Value": "血符文"
-    },
-    {
-      "Level": 2,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
-    },
-    {
-      "Level": 3,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
-    },
-    {
-      "Level": 2,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMage 02.blp"
-    },
-    {
-      "Level": 3,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNMage 03.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
     }
   ],
   "NewId": "R03O"

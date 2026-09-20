@@ -5,50 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ebl1",
-      "Type": 2,
-      "Value": 800
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ebl2",
-      "Type": 2,
-      "Value": 175
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（淡蓝色 - 伊利丹）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "D"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "D"
     },
     {
       "Level": 1,

@@ -5,59 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Pointer": 4,
-      "Id": "Nab4",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 1,
-      "Pointer": 5,
-      "Id": "Nab5",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 12
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（战歌 - 蝙蝠骑士）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 1,

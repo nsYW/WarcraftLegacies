@@ -5,14 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（奎尔萨拉斯 - 日怒战士）"

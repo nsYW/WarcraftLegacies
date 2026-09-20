@@ -5,20 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASBreatheFire.blp"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "灼热撕咬"

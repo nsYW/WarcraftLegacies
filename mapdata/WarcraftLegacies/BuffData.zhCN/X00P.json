@@ -5,21 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "feat",
-      "Type": 3,
-      "Value": "war3mapImported\\Cannonball D Rain.mdx"
-    },
-    {
-      "Id": "fefs",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "fefl",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "fnam",
       "Type": 3,
       "Value": "天降金雨（效果）"

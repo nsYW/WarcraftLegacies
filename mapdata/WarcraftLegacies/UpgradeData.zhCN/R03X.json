@@ -5,38 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 200
-    },
-    {
-      "Id": "ginh",
-      "Value": 1
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 120
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRagnarFlamebeard.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（阿拉索 - T3）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "C"
     },
     {
       "Level": 1,

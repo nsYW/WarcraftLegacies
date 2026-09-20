@@ -5,26 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 60
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTelescope.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（黑暗之门飞艇）"

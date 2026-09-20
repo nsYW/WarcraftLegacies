@@ -5,14 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "abpy",
-      "Value": -11
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（神圣护甲）"

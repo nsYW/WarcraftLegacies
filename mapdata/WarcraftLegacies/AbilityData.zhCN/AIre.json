@@ -5,12 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 100
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（500 点生命值 200 点魔法值）"

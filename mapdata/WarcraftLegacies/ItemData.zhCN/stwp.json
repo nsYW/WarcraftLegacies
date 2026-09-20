@@ -5,44 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A002"
-    },
-    {
-      "Id": "igol",
-      "Value": 185
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ista",
-      "Value": 3
-    },
-    {
-      "Id": "isst",
-      "Value": 900
-    },
-    {
-      "Id": "ubpx",
-      "Value": 3
-    },
-    {
-      "Id": "ubpy",
-      "Value": 0
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "将部队运送至一处己方单位或建筑。"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "utip",
@@ -53,11 +18,6 @@
       "Id": "utub",
       "Type": 3,
       "Value": "将英雄及其附近的所有部队传送至目标己方建筑。|n|n|cffe8e800施法时间为<A002,DataB1>秒。|r"
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHealingScrollVariation.blp"
     },
     {
       "Id": "unam",

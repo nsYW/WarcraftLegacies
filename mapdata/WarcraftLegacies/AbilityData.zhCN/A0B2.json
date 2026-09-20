@@ -5,44 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 600
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Had1",
-      "Type": 2,
-      "Value": 4
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "(末日守卫、卡扎克、食人魔领主"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 1,

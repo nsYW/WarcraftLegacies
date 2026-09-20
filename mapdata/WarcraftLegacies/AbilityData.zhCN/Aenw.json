@@ -5,47 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "achd",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 95
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 12
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 0.2
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "enemies,ground,neutral,organic"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（棕色 - 猛禽德鲁伊）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

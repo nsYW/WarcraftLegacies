@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNGruntWarcry.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "战歌攻势"
@@ -23,11 +18,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "战歌攻势"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
     }
   ],
   "NewId": "B094"

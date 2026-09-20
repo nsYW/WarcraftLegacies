@@ -5,24 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "arqa",
-      "Type": 3,
-      "Value": "3"
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R07M"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（炼金术士）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "anam",
@@ -34,10 +19,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "凝固汽油"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
     },
     {
       "Level": 1,

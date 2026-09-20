@@ -5,53 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 150
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Id": "gtib",
-      "Value": 35
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "R09X,etoe"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNRavenForm.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（德鲁伊）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "S"
     },
     {
       "Level": 1,

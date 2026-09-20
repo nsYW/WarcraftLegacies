@@ -5,72 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Nso1",
-      "Type": 2,
-      "Value": 7.5
-    },
-    {
-      "Level": 1,
-      "Pointer": 4,
-      "Id": "Nso4",
-      "Type": 2,
-      "Value": 0.75
-    },
-    {
-      "Level": 1,
-      "Pointer": 5,
-      "Id": "Nso5",
-      "Type": 2,
-      "Value": 0.5
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 3
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 99999
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（扭曲诅咒）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

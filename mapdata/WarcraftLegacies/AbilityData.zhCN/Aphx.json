@@ -5,12 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 20
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（奎尔萨拉斯）"

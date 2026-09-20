@@ -5,139 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 60
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 90
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 120
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 200
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 2,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 600
-    },
-    {
-      "Level": 3,
-      "Pointer": 2,
-      "Id": "Hav2",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 2,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 40
-    },
-    {
-      "Level": 3,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 60
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 2,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 45
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Hav1",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Hav3",
-      "Type": 2,
-      "Value": 45
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（暮光战斗法师）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "aret",
@@ -174,33 +44,10 @@
       "Value": "激活天神下凡，使山丘之王获得<AHav,DataA3>点额外护甲、<AHav,DataB3>点额外生命值、<AHav,DataC3>点额外伤害和法术免疫。|n持续<AHav,Dur3>秒。"
     },
     {
-      "Id": "auhk",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
       "Level": 1,
       "Id": "aub1",
       "Type": 3,
       "Value": "激活天神下凡，使战斗大师获得 20 点额外护甲、500 点额外生命值、45 点额外伤害和法术免疫。|n持续 15 秒。"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "aubx",
-      "Value": 0
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOgreAvatar.blp"
-    },
-    {
-      "Id": "auar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOgreAvatar.blp"
     },
     {
       "Id": "anam",

@@ -5,13 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Eev1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "不屈灵魂"
@@ -34,11 +27,6 @@
       "Value": "（天灾 - 亡魂）"
     },
     {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASSoulBinding.blp"
-    },
-    {
       "Level": 2,
       "Id": "aub1",
       "Type": 3,
@@ -49,10 +37,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "不屈灵魂 - [|cffffcc002级|r]"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
     }
   ],
   "NewId": "A05L"

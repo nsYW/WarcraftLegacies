@@ -5,12 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "gnam",
       "Type": 3,
       "Value": "狂战士升级"

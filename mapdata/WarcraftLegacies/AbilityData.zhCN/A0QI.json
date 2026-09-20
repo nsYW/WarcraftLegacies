@@ -5,70 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "e027"
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 65
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（血色）"
-    },
-    {
-      "Id": "arpx",
-      "Value": 0
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,
@@ -86,11 +25,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "部署投石机"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTrebuchet.blp"
     }
   ],
   "NewId": "A0QI"

@@ -13,11 +13,6 @@
       "Id": "ftip",
       "Type": 3,
       "Value": "万能枷锁"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNEnchantedChains.blp"
     }
   ],
   "NewId": "B009"

@@ -5,27 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "flk1",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "flk2",
-      "Type": 2,
-      "Value": 90
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "flk3",
-      "Type": 2,
-      "Value": 65
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（卡兹莫丹 - 迫击炮小队）"

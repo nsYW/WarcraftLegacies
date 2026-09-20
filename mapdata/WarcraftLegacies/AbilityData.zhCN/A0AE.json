@@ -5,53 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 4000
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "B00F"
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Had1",
-      "Type": 2,
-      "Value": -4
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,enemies,ground,invulnerable,organic,vulnerable"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASUnholy.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "ansf",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "暗影迷宫"
-    },
-    {
-      "Id": "atat",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,

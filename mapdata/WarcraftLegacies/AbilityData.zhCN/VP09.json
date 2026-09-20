@@ -5,73 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 175
-    },
-    {
-      "Level": 2,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 225
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 55
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Adm2",
-      "Type": 2,
-      "Value": 250
-    },
-    {
-      "Level": 2,
-      "Pointer": 2,
-      "Id": "Adm2",
-      "Type": 2,
-      "Value": 250
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "TP42"
-    },
-    {
-      "Level": 2,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 700
-    },
-    {
-      "Level": 2,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,structure,tree,vulnerable,ward"
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "air,ground,invulnerable,structure,tree,vulnerable,ward"
-    },
-    {
-      "Id": "arqa",
-      "Type": 3,
-      "Value": "1"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（铁炉堡）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

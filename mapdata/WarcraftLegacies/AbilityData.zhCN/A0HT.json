@@ -5,71 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 30
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Rai1",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "Raiu",
-      "Type": 3,
-      "Value": "o05N"
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Rai3",
-      "Type": 3,
-      "Value": "o05N"
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "BFig"
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "allies,dead,friend"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（德鲁伊 - 猛禽）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,
@@ -78,29 +16,9 @@
       "Value": "重生轮回"
     },
     {
-      "Id": "auhk",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "重生轮回"
-    },
-    {
-      "Id": "aeat",
-      "Type": 3,
-      "Value": "war3mapImported\\Heal Green.mdx"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\ATCHealingPlants.blp"
-    },
-    {
-      "Id": "auar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\ATCHealingPlants.blp"
     },
     {
       "Level": 1,

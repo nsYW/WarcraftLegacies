@@ -5,12 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 100
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（战歌 - 地精地雷）"

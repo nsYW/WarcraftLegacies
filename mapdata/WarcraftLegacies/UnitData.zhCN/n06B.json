@@ -5,15 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "Avul,A0H9,Atsp,Aasl"
-    },
-    {
-      "Id": "umvs",
-      "Value": 200
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（等级 3）"

@@ -5,18 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 20
-    },
-    {
-      "Id": "gtib",
-      "Value": 5
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
@@ -33,18 +21,6 @@
       "Id": "gnam",
       "Type": 3,
       "Value": "盘牙召唤者"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNNagaSummoner.blp"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "C"
     },
     {
       "Level": 1,

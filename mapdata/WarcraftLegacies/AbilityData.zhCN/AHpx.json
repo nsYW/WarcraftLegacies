@@ -5,69 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 200
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 250
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 300
-    },
-    {
-      "Id": "alev",
-      "Value": 3
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Level": 2,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "h04D"
-    },
-    {
-      "Level": 3,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "h04Y"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（奎尔萨拉斯-安纳斯特里亚-凯尔萨斯）"
     },
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "R"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "奥的灰烬"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "aret",

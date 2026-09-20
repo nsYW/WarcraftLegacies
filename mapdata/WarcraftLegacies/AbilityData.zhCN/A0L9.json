@@ -5,130 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 2,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 3,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 4,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 17
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 17
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 17
-    },
-    {
-      "Level": 4,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 17
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 75
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 95
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 115
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 130
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Level": 1,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "o01Z"
-    },
-    {
-      "Level": 2,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "o01Y"
-    },
-    {
-      "Level": 3,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "o01W"
-    },
-    {
-      "Level": 4,
-      "Id": "Hwe1",
-      "Type": 3,
-      "Value": "o01X"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNNightElfCaptureFlag.blp"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（淡蓝色 - 珊蒂斯）"
     },
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "哨兵战旗"
-    },
-    {
-      "Id": "arar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNNightElfCaptureFlag.blp"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Id": "aret",

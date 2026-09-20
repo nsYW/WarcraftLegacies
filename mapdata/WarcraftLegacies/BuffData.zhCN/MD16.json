@@ -5,24 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "fsat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
       "Id": "fnam",
       "Type": 3,
       "Value": "狼人之咬"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASWorgenHotClaws.blp"
     },
     {
       "Id": "ftip",

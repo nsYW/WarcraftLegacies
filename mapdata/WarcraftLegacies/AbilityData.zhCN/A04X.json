@@ -5,26 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（塔）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,
@@ -37,15 +20,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "激活一个护盾，每点魔法值可吸收 2 点伤害。"
-    },
-    {
-      "Id": "aubx",
-      "Value": 0
-    },
-    {
-      "Id": "auhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "anam",

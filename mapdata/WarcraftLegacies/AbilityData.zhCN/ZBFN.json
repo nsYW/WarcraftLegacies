@@ -5,53 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ufn1",
-      "Type": 2,
-      "Value": 70
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ufn2",
-      "Type": 2,
-      "Value": 50
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 12
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（天灾 - 巫妖）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

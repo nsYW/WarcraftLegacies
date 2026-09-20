@@ -5,85 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba2",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Id": "gcls",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gef2",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gef3",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gef4",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gglb",
-      "Value": 25
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "glvl",
-      "Value": 1
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 1
-    },
-    {
-      "Id": "glmm",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPower Hammer.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
-    },
-    {
-      "Id": "gbpy",
-      "Value": 0
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（铁炉堡）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

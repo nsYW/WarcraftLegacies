@@ -5,51 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ucol",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Id": "ufoo",
-      "Value": 0
-    },
-    {
-      "Id": "upgr",
-      "Type": 3,
-      "Value": "Rhme,Rhar"
-    },
-    {
-      "Id": "urac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "ACct"
-    },
-    {
-      "Id": "uhpm",
-      "Value": 1255
-    },
-    {
-      "Id": "udty",
-      "Type": 3,
-      "Value": "medium"
-    },
-    {
-      "Id": "udef",
-      "Value": 4
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（吉尔尼斯 - 苔丝）"
@@ -58,19 +13,6 @@
       "Id": "unam",
       "Type": 3,
       "Value": "白狼"
-    },
-    {
-      "Id": "uclg",
-      "Value": 255
-    },
-    {
-      "Id": "uclr",
-      "Value": 255
-    },
-    {
-      "Id": "usca",
-      "Type": 1,
-      "Value": 1.2
     },
     {
       "Id": "utub",

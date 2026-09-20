@@ -5,49 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 50
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 35
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "etoe"
-    },
-    {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNInfernalShower.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（德鲁伊）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "D"
     },
     {
       "Level": 1,
@@ -66,10 +27,6 @@
       "Id": "gub1",
       "Type": 3,
       "Value": "使绿龙的攻击点燃地面。"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 1
     }
   ],
   "NewId": "R02G"

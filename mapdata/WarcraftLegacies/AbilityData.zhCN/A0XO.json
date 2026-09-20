@@ -5,164 +5,14 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 175
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 175
-    },
-    {
-      "Level": 4,
-      "Id": "amcs",
-      "Value": 150
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Htb1",
-      "Type": 2,
-      "Value": 400
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Htb1",
-      "Type": 2,
-      "Value": 600
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Htb1",
-      "Type": 2,
-      "Value": 300
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 4
-    },
-    {
-      "Level": 3,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 4,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 7
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 4
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 5
-    },
-    {
-      "Level": 4,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 3.5
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 2,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 3,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 4,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 700
-    },
-    {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Htb1",
-      "Type": 2,
-      "Value": 500
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 3,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 3,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 175
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（雷诺）"
     },
     {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "R"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "强化风暴之锤"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "aret",
@@ -221,14 +71,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "向目标敌方单位投掷一柄魔法锤，造成 400 点伤害，并使目标昏迷 7 秒。对英雄持续 3.5 秒。"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
-      "Id": "arpx",
-      "Value": 3
     }
   ],
   "NewId": "A0XO"

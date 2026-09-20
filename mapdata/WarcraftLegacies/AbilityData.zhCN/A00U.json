@@ -5,28 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNUnLoad.blp"
-    },
-    {
-      "Id": "abpx",
-      "Value": 2
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（黄色 - 要塞塔楼）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Level": 1,

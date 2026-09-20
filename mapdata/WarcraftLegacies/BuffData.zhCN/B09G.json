@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNDruidSpeed.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "急速"

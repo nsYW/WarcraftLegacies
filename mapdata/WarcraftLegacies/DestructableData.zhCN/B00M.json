@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "bhps",
-      "Type": 2,
-      "Value": 100
-    },
-    {
-      "Id": "bfxr",
-      "Type": 2,
-      "Value": 60
-    },
-    {
       "Id": "bnam",
       "Type": 3,
       "Value": "冰冠树木（反向）"

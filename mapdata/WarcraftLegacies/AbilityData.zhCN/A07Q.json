@@ -5,43 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Prg3",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 15
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 75
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（达拉然 - 水术师）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

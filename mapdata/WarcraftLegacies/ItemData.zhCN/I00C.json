@@ -5,33 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A0CN,AIa3,AIi6,AIs3"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "A0CN"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNGhanir.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "提高所有属性。可施放纠缠根须。"

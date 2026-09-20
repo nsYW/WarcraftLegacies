@@ -5,19 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Artifact"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "|cffff8c00神器|r|n提高生命值与生命恢复速度。"

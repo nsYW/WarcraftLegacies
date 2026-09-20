@@ -5,17 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R012"
-    },
-    {
-      "Level": 1,
-      "Id": "Cha1",
-      "Type": 3,
-      "Value": "o073"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（战歌 - 兽人步兵升级为莫克纳萨战士）"

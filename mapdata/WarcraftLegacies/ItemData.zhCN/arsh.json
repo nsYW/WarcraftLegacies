@@ -5,37 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A07C,AId5,AIdd"
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Artifact"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "isel",
-      "Value": 0
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCloak.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "提高护甲，并减少来自远程攻击与法术的伤害。"

@@ -5,40 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 100
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpTwo.blp"
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（阿拉索）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
     },
     {
       "Level": 1,
@@ -57,10 +27,6 @@
       "Id": "gub1",
       "Type": 3,
       "Value": "使元帅获得锁甲层叠技能，受到的伤害降低 9。"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 1
     }
   ],
   "NewId": "R02B"

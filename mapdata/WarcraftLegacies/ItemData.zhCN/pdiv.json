@@ -5,23 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "igol",
-      "Value": 25
-    },
-    {
-      "Id": "ista",
-      "Value": 5
-    },
-    {
-      "Id": "istr",
-      "Value": 240
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Purchasable"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "购买神圣药水"
@@ -30,11 +13,6 @@
       "Id": "utub",
       "Type": 3,
       "Value": "使英雄在 7 秒内变为无敌。"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "unam",

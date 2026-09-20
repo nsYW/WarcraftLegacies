@@ -5,29 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "hwdu",
-      "Type": 3,
-      "Value": "tp67"
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 400
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 180
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（哨兵）"
@@ -37,10 +14,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "召唤一个隐形且无法移动的猫头鹰结界，为你监视一片区域。 |n能看见隐形单位。 |n持续<Aeye,Dur1>秒。"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
     },
     {
       "Id": "anam",

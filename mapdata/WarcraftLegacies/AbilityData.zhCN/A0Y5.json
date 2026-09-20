@@ -5,69 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Nic3",
-      "Type": 2,
-      "Value": 160
-    },
-    {
-      "Level": 1,
-      "Pointer": 4,
-      "Id": "Nic4",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Id": "amho",
-      "Value": 0
-    },
-    {
-      "Id": "amsp",
-      "Value": 0
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
-      "Id": "abpy",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（元素领主）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,
@@ -80,11 +20,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "焚身化骨"
-    },
-    {
-      "Id": "amat",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Id": "anam",

@@ -5,60 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ua1c",
-      "Type": 2,
-      "Value": 1.8
-    },
-    {
-      "Id": "ua1b",
-      "Value": 48
-    },
-    {
-      "Id": "uhpm",
-      "Value": 1800
-    },
-    {
-      "Id": "umpi",
-      "Value": 800
-    },
-    {
-      "Id": "umpm",
-      "Value": 800
-    },
-    {
-      "Id": "umpr",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Id": "ua1g",
-      "Type": 3,
-      "Value": "debris,ground,item,nonancient,ward"
-    },
-    {
-      "Id": "umvt",
-      "Type": 3,
-      "Value": "hover"
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
-      "Id": "usca",
-      "Type": 1,
-      "Value": 1.6
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "泰拉尔"

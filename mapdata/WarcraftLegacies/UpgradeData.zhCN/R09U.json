@@ -5,50 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 100
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rmnx"
-    },
-    {
-      "Id": "gtib",
-      "Value": 60
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "h0C5"
-    },
-    {
-      "Id": "gglb",
-      "Value": 100
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPotionOfVampirism.blp"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（日怒）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "C"
     },
     {
       "Level": 1,

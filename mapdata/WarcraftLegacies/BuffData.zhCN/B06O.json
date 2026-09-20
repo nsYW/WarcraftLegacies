@@ -5,21 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures/CommandButtons/BTNMagocracy.blp"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "fta0",
-      "Type": 3,
-      "Value": "overhead"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "守护神盾"

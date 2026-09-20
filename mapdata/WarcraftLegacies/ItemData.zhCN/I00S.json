@@ -5,38 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A0MC"
-    },
-    {
-      "Id": "igol",
-      "Value": 50
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Purchasable"
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNPotionOfRestoration.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "攻击还会造成神圣伤害。"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Id": "utip",

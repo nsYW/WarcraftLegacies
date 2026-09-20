@@ -5,12 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Idef",
-      "Value": -7
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "圣洁之光减益"

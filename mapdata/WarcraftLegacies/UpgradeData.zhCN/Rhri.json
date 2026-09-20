@@ -5,30 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gglb",
-      "Value": 0
-    },
-    {
-      "Id": "glmb",
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "h07G"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（铁炉堡）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "X"
     },
     {
       "Level": 1,

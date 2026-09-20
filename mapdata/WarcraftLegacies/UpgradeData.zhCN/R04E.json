@@ -5,44 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gef2",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gglb",
-      "Value": 150
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gtib",
-      "Value": 60
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNNightElfBuild.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,

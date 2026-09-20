@@ -13,11 +13,6 @@
       "Id": "ftip",
       "Type": 3,
       "Value": "大地镣铐"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNArcaneShackles.blp"
     }
   ],
   "NewId": "ZB11"

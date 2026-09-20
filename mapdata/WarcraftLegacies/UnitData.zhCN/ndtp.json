@@ -5,22 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ugol",
-      "Value": 177
-    },
-    {
-      "Id": "uhpm",
-      "Value": 400
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "精通治疗魔法的暗影祭司。投掷火焰弹。"

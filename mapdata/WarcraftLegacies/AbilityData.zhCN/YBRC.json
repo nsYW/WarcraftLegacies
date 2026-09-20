@@ -5,31 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（食尸鬼） （假人）"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Level": 1,
@@ -47,11 +25,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "撕裂之爪"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\PassiveButtons\\PASDWRip.blp"
     }
   ],
   "NewId": "YBRC"

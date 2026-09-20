@@ -5,44 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gtib",
-      "Value": 30
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "R047"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A13W"
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gglb",
-      "Value": 50
-    },
-    {
       "Level": 1,
       "Id": "gub1",
       "Type": 3,
@@ -61,26 +23,10 @@
       "Value": "致命毒药"
     },
     {
-      "Id": "gbpx",
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "S"
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（德鲁伊）"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNLethal_Venom.blp"
     }
   ],
   "NewId": "R048"

@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "nightelf"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNFuryV2.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "野兽之怒"

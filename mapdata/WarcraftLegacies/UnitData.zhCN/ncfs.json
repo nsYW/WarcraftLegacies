@@ -5,43 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ufoo",
-      "Value": 0
-    },
-    {
-      "Id": "upgr",
-      "Type": 3,
-      "Value": "Rhme,Rhar"
-    },
-    {
-      "Id": "ucol",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Id": "umvt",
-      "Type": 3,
-      "Value": "foot"
-    },
-    {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "Xehc"
-    },
-    {
-      "Id": "udaa",
-      "Type": 3,
-      "Value": "Xehc"
-    },
-    {
-      "Id": "uhpm",
-      "Value": 525
-    },
-    {
-      "Id": "ua1b",
-      "Value": 12
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（等级 1）"

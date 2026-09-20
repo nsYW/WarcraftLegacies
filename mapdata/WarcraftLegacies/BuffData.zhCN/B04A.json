@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNOverload.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "闪电震击"

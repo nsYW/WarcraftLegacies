@@ -5,15 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（破坏者，刺客，朱倍尔，炽天使）"

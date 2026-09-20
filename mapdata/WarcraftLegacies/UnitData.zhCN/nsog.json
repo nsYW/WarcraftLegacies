@@ -5,10 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ugol",
-      "Value": 333
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "重型近战单位。"

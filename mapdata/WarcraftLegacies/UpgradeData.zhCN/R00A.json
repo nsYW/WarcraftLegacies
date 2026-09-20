@@ -5,79 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Id": "gba3",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Id": "gco1",
-      "Type": 3,
-      "Value": "A05X"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rlev"
-    },
-    {
-      "Id": "gglb",
-      "Value": 50
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gmo1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "etoa"
-    },
-    {
-      "Level": 1,
-      "Id": "grqc",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "gtib",
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNThorns.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
-    },
-    {
-      "Id": "gbpy",
-      "Value": 2
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（德鲁伊）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,

@@ -5,36 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "igol",
-      "Value": 25
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Purchasable"
-    },
-    {
-      "Id": "ubpx",
-      "Value": 0
-    },
-    {
-      "Id": "ubpy",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "将目标友方单位传送至其等级最高的城镇大厅。施法时间为 2 秒。冷却时间 90 秒。"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Id": "unam",

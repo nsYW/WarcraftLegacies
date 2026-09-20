@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNTreasure Chest.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "财富之诺"

@@ -5,10 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "aite",
-      "Value": 0
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "苔丝伤害"

@@ -5,60 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Ocr1",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Ocr1",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Ocr1",
-      "Type": 2,
-      "Value": 30
-    },
-    {
-      "Level": 2,
-      "Pointer": 2,
-      "Id": "Ocr2",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Level": 3,
-      "Pointer": 2,
-      "Id": "Ocr2",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Level": 4,
-      "Pointer": 2,
-      "Id": "Ocr2",
-      "Type": 2,
-      "Value": 2
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（露西尔）"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Id": "arut",

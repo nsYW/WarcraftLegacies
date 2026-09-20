@@ -5,43 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ssk2",
-      "Type": 2,
-      "Value": 6
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ssk3",
-      "Type": 2,
-      "Value": 20
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Level": 1,
-      "Pointer": 5,
-      "Id": "Ssk5",
-      "Value": 0
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（棕色雷象）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": ""
     },
     {
       "Level": 1,

@@ -5,20 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ufoo",
-      "Value": 0
-    },
-    {
-      "Id": "uico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNLobstrokkRed.blp"
-    },
-    {
-      "Id": "umdl",
-      "Type": 3,
-      "Value": "Units\\Creeps\\Lobstrokkred\\Lobstrokkred.mdl"
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "拥有治疗与霜甲术的轻型远程单位。"

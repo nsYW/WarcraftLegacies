@@ -5,46 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Pointer": 1,
-      "Id": "Ear1",
-      "Type": 2,
-      "Value": 0.1
-    },
-    {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ear1",
-      "Type": 2,
-      "Value": 0.05
-    },
-    {
-      "Level": 3,
-      "Pointer": 1,
-      "Id": "Ear1",
-      "Type": 2,
-      "Value": 0.15
-    },
-    {
-      "Level": 4,
-      "Pointer": 1,
-      "Id": "Ear1",
-      "Type": 2,
-      "Value": 0.2
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（绿色 - 希尔瓦娜斯。浅蓝色 - 泰兰德）"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "E"
     },
     {
       "Id": "arut",

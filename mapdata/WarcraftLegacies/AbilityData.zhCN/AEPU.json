@@ -5,49 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Prg3",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 0.3
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 45
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "B010"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（电击之刃）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

@@ -5,20 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "nonancient,player,structure"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（红色 - 侍僧）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

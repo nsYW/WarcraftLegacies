@@ -5,15 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "uhpm",
-      "Value": 700
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（野外生物）"

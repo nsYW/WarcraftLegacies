@@ -5,29 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "fbk1",
-      "Type": 2,
-      "Value": 25
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "fbk3",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "abpx",
-      "Value": 3
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（蓝色 - 恐惧魔王）"

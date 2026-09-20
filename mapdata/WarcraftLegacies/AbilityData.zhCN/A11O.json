@@ -5,130 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 2,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 150
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 300
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 300
-    },
-    {
-      "Level": 1,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Level": 2,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 3,
-      "Id": "adur",
-      "Type": 2,
-      "Value": 12
-    },
-    {
-      "Level": 1,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 8
-    },
-    {
-      "Level": 2,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 10
-    },
-    {
-      "Level": 3,
-      "Id": "ahdu",
-      "Type": 2,
-      "Value": 12
-    },
-    {
-      "Id": "alev",
-      "Value": 3
-    },
-    {
-      "Id": "alsk",
-      "Value": 5
-    },
-    {
-      "Id": "arlv",
-      "Value": 10
-    },
-    {
-      "Level": 1,
-      "Id": "Ntou",
-      "Type": 3,
-      "Value": "n0CY"
-    },
-    {
-      "Level": 2,
-      "Id": "Ntou",
-      "Type": 3,
-      "Value": "n0CY"
-    },
-    {
-      "Level": 3,
-      "Id": "Ntou",
-      "Type": 3,
-      "Value": "n0CY"
-    },
-    {
-      "Level": 1,
-      "Id": "acdn",
-      "Type": 2,
-      "Value": 180
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 300
-    },
-    {
-      "Level": 1,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 2,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Level": 3,
-      "Id": "aran",
-      "Type": 2,
-      "Value": 900
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（卡德加）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "R"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "R"
     },
     {
       "Id": "arut",
@@ -166,16 +45,6 @@
       "Value": "召唤一个黑洞，使敌方单位的移动速度降低 90%，并每秒对敌方单位造成 15 点伤害。若敌方单位处于黑洞 200 范围内，则每秒受到 100 点伤害。"
     },
     {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNBlackHole.blp"
-    },
-    {
-      "Id": "arar",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNBlackHole.blp"
-    },
-    {
       "Id": "anam",
       "Type": 3,
       "Value": "黑洞"
@@ -190,21 +59,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "黑洞 - [|cffffcc001级|r]"
-    },
-    {
-      "Id": "atat",
-      "Type": 3,
-      "Value": "war3mapImported\\2BlackHole.mdx"
-    },
-    {
-      "Id": "aeat",
-      "Type": 3,
-      "Value": "war3mapImported\\2BlackHole.mdx"
-    },
-    {
-      "Id": "aaea",
-      "Type": 3,
-      "Value": "war3mapImported\\2BlackHole.mdx"
     }
   ],
   "NewId": "A11O"

@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（霜狼 - 巫医）"

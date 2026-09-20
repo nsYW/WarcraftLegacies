@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "frac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNSpiritCrusader.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "|cffff0000十字军光环|r"
@@ -33,11 +23,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "十字军光环"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
     }
   ],
   "NewId": "B07G"

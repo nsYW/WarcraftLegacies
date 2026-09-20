@@ -5,92 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "alev",
-      "Value": 4
-    },
-    {
-      "Level": 2,
-      "Pointer": 2,
-      "Id": "Osf2",
-      "Value": 3
-    },
-    {
-      "Level": 3,
-      "Pointer": 2,
-      "Id": "Osf2",
-      "Value": 4
-    },
-    {
-      "Level": 4,
-      "Pointer": 2,
-      "Id": "Osf2",
-      "Value": 5
-    },
-    {
-      "Level": 1,
-      "Id": "Osf1",
-      "Type": 3,
-      "Value": "osw3"
-    },
-    {
-      "Level": 2,
-      "Id": "Osf1",
-      "Type": 3,
-      "Value": "osw3"
-    },
-    {
-      "Level": 1,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 2,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 3,
-      "Id": "amcs",
-      "Value": 100
-    },
-    {
-      "Level": 1,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "BFig"
-    },
-    {
-      "Level": 2,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "BFig"
-    },
-    {
-      "Level": 3,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "BFig"
-    },
-    {
-      "Level": 4,
-      "Id": "abuf",
-      "Type": 3,
-      "Value": "BFig"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（萨尔/努波顿）"
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "W"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Id": "arut",
@@ -144,14 +61,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "召唤<YBFS,DataB4>头暗影狼。"
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
-      "Id": "arpx",
-      "Value": 1
     },
     {
       "Id": "anam",

@@ -5,15 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uhpm",
-      "Value": 2500
-    },
-    {
-      "Id": "urac",
-      "Type": 3,
-      "Value": "creeps"
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "黑暗之门光环控制枢纽"

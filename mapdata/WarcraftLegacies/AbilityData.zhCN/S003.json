@@ -5,21 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Shm1",
-      "Type": 2,
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（哨兵 - 大多数单位）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "X"
     },
     {
       "Id": "anam",

@@ -5,40 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "achd",
-      "Value": 0
-    },
-    {
-      "Id": "aher",
-      "Value": 0
-    },
-    {
-      "Id": "alev",
-      "Value": 1
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（青色 - 虚空幼龙、余烬牧师）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
-    },
-    {
-      "Id": "arpx",
-      "Value": 1
-    },
-    {
-      "Id": "arhk",
-      "Type": 3,
-      "Value": "W"
     },
     {
       "Level": 1,

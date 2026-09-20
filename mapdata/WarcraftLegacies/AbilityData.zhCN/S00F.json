@@ -5,17 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "areq",
-      "Type": 3,
-      "Value": "R045"
-    },
-    {
-      "Level": 1,
-      "Id": "Cha1",
-      "Type": 3,
-      "Value": "n0AE"
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（泥土魔像 - 碎片傀儡）"

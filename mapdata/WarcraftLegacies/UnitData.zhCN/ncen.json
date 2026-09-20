@@ -5,24 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "A020"
-    },
-    {
-      "Id": "ua1c",
-      "Type": 2,
-      "Value": 1.45
-    },
-    {
-      "Id": "ua1b",
-      "Value": 32
-    },
-    {
-      "Id": "uhpm",
-      "Value": 925
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "挥舞巨斧的中型近战攻击者。"

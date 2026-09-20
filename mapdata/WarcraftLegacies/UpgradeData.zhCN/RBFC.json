@@ -5,64 +5,10 @@
   ],
   "Modifications": [
     {
-      "Id": "gba1",
-      "Type": 2,
-      "Value": 325
-    },
-    {
-      "Id": "glmb",
-      "Value": 0
-    },
-    {
-      "Id": "gtib",
-      "Value": 35
-    },
-    {
-      "Id": "grac",
-      "Type": 3,
-      "Value": "undead"
-    },
-    {
-      "Id": "gef1",
-      "Type": 3,
-      "Value": "rhpx"
-    },
-    {
-      "Id": "gglb",
-      "Value": 120
-    },
-    {
-      "Id": "gef2",
-      "Type": 3,
-      "Value": "rarm"
-    },
-    {
-      "Level": 1,
-      "Id": "greq",
-      "Type": 3,
-      "Value": "RBCF"
-    },
-    {
-      "Level": 1,
-      "Id": "gar1",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNCurse of Flesh.blp"
-    },
-    {
-      "Id": "gbpx",
-      "Value": 0
-    },
-    {
       "Level": 1,
       "Id": "gnsf",
       "Type": 3,
       "Value": "（黑暗帝国 - 亚基与遗忘者）"
-    },
-    {
-      "Level": 1,
-      "Id": "ghk1",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Level": 1,

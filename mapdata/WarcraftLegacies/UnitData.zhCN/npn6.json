@@ -5,29 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "ucol",
-      "Type": 2,
-      "Value": 16
-    },
-    {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "ACmi,ACpv,ACrk"
-    },
-    {
-      "Id": "urac",
-      "Type": 3,
-      "Value": "orc"
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（陈）"
-    },
-    {
-      "Id": "usca",
-      "Type": 1,
-      "Value": 1
     },
     {
       "Id": "utub",

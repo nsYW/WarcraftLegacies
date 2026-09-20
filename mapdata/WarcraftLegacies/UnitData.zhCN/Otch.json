@@ -5,40 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "ucam",
-      "Value": 1
-    },
-    {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": "Avul,AInv"
-    },
-    {
-      "Id": "umvt",
-      "Type": 3,
-      "Value": "fly"
-    },
-    {
-      "Id": "umvs",
-      "Value": 0
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
       "Id": "upro",
       "Type": 3,
       "Value": "牦牛"
-    },
-    {
-      "Id": "usca",
-      "Type": 1,
-      "Value": 0.6
     },
     {
       "Id": "utub",

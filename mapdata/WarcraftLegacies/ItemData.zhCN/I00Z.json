@@ -5,54 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "AItx,AIcl"
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Artifact"
-    },
-    {
-      "Id": "icid",
-      "Type": 3,
-      "Value": "AIcl"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ilev",
-      "Value": 8
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "ipri",
-      "Value": 200
-    },
-    {
-      "Id": "isel",
-      "Value": 0
-    },
-    {
-      "Id": "iusa",
-      "Value": 1
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNThunderfury2.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "提高攻击力。提供施放闪电链的能力"

@@ -5,42 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "A0MB"
-    },
-    {
-      "Id": "igol",
-      "Value": 50
-    },
-    {
-      "Id": "ureq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Purchasable"
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNEngineeringUpgrade.blp"
-    },
-    {
-      "Id": "ubpx",
-      "Value": 0
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "攻击有几率沉默目标。"
-    },
-    {
-      "Id": "uhot",
-      "Type": 3,
-      "Value": "Z"
     },
     {
       "Id": "utip",

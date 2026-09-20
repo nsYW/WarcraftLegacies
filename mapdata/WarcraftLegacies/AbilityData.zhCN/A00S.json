@@ -5,44 +5,9 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Ucs1",
-      "Type": 2,
-      "Value": 60
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Ucs2",
-      "Type": 2,
-      "Value": 200
-    },
-    {
-      "Level": 1,
-      "Pointer": 3,
-      "Id": "Ucs3",
-      "Type": 2,
-      "Value": 500
-    },
-    {
-      "Id": "arac",
-      "Type": 3,
-      "Value": "human"
-    },
-    {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（深绿色咒术师 - 暗礁元素。橙色 - 吉安娜的元素）"
-    },
-    {
-      "Id": "ahky",
-      "Type": 3,
-      "Value": "Q"
     },
     {
       "Level": 1,

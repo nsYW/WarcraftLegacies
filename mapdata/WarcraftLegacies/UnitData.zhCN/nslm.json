@@ -5,10 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ufoo",
-      "Value": 0
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "可使敌人减速的轻型近战单位。"

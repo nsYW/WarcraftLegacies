@@ -5,38 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "uabi",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "ua1b",
-      "Value": 36
-    },
-    {
-      "Id": "uhpm",
-      "Value": 1200
-    },
-    {
-      "Id": "ulum",
-      "Value": 0
-    },
-    {
-      "Id": "ulur",
-      "Value": 0
-    },
-    {
-      "Id": "uclg",
-      "Value": 100
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "水晶魔像"
-    },
-    {
-      "Id": "uclr",
-      "Value": 150
     },
     {
       "Id": "utub",

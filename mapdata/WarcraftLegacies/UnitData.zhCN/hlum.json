@@ -5,16 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "upap",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Id": "upat",
-      "Type": 3,
-      "Value": "PathTextures\\8x8SimpleSolid.tga"
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "伐木场"

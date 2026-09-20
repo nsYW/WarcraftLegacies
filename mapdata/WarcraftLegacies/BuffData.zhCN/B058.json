@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "fart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNManaharvest.blp"
-    },
-    {
       "Id": "ftip",
       "Type": 3,
       "Value": "活力光环"
@@ -23,11 +18,6 @@
       "Id": "fnam",
       "Type": 3,
       "Value": "活力光环"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
     }
   ],
   "NewId": "B058"

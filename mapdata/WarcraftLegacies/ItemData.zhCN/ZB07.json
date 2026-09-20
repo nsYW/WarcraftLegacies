@@ -5,49 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "icla",
-      "Type": 3,
-      "Value": "Artifact"
-    },
-    {
-      "Id": "idrp",
-      "Value": 1
-    },
-    {
-      "Id": "ihtp",
-      "Value": 500000
-    },
-    {
-      "Id": "ilev",
-      "Value": 8
-    },
-    {
-      "Id": "ipaw",
-      "Value": 0
-    },
-    {
-      "Id": "ipri",
-      "Value": 200
-    },
-    {
-      "Id": "isel",
-      "Value": 0
-    },
-    {
-      "Id": "iabi",
-      "Type": 3,
-      "Value": "AItx,A04M"
-    },
-    {
-      "Id": "idro",
-      "Value": 0
-    },
-    {
-      "Id": "iico",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\BTNfrostmourne.blp"
-    },
-    {
       "Id": "ides",
       "Type": 3,
       "Value": "提高攻击力，并提供顺劈斩。"

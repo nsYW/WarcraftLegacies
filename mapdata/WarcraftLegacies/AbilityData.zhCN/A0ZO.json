@@ -5,45 +5,6 @@
   ],
   "Modifications": [
     {
-      "Level": 1,
-      "Pointer": 1,
-      "Id": "Efk1",
-      "Type": 2,
-      "Value": 0
-    },
-    {
-      "Id": "areq",
-      "Type": 3,
-      "Value": ""
-    },
-    {
-      "Level": 1,
-      "Pointer": 2,
-      "Id": "Efk2",
-      "Type": 2,
-      "Value": 99999
-    },
-    {
-      "Level": 1,
-      "Id": "atar",
-      "Type": 3,
-      "Value": "debris,enemies,ground,item,structure"
-    },
-    {
-      "Level": 1,
-      "Id": "aare",
-      "Type": 2,
-      "Value": 900
-    },
-    {
-      "Id": "abpx",
-      "Value": 1
-    },
-    {
-      "Id": "abpy",
-      "Value": 1
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "（防守方幽魂之塔投射物）"
@@ -58,16 +19,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "多重射击"
-    },
-    {
-      "Id": "aart",
-      "Type": 3,
-      "Value": "ReplaceableTextures\\CommandButtons\\PASTripleShot.blp"
-    },
-    {
-      "Id": "amat",
-      "Type": 3,
-      "Value": "Abilities\\Weapons\\ZigguratMissile\\ZigguratMissile.mdl"
     },
     {
       "Level": 1,
