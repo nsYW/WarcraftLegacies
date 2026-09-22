@@ -98,65 +98,87 @@ jobs:
         working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
         shell: pwsh
         run: |
-          # The job log needs authentication to read, so everything a failure needs to explain itself is written
-          # into build-info.txt, which the artifact upload collects even when the map is not built.
+          # The job log needs authentication to read, so this writes everything into build-info.txt as it goes and
+          # keeps writing in a finally block: a failure at any point still leaves a readable record, which the
+          # artifact upload collects even when the map is not built. "reached N" markers say how far it got.
           $ErrorActionPreference = 'Continue'
           $pub = "$env:GITHUB_WORKSPACE/maps/published"
           $diag = @()
           $problems = @()
+          $reached = 0
+          $failed = $false
 
-          $diag += "workspace: $env:GITHUB_WORKSPACE"
-          $diag += "published dir exists: $(Test-Path $pub)"
-          foreach ($f in @('en.w3x', 'zh.w3x')) {
-            $p = Join-Path $pub $f
-            if (Test-Path $p) { $diag += "input $f = $((Get-Item $p).Length) bytes" }
-            else { $diag += "input $f = MISSING"; $problems += "input $f is missing" }
-          }
-          $diag += "published dir listing: $((Get-ChildItem $pub -ErrorAction SilentlyContinue | ForEach-Object { $_.Name }) -join ', ')"
-          $diag += "free space: $([math]::Round((Get-PSDrive C).Free / 1MB)) MB"
-          $diag += ""
+          try {
+            $diag += "reached 1 (start)"
+            $diag += "workspace: $env:GITHUB_WORKSPACE"
+            $diag += "published dir exists: $(Test-Path $pub)"
+            foreach ($f in @('en.w3x', 'zh.w3x')) {
+              $p = Join-Path $pub $f
+              if (Test-Path $p) { $diag += "input $f = $((Get-Item $p).Length) bytes" }
+              else { $diag += "input $f = MISSING"; $problems += "input $f is missing" }
+            }
+            $diag += "published dir listing: $((Get-ChildItem $pub -ErrorAction SilentlyContinue | ForEach-Object { $_.Name }) -join ', ')"
+            $diag += "free space: $([math]::Round((Get-PSDrive C).Free / 1MB)) MB"
+            $reached = 2
 
-          $mergeLog = dotnet WarcraftLegacies.CLI.dll merge-locales "$pub/en.w3x" "$pub/zh.w3x" "$pub/bilingual.w3x" "zhcn.w3mod" --locale-folder --untagged war3map.lua 2>&1 | Out-String
-          $mergeExit = $LASTEXITCODE
-          $diag += "merge-locales exit = $mergeExit"
-          $diag += $mergeLog
-          if ($mergeExit -ne 0) { $problems += "merge-locales returned $mergeExit" }
+            $mergeLog = dotnet WarcraftLegacies.CLI.dll merge-locales "$pub/en.w3x" "$pub/zh.w3x" "$pub/bilingual.w3x" "zhcn.w3mod" --locale-folder --untagged war3map.lua 2>&1 | Out-String
+            $mergeExit = $LASTEXITCODE
+            $diag += "reached 3 (merge-locales ran)"
+            $diag += "merge-locales exit = $mergeExit"
+            $diag += $mergeLog
+            if ($mergeExit -ne 0) { $problems += "merge-locales returned $mergeExit" }
 
-          # `locales` prints the hash entries each locale carries. The merge is only real when the
-          # zhcn.w3mod locale reports a non-zero count, so that is asserted rather than eyeballed.
-          $locales = ""
-          if (Test-Path "$pub/bilingual.w3x") {
-            $locales = dotnet WarcraftLegacies.CLI.dll locales "$pub/bilingual.w3x" 2>&1 | Out-String
-            $diag += "locales exit = $LASTEXITCODE"
-            $diag += $locales
-          } else {
-            $problems += "the merged map was not written"
+            # `locales` prints the hash entries each locale carries. The merge is only real when the
+            # zhcn.w3mod locale reports a non-zero count, so that is asserted rather than eyeballed.
+            $locales = ""
+            if (Test-Path "$pub/bilingual.w3x") {
+              $locales = dotnet WarcraftLegacies.CLI.dll locales "$pub/bilingual.w3x" 2>&1 | Out-String
+              $diag += "reached 4 (locales ran)"
+              $diag += "locales exit = $LASTEXITCODE"
+              $diag += $locales
+            } else {
+              $problems += "the merged map was not written"
+            }
+
+            $mb = 0
+            if (Test-Path "$pub/bilingual.w3x") {
+              $merged = Get-Item "$pub/bilingual.w3x"
+              $mb = [math]::Round($merged.Length / 1MB, 1)
+            }
+            $diag += "reached 5 (measurements done)"
+            $diag += ""
+            $diag += "merged megabytes: $mb"
+            $diag += "problems: $(if ($problems.Count) { $problems -join '; ' } else { 'none' })"
+
+            if ($problems.Count -ne 0) {
+              Write-Host "FAIL: $($problems -join '; ')"
+              $failed = $true
+            }
+            elseif ($mb -lt 100) {
+              Write-Host "FAIL: the merged map is only $mb MB - expected about 124 MB. Not uploading it."
+              $failed = $true
+            }
+            elseif ($locales -notmatch 'zhcn|2052') {
+              Write-Host "FAIL: the merged map reports no zhcn.w3mod locale, so the merge did not take."
+              $failed = $true
+            }
+            else {
+              Write-Host "OK: merged map is $mb MB and carries the zhcn.w3mod locale."
+            }
+          }
+          catch {
+            # A PowerShell-level error (a missing cmdlet, a bad cast, anything the CLI's exit code does not cover).
+            $diag += "reached $reached then threw: $($_.Exception.GetType().Name): $($_.Exception.Message)"
+            $diag += ($_.ScriptStackTrace | Out-String)
+            $failed = $true
+          }
+          finally {
+            $diag += "final: reached $reached, failed=$failed"
+            $diag | Set-Content "$pub/build-info.txt"
+            $diag | ForEach-Object { Write-Host $_ }
           }
 
-          $mb = 0
-          if (Test-Path "$pub/bilingual.w3x") {
-            $merged = Get-Item "$pub/bilingual.w3x"
-            $mb = [math]::Round($merged.Length / 1MB, 1)
-          }
-          $diag += ""
-          $diag += "merged megabytes: $mb"
-          $diag += "problems: $(if ($problems.Count) { $problems -join '; ' } else { 'none' })"
-
-          $diag | Set-Content "$pub/build-info.txt"
-          $diag | ForEach-Object { Write-Host $_ }
-
-          if ($problems.Count -ne 0) {
-            Write-Host "FAIL: $($problems -join '; ')"
-            exit 1
-          }
-          if ($mb -lt 100) {
-            Write-Host "FAIL: the merged map is only $mb MB - expected about 124 MB. Not uploading it."
-            exit 1
-          }
-          if ($locales -notmatch 'zhcn|2052') {
-            Write-Host "FAIL: the merged map reports no zhcn.w3mod locale, so the merge did not take."
-            exit 1
-          }
+          if ($failed) { exit 1 }
           Write-Host "OK: merged map is $mb MB and carries the zhcn.w3mod locale."
 
       - name: Write the job summary
