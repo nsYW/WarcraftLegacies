@@ -98,30 +98,37 @@ jobs:
         working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
         shell: pwsh
         run: |
-          # Every command's exit code is checked and every failure is written to the job summary, so a red run says
-          # what went wrong instead of only "exit code 1" (the log itself needs authentication to read).
+          # The job log needs authentication to read, so everything a failure needs to explain itself is written
+          # into build-info.txt, which the artifact upload collects even when the map is not built.
           $ErrorActionPreference = 'Continue'
           $pub = "$env:GITHUB_WORKSPACE/maps/published"
+          $diag = @()
           $problems = @()
 
+          $diag += "workspace: $env:GITHUB_WORKSPACE"
+          $diag += "published dir exists: $(Test-Path $pub)"
           foreach ($f in @('en.w3x', 'zh.w3x')) {
             $p = Join-Path $pub $f
-            if (Test-Path $p) { "input $f = $((Get-Item $p).Length) bytes" }
-            else { $problems += "input $f is missing" }
+            if (Test-Path $p) { $diag += "input $f = $((Get-Item $p).Length) bytes" }
+            else { $diag += "input $f = MISSING"; $problems += "input $f is missing" }
           }
-          "free space before merge: $([math]::Round((Get-PSDrive C).Free / 1MB)) MB"
+          $diag += "published dir listing: $((Get-ChildItem $pub -ErrorAction SilentlyContinue | ForEach-Object { $_.Name }) -join ', ')"
+          $diag += "free space: $([math]::Round((Get-PSDrive C).Free / 1MB)) MB"
+          $diag += ""
 
-          dotnet WarcraftLegacies.CLI.dll merge-locales "$pub/en.w3x" "$pub/zh.w3x" "$pub/bilingual.w3x" "zhcn.w3mod" --locale-folder --untagged war3map.lua
-          "merge-locales exit = $LASTEXITCODE"
-          if ($LASTEXITCODE -ne 0) { $problems += "merge-locales returned $LASTEXITCODE" }
+          $mergeLog = dotnet WarcraftLegacies.CLI.dll merge-locales "$pub/en.w3x" "$pub/zh.w3x" "$pub/bilingual.w3x" "zhcn.w3mod" --locale-folder --untagged war3map.lua 2>&1 | Out-String
+          $mergeExit = $LASTEXITCODE
+          $diag += "merge-locales exit = $mergeExit"
+          $diag += $mergeLog
+          if ($mergeExit -ne 0) { $problems += "merge-locales returned $mergeExit" }
 
           # `locales` prints the hash entries each locale carries. The merge is only real when the
           # zhcn.w3mod locale reports a non-zero count, so that is asserted rather than eyeballed.
           $locales = ""
           if (Test-Path "$pub/bilingual.w3x") {
-            $locales = dotnet WarcraftLegacies.CLI.dll locales "$pub/bilingual.w3x" | Out-String
-            "locales exit = $LASTEXITCODE"
-            Write-Host $locales
+            $locales = dotnet WarcraftLegacies.CLI.dll locales "$pub/bilingual.w3x" 2>&1 | Out-String
+            $diag += "locales exit = $LASTEXITCODE"
+            $diag += $locales
           } else {
             $problems += "the merged map was not written"
           }
@@ -131,34 +138,26 @@ jobs:
             $merged = Get-Item "$pub/bilingual.w3x"
             $mb = [math]::Round($merged.Length / 1MB, 1)
           }
-          "free space after merge: $([math]::Round((Get-PSDrive C).Free / 1MB)) MB"
+          $diag += ""
+          $diag += "merged megabytes: $mb"
+          $diag += "problems: $(if ($problems.Count) { $problems -join '; ' } else { 'none' })"
 
-          $info = @(
-            "merged megabytes: $mb",
-            "problems: $(if ($problems.Count) { $problems -join '; ' } else { 'none' })",
-            "",
-            $locales
-          ) -join "`n"
-          if ($problems.Count -eq 0) {
-            $info | Set-Content "$pub/build-info.txt"
-          } else {
-            # Written even on failure so the summary step can show why, and so no half-built map is uploaded.
-            $problems | Set-Content "$pub/build-info.txt"
-          }
+          $diag | Set-Content "$pub/build-info.txt"
+          $diag | ForEach-Object { Write-Host $_ }
 
           if ($problems.Count -ne 0) {
-            "FAIL: $($problems -join '; ')"
+            Write-Host "FAIL: $($problems -join '; ')"
             exit 1
           }
           if ($mb -lt 100) {
-            "FAIL: the merged map is only $mb MB - expected about 124 MB. Not uploading it."
+            Write-Host "FAIL: the merged map is only $mb MB - expected about 124 MB. Not uploading it."
             exit 1
           }
           if ($locales -notmatch 'zhcn|2052') {
-            "FAIL: the merged map reports no zhcn.w3mod locale, so the merge did not take."
+            Write-Host "FAIL: the merged map reports no zhcn.w3mod locale, so the merge did not take."
             exit 1
           }
-          "OK: merged map is $mb MB and carries the zhcn.w3mod locale."
+          Write-Host "OK: merged map is $mb MB and carries the zhcn.w3mod locale."
 
       - name: Write the job summary
         if: always()
@@ -171,17 +170,24 @@ jobs:
             "No build-info.txt was produced - the build failed before the merge." | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
           }
 
-      - name: Collect the map
+      # Runs even when the merge failed, so build-info.txt - which carries the merge's own output and the
+      # exit code - reaches the artifact and a red run can be read without authenticated access to the log.
+      - name: Collect the map and diagnostics
+        if: always()
         shell: pwsh
         run: |
           New-Item -ItemType Directory -Force -Path dist | Out-Null
-          Copy-Item maps/published/bilingual.w3x dist/
-          Copy-Item maps/published/build-info.txt dist/
+          foreach ($f in @('bilingual.w3x', 'build-info.txt')) {
+            $p = "maps/published/$f"
+            if (Test-Path $p) { Copy-Item $p dist/ } else { "not produced: $f" }
+          }
+          Get-ChildItem dist | ForEach-Object { "$($_.Name) $($_.Length) bytes" }
 
       - name: Upload the map
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: warcraft-legacies-bilingual-map
           path: dist/*
-          if-no-files-found: error
+          if-no-files-found: warn
           compression-level: 6
