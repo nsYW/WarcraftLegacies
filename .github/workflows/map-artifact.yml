@@ -1,0 +1,60 @@
+name: map-artifact (test branch only)
+
+# Throwaway convenience workflow. It exists only on the `ci/all-prs-test` scaffold branch so the
+# translator can download a built Chinese map from the fork. It is deliberately NOT part of
+# dotnet.yml, so the repository's own checks are untouched, and it must never reach a real PR.
+#
+# Publishing needs no Warcraft III installation: the map is composed from the JSON in `mapdata/`,
+# and the C#-to-Lua transpiler (War3Net.CSharpLua) and the MPQ writer (War3Net.Build) both come
+# from NuGet.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ ci/all-prs-test ]
+
+jobs:
+  map:
+    name: Build the zhCN map
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: 10.0.x
+
+      - name: Restore
+        run: dotnet restore
+
+      - name: Build the CLI
+        run: dotnet build -c Release src/WarcraftLegacies.CLI/WarcraftLegacies.CLI.csproj
+
+      - name: Publish the map for zhCN
+        working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
+        run: dotnet WarcraftLegacies.CLI.dll json-to-w3x publish WarcraftLegacies --locale zhCN
+
+      - name: Collect the map
+        shell: pwsh
+        run: |
+          $map = Get-ChildItem maps/published/*.w3x | Sort-Object LastWriteTime -Descending | Select-Object -First 1
+          $mb = [math]::Round($map.Length / 1MB, 1)
+          "Built $($map.Name) - $mb MB" | Tee-Object -FilePath maps/published/build-info.txt
+          # A committed revision would never survive the round trip, so this is skipped rather than
+          # reported as a false mismatch; the file itself is the thing worth checking.
+          if ($mb -lt 20) {
+            "The map is only $mb MB, which is far smaller than a real build - the artifact is not usable." | Tee-Object -FilePath maps/published/build-info.txt -Append
+            exit 1
+          }
+          New-Item -ItemType Directory -Force -Path dist | Out-Null
+          Copy-Item $map.FullName dist/
+          Copy-Item maps/published/build-info.txt dist/
+
+      - name: Upload the map
+        uses: actions/upload-artifact@v4
+        with:
+          name: warcraft-legacies-zhcn-map
+          path: dist/*
+          if-no-files-found: error
+          compression-level: 6
