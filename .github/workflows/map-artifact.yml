@@ -48,11 +48,31 @@ jobs:
       # (English) map, build the same map from the zhCN overlay, then merge the second into the first so
       # one .w3x serves both. `publish --locale zhCN` on its own is a mono-lingual Chinese map and would
       # be a perfectly playable file, but it is NOT what we release - the merged layout is.
+      #
+      # Both maps are built from THIS branch's own mapdata. The overlay (`mapdata/.../<Kind>Data.zhCN/`
+      # and `zhCN/`) is committed there, so one checkout has everything. An earlier version of this
+      # workflow built the zhCN half in a second tree, as 汉化.ps1 does locally - but there the overlay
+      # arrives through sync_zh_to_devloc.py, and `mapdata/.gitignore` in the source trees does not track
+      # it, so a fresh checkout of those trees has no overlay at all. `--locale zhCN` then quietly built
+      # an English map, the merge found nothing to localize, and the locale assertion below failed.
+      - name: Check the overlay is present
+        shell: pwsh
+        run: |
+          $overlay = "mapdata/WarcraftLegacies/UnitData.zhCN"
+          $count = @(Get-ChildItem $overlay -Filter *.json -ErrorAction SilentlyContinue).Count
+          "overlay UnitData.zhCN files: $count"
+          if ($count -eq 0) {
+            throw "No zhCN overlay in this checkout ($overlay is empty), so '--locale zhCN' would build an English map. The overlay must be committed on this branch."
+          }
+          $root = "mapdata/WarcraftLegacies/zhCN/buildtext.json"
+          if (-not (Test-Path $root)) { throw "No $root in this checkout; the build text is part of the overlay." }
+
       - name: Publish the English map
         working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
         shell: pwsh
         run: |
           dotnet WarcraftLegacies.CLI.dll json-to-w3x publish WarcraftLegacies
+          if ($LASTEXITCODE -ne 0) { throw "publish (English) returned $LASTEXITCODE" }
           $en = Get-ChildItem "$env:GITHUB_WORKSPACE/maps/published/*.w3x" |
             Sort-Object LastWriteTime -Descending | Select-Object -First 1
           Copy-Item $en.FullName "$env:GITHUB_WORKSPACE/maps/published/en.w3x" -Force
@@ -62,7 +82,12 @@ jobs:
         working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
         shell: pwsh
         run: |
-          dotnet WarcraftLegacies.CLI.dll json-to-w3x publish WarcraftLegacies --locale zhCN
+          $output = dotnet WarcraftLegacies.CLI.dll json-to-w3x publish WarcraftLegacies --locale zhCN | Out-String
+          Write-Host $output
+          if ($LASTEXITCODE -ne 0) { throw "publish (zhCN) returned $LASTEXITCODE" }
+          # `publish --locale` says which overlay it read. Without that line it built the base data and the
+          # map is not localized, which is the failure that made an earlier run of this workflow useless.
+          if ($output -notmatch 'overlay') { throw "publish did not report reading a locale overlay: $output" }
           $zh = Get-ChildItem "$env:GITHUB_WORKSPACE/maps/published/*.w3x" |
             Where-Object { $_.Name -ne 'en.w3x' } |
             Sort-Object LastWriteTime -Descending | Select-Object -First 1
@@ -73,28 +98,59 @@ jobs:
         working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
         shell: pwsh
         run: |
+          # Every command's exit code is checked and every failure is written to the job summary, so a red run says
+          # what went wrong instead of only "exit code 1" (the log itself needs authentication to read).
+          $ErrorActionPreference = 'Continue'
           $pub = "$env:GITHUB_WORKSPACE/maps/published"
+          $problems = @()
+
+          foreach ($f in @('en.w3x', 'zh.w3x')) {
+            $p = Join-Path $pub $f
+            if (Test-Path $p) { "input $f = $((Get-Item $p).Length) bytes" }
+            else { $problems += "input $f is missing" }
+          }
+          "free space before merge: $([math]::Round((Get-PSDrive C).Free / 1MB)) MB"
+
           dotnet WarcraftLegacies.CLI.dll merge-locales "$pub/en.w3x" "$pub/zh.w3x" "$pub/bilingual.w3x" "zhcn.w3mod" --locale-folder --untagged war3map.lua
+          "merge-locales exit = $LASTEXITCODE"
+          if ($LASTEXITCODE -ne 0) { $problems += "merge-locales returned $LASTEXITCODE" }
 
           # `locales` prints the hash entries each locale carries. The merge is only real when the
           # zhcn.w3mod locale reports a non-zero count, so that is asserted rather than eyeballed.
-          $locales = dotnet WarcraftLegacies.CLI.dll locales "$pub/bilingual.w3x" | Out-String
-          Write-Host $locales
+          $locales = ""
+          if (Test-Path "$pub/bilingual.w3x") {
+            $locales = dotnet WarcraftLegacies.CLI.dll locales "$pub/bilingual.w3x" | Out-String
+            "locales exit = $LASTEXITCODE"
+            Write-Host $locales
+          } else {
+            $problems += "the merged map was not written"
+          }
 
-          $merged = Get-Item "$pub/bilingual.w3x"
-          $mb = [math]::Round($merged.Length / 1MB, 1)
+          $mb = 0
+          if (Test-Path "$pub/bilingual.w3x") {
+            $merged = Get-Item "$pub/bilingual.w3x"
+            $mb = [math]::Round($merged.Length / 1MB, 1)
+          }
+          "free space after merge: $([math]::Round((Get-PSDrive C).Free / 1MB)) MB"
+
           $info = @(
-            "merged: $($merged.Name)",
-            "bytes: $($merged.Length)",
-            "megabytes: $mb",
+            "merged megabytes: $mb",
+            "problems: $(if ($problems.Count) { $problems -join '; ' } else { 'none' })",
             "",
             $locales
           ) -join "`n"
-          $info | Set-Content "$pub/build-info.txt"
+          if ($problems.Count -eq 0) {
+            $info | Set-Content "$pub/build-info.txt"
+          } else {
+            # Written even on failure so the summary step can show why, and so no half-built map is uploaded.
+            $problems | Set-Content "$pub/build-info.txt"
+          }
 
+          if ($problems.Count -ne 0) {
+            "FAIL: $($problems -join '; ')"
+            exit 1
+          }
           if ($mb -lt 100) {
-            # A truncated or half-built map lands here instead of being handed out. The real merge is
-            # ~123.6 MB; anything under 100 MB is not a release build.
             "FAIL: the merged map is only $mb MB - expected about 124 MB. Not uploading it."
             exit 1
           }
