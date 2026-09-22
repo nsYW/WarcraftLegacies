@@ -7,6 +7,19 @@ name: map-artifact (test branch only)
 # Publishing needs no Warcraft III installation: the map is composed from the JSON in `mapdata/`,
 # and the C#-to-Lua transpiler (War3Net.CSharpLua) and the MPQ writer (War3Net.Build) both come
 # from NuGet.
+#
+# Usage note, learned the hard way: `json-to-w3x publish WarcraftLegacies --locale zhCN` alone is
+# NOT the command that produces a release map. It writes the overlay's text straight into the base
+# records, giving a mono-lingual Chinese map; it is playable, but it is not the file we ship and it
+# is not what this workflow uploads. The release file is `en` + `zh` merged by `merge-locales` with
+# `--locale-folder`, which is what puts the translated object data under `_Locales/zhcn.w3mod/` -
+# the only layout Warcraft III honours. See the warning in `LocaleMergeCommand.Run` for why an
+# untagged/plain-name merge is wrong: Warcraft III ignores a locale tag on a map's own entries, so
+# that layout would leave the object data in the base language.
+#
+# A note on sizes, because it caused a false alarm once: the artifact GitHub hands out is a ZIP.
+# The merged map inside it is ~123.6 MB (129,601,126 bytes) and the ZIP around it is ~50 MB, so a
+# ~50 MB download page is EXPECTED and does not mean the map was truncated.
 
 on:
   workflow_dispatch:
@@ -31,30 +44,88 @@ jobs:
       - name: Build the CLI
         run: dotnet build -c Release src/WarcraftLegacies.CLI/WarcraftLegacies.CLI.csproj
 
-      - name: Publish the map for zhCN
+      # The three steps below are the release order tools/汉化.ps1 uses in its stage 4: build the base
+      # (English) map, build the same map from the zhCN overlay, then merge the second into the first so
+      # one .w3x serves both. `publish --locale zhCN` on its own is a mono-lingual Chinese map and would
+      # be a perfectly playable file, but it is NOT what we release - the merged layout is.
+      - name: Publish the English map
         working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
-        run: dotnet WarcraftLegacies.CLI.dll json-to-w3x publish WarcraftLegacies --locale zhCN
+        shell: pwsh
+        run: |
+          dotnet WarcraftLegacies.CLI.dll json-to-w3x publish WarcraftLegacies
+          $en = Get-ChildItem "$env:GITHUB_WORKSPACE/maps/published/*.w3x" |
+            Sort-Object LastWriteTime -Descending | Select-Object -First 1
+          Copy-Item $en.FullName "$env:GITHUB_WORKSPACE/maps/published/en.w3x" -Force
+          "English map: $($en.Name) $($en.Length) bytes"
+
+      - name: Publish the zhCN map
+        working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
+        shell: pwsh
+        run: |
+          dotnet WarcraftLegacies.CLI.dll json-to-w3x publish WarcraftLegacies --locale zhCN
+          $zh = Get-ChildItem "$env:GITHUB_WORKSPACE/maps/published/*.w3x" |
+            Where-Object { $_.Name -ne 'en.w3x' } |
+            Sort-Object LastWriteTime -Descending | Select-Object -First 1
+          Copy-Item $zh.FullName "$env:GITHUB_WORKSPACE/maps/published/zh.w3x" -Force
+          "zhCN map: $($zh.Name) $($zh.Length) bytes"
+
+      - name: Merge the two into one map, and check the merge took
+        working-directory: src/WarcraftLegacies.CLI/bin/Release/net10.0
+        shell: pwsh
+        run: |
+          $pub = "$env:GITHUB_WORKSPACE/maps/published"
+          dotnet WarcraftLegacies.CLI.dll merge-locales "$pub/en.w3x" "$pub/zh.w3x" "$pub/bilingual.w3x" "zhcn.w3mod" --locale-folder --untagged war3map.lua
+
+          # `locales` prints the hash entries each locale carries. The merge is only real when the
+          # zhcn.w3mod locale reports a non-zero count, so that is asserted rather than eyeballed.
+          $locales = dotnet WarcraftLegacies.CLI.dll locales "$pub/bilingual.w3x" | Out-String
+          Write-Host $locales
+
+          $merged = Get-Item "$pub/bilingual.w3x"
+          $mb = [math]::Round($merged.Length / 1MB, 1)
+          $info = @(
+            "merged: $($merged.Name)",
+            "bytes: $($merged.Length)",
+            "megabytes: $mb",
+            "",
+            $locales
+          ) -join "`n"
+          $info | Set-Content "$pub/build-info.txt"
+
+          if ($mb -lt 100) {
+            # A truncated or half-built map lands here instead of being handed out. The real merge is
+            # ~123.6 MB; anything under 100 MB is not a release build.
+            "FAIL: the merged map is only $mb MB - expected about 124 MB. Not uploading it."
+            exit 1
+          }
+          if ($locales -notmatch 'zhcn|2052') {
+            "FAIL: the merged map reports no zhcn.w3mod locale, so the merge did not take."
+            exit 1
+          }
+          "OK: merged map is $mb MB and carries the zhcn.w3mod locale."
+
+      - name: Write the job summary
+        if: always()
+        shell: pwsh
+        run: |
+          $info = "$env:GITHUB_WORKSPACE/maps/published/build-info.txt"
+          if (Test-Path $info) {
+            Get-Content $info | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          } else {
+            "No build-info.txt was produced - the build failed before the merge." | Out-File -FilePath $env:GITHUB_STEP_SUMMARY -Append -Encoding utf8
+          }
 
       - name: Collect the map
         shell: pwsh
         run: |
-          $map = Get-ChildItem maps/published/*.w3x | Sort-Object LastWriteTime -Descending | Select-Object -First 1
-          $mb = [math]::Round($map.Length / 1MB, 1)
-          "Built $($map.Name) - $mb MB" | Tee-Object -FilePath maps/published/build-info.txt
-          # A committed revision would never survive the round trip, so this is skipped rather than
-          # reported as a false mismatch; the file itself is the thing worth checking.
-          if ($mb -lt 20) {
-            "The map is only $mb MB, which is far smaller than a real build - the artifact is not usable." | Tee-Object -FilePath maps/published/build-info.txt -Append
-            exit 1
-          }
           New-Item -ItemType Directory -Force -Path dist | Out-Null
-          Copy-Item $map.FullName dist/
+          Copy-Item maps/published/bilingual.w3x dist/
           Copy-Item maps/published/build-info.txt dist/
 
       - name: Upload the map
         uses: actions/upload-artifact@v4
         with:
-          name: warcraft-legacies-zhcn-map
+          name: warcraft-legacies-bilingual-map
           path: dist/*
           if-no-files-found: error
           compression-level: 6
