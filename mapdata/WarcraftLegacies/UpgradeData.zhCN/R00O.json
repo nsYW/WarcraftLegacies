@@ -1,0 +1,20 @@
+{
+  "OldId": "Roch",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": "gnam",
+      "Type": 3,
+      "Value": "降服雷霆崖牛头人"
+    },
+    {
+      "Id": "gnam",
+      "Type": 3,
+      "Value": "混乱"
+    }
+  ],
+  "NewId": "R00O"
+}

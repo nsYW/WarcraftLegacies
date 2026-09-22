@@ -1,0 +1,23 @@
+{
+  "OldId": "uzg1",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "主要防御建筑。"
+    },
+    {
+      "Id": "unsf",
+      "Type": 3,
+      "Value": "（天灾 防御塔）"
+    },
+    {
+      "Id": "unam",
+      "Type": 3,
+      "Value": "幽魂之塔"
+    }
+  ]
+}

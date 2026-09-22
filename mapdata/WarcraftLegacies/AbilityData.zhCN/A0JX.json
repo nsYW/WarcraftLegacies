@@ -1,0 +1,19 @@
+{
+  "OldId": "Assp",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "(地精伐木机"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "生出小蜘蛛"
+    }
+  ],
+  "NewId": "A0JX"
+}

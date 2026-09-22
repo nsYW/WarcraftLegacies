@@ -1,0 +1,26 @@
+{
+  "OldId": "Roch",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": "gnam",
+      "Type": 3,
+      "Value": "统御"
+    },
+    {
+      "Level": 1,
+      "Id": "gnsf",
+      "Type": 3,
+      "Value": "（力量）"
+    },
+    {
+      "Id": "gnam",
+      "Type": 3,
+      "Value": "混乱"
+    }
+  ],
+  "NewId": "R008"
+}
