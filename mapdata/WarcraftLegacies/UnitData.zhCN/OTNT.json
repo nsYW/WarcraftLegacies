@@ -10,6 +10,11 @@
       "Value": "（牛头人部族 T1）"
     },
     {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "建造酋长小屋"
+    },
+    {
       "Id": "utub",
       "Type": 3,
       "Value": "主要建筑。"
