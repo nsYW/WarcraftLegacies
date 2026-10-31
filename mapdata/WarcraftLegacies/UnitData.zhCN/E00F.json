@@ -10,24 +10,24 @@
       "Value": "（日怒）（变形）"
     },
     {
-      "Id": "upro",
-      "Type": 3,
-      "Value": "索兰莉安"
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "虚空领主"
     },
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "召唤伊利丹"
+      "Value": "灵巧型英雄，擅长在战斗中灵活机动。可学习献祭、闪避、法力燃烧和恶魔变形。"
     },
     {
-      "Id": "uawt",
+      "Id": "utip",
       "Type": 3,
-      "Value": "复活伊利丹"
+      "Value": "召唤索兰莉安"
+    },
+    {
+      "Id": "upro",
+      "Type": 3,
+      "Value": "索兰莉安"
     }
   ],
   "NewId": "E00F"

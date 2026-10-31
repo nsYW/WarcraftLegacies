@@ -8,16 +8,6 @@
       "Id": "unam",
       "Type": 3,
       "Value": "假人施法者"
-    },
-    {
-      "Id": "unsf",
-      "Type": 3,
-      "Value": "（天灾）"
-    },
-    {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "牺牲"
     }
   ],
   "NewId": "u00X"

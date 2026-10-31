@@ -10,6 +10,11 @@
       "Value": "（野外生物）"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "野蛮的兽人骑兵。"
+    },
+    {
       "Id": "unam",
       "Type": 3,
       "Value": "掠夺者"

@@ -5,6 +5,11 @@
   ],
   "Modifications": [
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "神秘型英雄，擅长远程作战并造成魔法伤害。"
+    },
+    {
       "Id": "utip",
       "Type": 3,
       "Value": "召唤瓦丝琪女士"

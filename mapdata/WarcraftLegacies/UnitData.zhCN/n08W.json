@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造德莱尼小屋"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "德莱尼部队生产建筑。"
     }
   ],
   "NewId": "n08W"

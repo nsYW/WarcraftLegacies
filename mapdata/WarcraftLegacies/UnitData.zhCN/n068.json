@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练审判官"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "血色的探求施法者。"
     }
   ],
   "NewId": "n068"

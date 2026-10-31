@@ -33,6 +33,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "召唤阿达尔"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "宇宙英雄，擅长团队战斗支援。"
     }
   ],
   "NewId": "H09M"

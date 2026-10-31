@@ -25,16 +25,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "使半径<A019,Area1>范围内的<A019,DataA1>具友方单位尸体复活。"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Brings back to life the corpses of nearby friendly units|n|n|cffffcc00等级 1|r - 20 units revived. 150 second cooldown.|n|cffffcc00等级 2|r - 40 units revived. 135 second cooldown.|n|cffffcc00等级 3|r - 60 units revived. 120 second cooldown."
-    },
-    {
-      "Id": "aret",
-      "Type": 3,
-      "Value": "学习复活术 - [|cffffcc00等级 %d|r]"
     }
   ],
   "NewId": "A019"

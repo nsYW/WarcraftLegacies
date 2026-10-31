@@ -25,11 +25,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "轰炸行动"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00等级 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00等级 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00等级 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each. |n|cffffcc00等级 4|r - <AHbz,DataA4> waves at <AHbz,DataB4> damage each."
     }
   ],
   "NewId": "A0S5"

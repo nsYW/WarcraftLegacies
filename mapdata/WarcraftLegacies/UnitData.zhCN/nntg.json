@@ -18,6 +18,11 @@
       "Id": "unam",
       "Type": 3,
       "Value": "潮汐守望者"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "|cff2fc6ba防御塔|r"
     }
   ]
 }

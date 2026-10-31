@@ -10,6 +10,11 @@
       "Value": "（战歌 T1）"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "主要建筑。"
+    },
+    {
       "Id": "utip",
       "Type": 3,
       "Value": "建造大厅"

@@ -25,11 +25,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "纠缠根须"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Causes roots to burst from the ground, immobilizing, disarming and damaging a target enemy temporarily. |n|n|cffffcc00等级 1|r - <AEer,DataA1> damage per second for <AEer,Dur1> seconds. |n|cffffcc00等级 2|r - <AEer,DataA2> damage per second for <AEer,Dur2> seconds. |n|cffffcc00等级 3|r - <AEer,DataA3> damage per second for <AEer,Dur3> seconds.|n|cffffcc00等级 4|r - <AEer,DataA4> damage per second for <AEer,Dur4> seconds."
     }
   ],
   "NewId": "A0CN"

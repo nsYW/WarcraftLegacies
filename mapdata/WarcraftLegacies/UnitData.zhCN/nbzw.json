@@ -5,6 +5,11 @@
   ],
   "Modifications": [
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "微型远程飞行单位。"
+    },
+    {
       "Id": "unam",
       "Type": 3,
       "Value": "青铜雏龙"

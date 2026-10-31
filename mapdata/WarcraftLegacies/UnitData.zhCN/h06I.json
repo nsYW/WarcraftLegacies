@@ -10,6 +10,11 @@
       "Value": "（库尔提拉斯 T3）"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "主要建筑。"
+    },
+    {
       "Id": "unam",
       "Type": 3,
       "Value": "城堡"

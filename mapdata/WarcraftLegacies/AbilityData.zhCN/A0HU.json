@@ -32,16 +32,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "火元素的攻击会点燃它的敌人，使其移动速度降低<ANdh,DataC2,%>%，并且攻击有<ANdh,DataB2,%>%的未命中率。带有火焰攻击效果的单位如果被火焰之息击中，会被点燃并受到更高的燃烧伤害。 |n持续<ANdh,Dur2>秒。"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Drenches enemy units in alcohol, causing their movement speed to be reduced by <ANdh,DataC1,%>%, and have a chance to miss on attacks.|n|cffffcc00Units affected by |cff99ccffDrunken Haze|r|cffffcc00 ignite when struck by |cff99ccffBreath of Fire|r|cffffcc00, taking burn damage over time.|r |n|cffffcc00Lasts <ANdh,Dur1>(<ANdh,HeroDur1> for Heros) seconds. |n|n|cffffcc00等级 1|r - <ANdh,DataB1,%>% miss chance. |n|cffffcc00等级 2|r - <ANdh,DataB2,%>% miss chance. |n|cffffcc00等级 3|r - <ANdh,DataB3,%>% miss chance. |n|cffffcc00等级 4|r - <ANdh,DataB4,%>% miss chance."
-    },
-    {
-      "Id": "ansf",
-      "Type": 3,
-      "Value": "（铁炉堡 - 麦格尼）"
     }
   ],
   "NewId": "A0HU"

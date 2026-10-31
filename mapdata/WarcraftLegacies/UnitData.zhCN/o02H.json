@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造黑石营地"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "受燃烧军团指引的兽人营地。"
     }
   ],
   "NewId": "o02H"

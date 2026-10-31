@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练圣光主教"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "圣光的忠实而坚定的信徒。"
     }
   ],
   "NewId": "n09N"

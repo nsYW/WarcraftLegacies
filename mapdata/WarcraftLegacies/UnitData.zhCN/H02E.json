@@ -33,6 +33,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "召唤洛瑟玛"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "灵巧型英雄，擅长范围伤害。"
     }
   ],
   "NewId": "H02E"

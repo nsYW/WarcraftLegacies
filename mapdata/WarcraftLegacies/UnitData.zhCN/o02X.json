@@ -10,6 +10,11 @@
       "Value": "（邪能 专精）"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "高级部队生产建筑。"
+    },
+    {
       "Id": "unam",
       "Type": 3,
       "Value": "兽栏"

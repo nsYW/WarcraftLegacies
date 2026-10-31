@@ -8,21 +8,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "流星雨（3级伤害法术）"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Calls an Infernal down from the sky, dealing <AUin,DataA1> damage and stunning enemy land units for <AUin,Dur1> seconds in an area. The Infernal lasts <AUin,DataB1> seconds.|n|cffffcc00等级 1|r - <AUin,DataA1> damage, lasts <AUin,DataB1> seconds.|n|cffffcc00等级 2|r - <AUin,DataA2> damage, lasts <AUin,DataB2> seconds.|n|cffffcc00等级 3|r - <AUin,DataA3> damage, lasts <AUin,DataB3> seconds."
-    },
-    {
-      "Id": "ansf",
-      "Type": 3,
-      "Value": "（燃烧军团 - 阿克蒙德）"
-    },
-    {
-      "Id": "aret",
-      "Type": 3,
-      "Value": "学习地狱火 - [|cffffcc00等级 %d|r]"
     }
   ],
   "NewId": "A0LG"

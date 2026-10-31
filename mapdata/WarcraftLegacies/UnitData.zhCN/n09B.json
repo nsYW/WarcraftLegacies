@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练女巫猎人"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "余烬骑士团的游侠。"
     }
   ],
   "NewId": "n09B"

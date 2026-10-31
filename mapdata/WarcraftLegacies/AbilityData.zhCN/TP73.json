@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "ansf",
-      "Type": 3,
-      "Value": "（剑圣）"
-    },
-    {
       "Level": 1,
       "Id": "aub1",
       "Type": 3,
@@ -25,6 +20,11 @@
       "Id": "anam",
       "Type": 3,
       "Value": "斩杀"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（剑圣）"
     }
   ],
   "NewId": "TP73"

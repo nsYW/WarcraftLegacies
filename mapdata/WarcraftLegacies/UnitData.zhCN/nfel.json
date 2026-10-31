@@ -15,6 +15,11 @@
       "Value": "训练恶魔猎犬"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "被召唤的猎犬。"
+    },
+    {
       "Id": "unam",
       "Type": 3,
       "Value": "恶魔猎犬"

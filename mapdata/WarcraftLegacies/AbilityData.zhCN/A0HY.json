@@ -25,11 +25,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "在敌群中投掷一枚烟雾弹，使他们的攻击有 100% 的未命中率。其移动速度降低 5%。对单位持续 4 秒，对英雄持续 2 秒。"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Drenches enemy units in alcohol, causing their movement speed to be reduced by <ANdh,DataC1,%>%, and have a chance to miss on attacks.|n|cffffcc00Units affected by |cff99ccffDrunken Haze|r|cffffcc00 ignite when struck by |cff99ccffBreath of Fire|r|cffffcc00, taking burn damage over time.|r |n|cffffcc00Lasts <ANdh,Dur1>(<ANdh,HeroDur1> for Heros) seconds. |n|n|cffffcc00等级 1|r - <ANdh,DataB1,%>% miss chance. |n|cffffcc00等级 2|r - <ANdh,DataB2,%>% miss chance. |n|cffffcc00等级 3|r - <ANdh,DataB3,%>% miss chance. |n|cffffcc00等级 4|r - <ANdh,DataB4,%>% miss chance."
     }
   ],
   "NewId": "A0HY"

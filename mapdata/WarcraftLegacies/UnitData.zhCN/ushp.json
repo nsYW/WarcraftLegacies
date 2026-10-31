@@ -10,14 +10,19 @@
       "Value": "被诅咒的港口"
     },
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "建造被诅咒的港口"
+      "Value": "船只建造设施。"
     },
     {
       "Id": "unsf",
       "Type": 3,
       "Value": "（天灾 船坞）"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "建造被诅咒的港口"
     }
   ]
 }

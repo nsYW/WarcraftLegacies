@@ -10,14 +10,19 @@
       "Value": "（德鲁伊）"
     },
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "训练守护古树"
+      "Value": "卡多雷森林的防御型古树，会向敌人投掷巨石。"
     },
     {
       "Id": "unam",
       "Type": 3,
       "Value": "控制点防卫者"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "训练守护古树"
     }
   ],
   "NewId": "e01Y"

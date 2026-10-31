@@ -25,11 +25,6 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "奥术吸收"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Gives a chance to do double damage on their attacks. |n|n|cffffcc00等级 1|r - <AOcr,DataA1>% chance. |n|cffffcc00等级 2|r - <AOcr,DataA2>% chance. |n|cffffcc00等级 3|r - <AOcr,DataA3>% chance.|n|cffffcc00等级 4|r - <AOcr,DataA4>% chance."
     }
   ],
   "NewId": "A11N"

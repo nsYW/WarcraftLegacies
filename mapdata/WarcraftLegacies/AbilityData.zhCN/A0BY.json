@@ -20,21 +20,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "激活一道护盾，每点法力值可吸收<A0BY,DataA1>点伤害。"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Creates a shield that absorbs damage by using the hero's mana. |n|n|cffffcc00等级 1|r - <ANms,DataA1> damage per point of mana. |n|cffffcc00等级 2|r - <ANms,DataA2> damage per point of mana. |n|cffffcc00等级 3|r - <ANms,DataA3> damage per point of mana. |n|cffffcc00等级 3|r - <ANms,DataA4> damage per point of mana."
-    },
-    {
-      "Id": "aret",
-      "Type": 3,
-      "Value": "学习法力护盾"
-    },
-    {
-      "Id": "anam",
-      "Type": 3,
-      "Value": "法力护盾"
     }
   ],
   "NewId": "A0BY"

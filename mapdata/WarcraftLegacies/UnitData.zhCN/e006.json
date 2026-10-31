@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练女祭司"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "艾露恩的神圣女祭司。"
     }
   ],
   "NewId": "e006"

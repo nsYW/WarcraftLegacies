@@ -15,6 +15,11 @@
       "Value": "棘语者"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "支援型施法单位。"
+    },
+    {
       "Id": "utip",
       "Type": 3,
       "Value": "训练棘语者"

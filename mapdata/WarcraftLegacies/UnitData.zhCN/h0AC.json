@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练海巫"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "纳沙塔尔宫廷的精锐战士。"
     }
   ],
   "NewId": "h0AC"

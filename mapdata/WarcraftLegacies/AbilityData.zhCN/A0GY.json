@@ -25,11 +25,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "尖刺甲壳"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "The Hero forms barbed layers of chitinous armor that increases its armor, causes it to take reduced damage from all sources and returns damage to enemy melee attackers.  |n|n|cffffcc00等级 1|r - <AUts,DataC1> bonus armor, <AUts,DataA1,%>% damage returned. |n|cffffcc00等级 2|r - <AUts,DataC2> bonus armor, hero takes <AUts,DataB2,%>% damage from all sources, <AUts,DataA2,%>% damage returned. |n|cffffcc00等级 3|r - <AUts,DataC3> bonus armor, hero takes <AUts,DataB3,%>% damage from all sources, <AUts,DataA3,%>% damage returned.  |n|cffffcc00等级 4|r - <AUts,DataC4> bonus armor, hero takes <AUts,DataB4,%>% damage from all sources, <AUts,DataA4,%>% damage returned."
     }
   ],
   "NewId": "A0GY"

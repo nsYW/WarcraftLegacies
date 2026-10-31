@@ -8,6 +8,11 @@
       "Id": "unam",
       "Type": 3,
       "Value": "村民"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "睿智的村民。"
     }
   ]
 }

@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练绯红指挥官"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "血色指挥官。"
     }
   ],
   "NewId": "h09Q"

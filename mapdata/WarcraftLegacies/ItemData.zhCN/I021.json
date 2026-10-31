@@ -10,6 +10,11 @@
       "Value": "（兽人部落）"
     },
     {
+      "Id": "unam",
+      "Type": 3,
+      "Value": "微型风暴祭坛"
+    },
+    {
       "Id": "utip",
       "Type": 3,
       "Value": "购买微型风暴祭坛"
@@ -18,11 +23,6 @@
       "Id": "utub",
       "Type": 3,
       "Value": "购买微型风暴祭坛"
-    },
-    {
-      "Id": "unam",
-      "Type": 3,
-      "Value": "微型风暴祭坛"
     }
   ],
   "NewId": "I021"

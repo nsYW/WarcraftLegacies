@@ -5,9 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "建造地狱火攻城工坊"
+      "Value": "攻城武器生产建筑。"
     },
     {
       "Id": "unsf",
@@ -18,6 +18,11 @@
       "Id": "unam",
       "Type": 3,
       "Value": "地狱火攻城工坊"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "建造地狱火攻城工坊"
     }
   ],
   "NewId": "n04N"

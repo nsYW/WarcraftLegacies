@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练符文牧师"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "博学的战地牧师与符文匠。"
     }
   ],
   "NewId": "n00C"

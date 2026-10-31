@@ -5,9 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "建造虚空深渊"
+      "Value": "主要部队生产建筑。|r"
     },
     {
       "Id": "unsf",
@@ -18,6 +18,11 @@
       "Id": "unam",
       "Type": 3,
       "Value": "虚空深渊"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "建造虚空深渊"
     }
   ],
   "NewId": "n04Q"

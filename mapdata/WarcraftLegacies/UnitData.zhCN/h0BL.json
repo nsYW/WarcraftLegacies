@@ -10,6 +10,11 @@
       "Value": "（血色兽栏）"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "空中单位生产建筑。"
+    },
+    {
       "Id": "unam",
       "Type": 3,
       "Value": "栖木"

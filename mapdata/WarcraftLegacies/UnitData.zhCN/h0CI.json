@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造匠师庭院"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "攻城武器生产建筑。"
     }
   ],
   "NewId": "h0CI"

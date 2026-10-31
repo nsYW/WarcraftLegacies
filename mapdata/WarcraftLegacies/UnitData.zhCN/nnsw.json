@@ -5,6 +5,11 @@
   ],
   "Modifications": [
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "古老的纳迦秘术施法者。"
+    },
+    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（伊利达雷）"

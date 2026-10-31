@@ -15,14 +15,14 @@
       "Value": "训练库卡隆精英"
     },
     {
-      "Id": "unam",
-      "Type": 3,
-      "Value": "库卡隆精英"
-    },
-    {
       "Id": "utub",
       "Type": 3,
       "Value": "兽人部落的精英卫兵。"
+    },
+    {
+      "Id": "unam",
+      "Type": 3,
+      "Value": "库卡隆精英"
     }
   ],
   "NewId": "n03F"

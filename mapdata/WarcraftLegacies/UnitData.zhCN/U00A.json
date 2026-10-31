@@ -20,11 +20,6 @@
       "Value": "天灾指挥官"
     },
     {
-      "Id": "upro",
-      "Type": 3,
-      "Value": "瑞文戴尔男爵"
-    },
-    {
       "Id": "utpr",
       "Type": 3,
       "Value": "复活天灾指挥官"
@@ -33,6 +28,16 @@
       "Id": "utip",
       "Type": 3,
       "Value": "召唤瑞文戴尔男爵"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "战斗型英雄，擅长召唤和支援部队。"
+    },
+    {
+      "Id": "upro",
+      "Type": 3,
+      "Value": "瑞文戴尔男爵"
     }
   ],
   "NewId": "U00A"

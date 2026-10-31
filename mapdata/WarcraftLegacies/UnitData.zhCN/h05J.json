@@ -15,6 +15,11 @@
       "Value": "勇士大厅"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "包含可提升|cffcece00剑士|r、|cffcece00前哨骑兵|r、|cffcece00元帅|r与|cffcece00准将|r单位的研究。"
+    },
+    {
       "Id": "utip",
       "Type": 3,
       "Value": "升级到勇士大厅"

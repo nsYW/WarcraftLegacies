@@ -13,6 +13,11 @@
       "Id": "unam",
       "Type": 3,
       "Value": "水手"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "基本工人单位。"
     }
   ],
   "NewId": "h01E"

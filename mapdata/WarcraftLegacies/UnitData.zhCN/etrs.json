@@ -10,14 +10,14 @@
       "Value": "（德鲁伊 - 哨兵）"
     },
     {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "训练暗夜精灵运输船 |cffffcc00Q|r"
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "暗夜精灵运输船"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "训练暗夜精灵运输船 |cffffcc00Q|r"
     }
   ]
 }

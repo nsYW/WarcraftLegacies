@@ -10,14 +10,19 @@
       "Value": "（日怒）"
     },
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "训练蝎子"
+      "Value": "风暴锻造的战争机械。"
     },
     {
       "Id": "unam",
       "Type": 3,
       "Value": "蝎子"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "训练蝎子"
     }
   ],
   "NewId": "n0E4"

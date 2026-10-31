@@ -25,14 +25,19 @@
       "Value": "瓦罗克·萨鲁法尔"
     },
     {
-      "Id": "utpr",
-      "Type": 3,
-      "Value": "复活霸主"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "召唤瓦罗克"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "战斗型英雄，专精于持久作战和强化部队。"
+    },
+    {
+      "Id": "utpr",
+      "Type": 3,
+      "Value": "复活霸主"
     }
   ],
   "NewId": "VSWS"

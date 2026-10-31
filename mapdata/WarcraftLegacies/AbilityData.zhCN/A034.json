@@ -25,11 +25,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "以奥术飞弹轰击目标区域，对周围的敌方地面单位最多造成 150 点伤害，并使其昏迷 1 秒。"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "Bombards an area with rockets, stunning enemy units for 1 second and damaging nearby enemy units.|n|n|cffffcc00等级 1|r - 45 damage.|n|cffffcc00等级 2|r - 75 damage.|n|cffffcc00等级 3|r - 110 damage.|n|cffffcc00等级 4|r - 150 damage."
     }
   ],
   "NewId": "A034"

@@ -13,6 +13,11 @@
       "Id": "unam",
       "Type": 3,
       "Value": "副本入口"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "开启传送门。"
     }
   ],
   "NewId": "h05T"

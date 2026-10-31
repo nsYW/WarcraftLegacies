@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造锻造炉"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "通用研发建筑。"
     }
   ],
   "NewId": "h0C8"

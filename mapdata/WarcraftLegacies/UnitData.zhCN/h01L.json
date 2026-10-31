@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练领主"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "近战单位，矮人氏族的首领。"
     }
   ],
   "NewId": "h01L"

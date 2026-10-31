@@ -13,6 +13,11 @@
       "Id": "unsf",
       "Type": 3,
       "Value": "（赞助者）"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "呼唤野猪之灵来拯救你。"
     }
   ],
   "NewId": "mD06"

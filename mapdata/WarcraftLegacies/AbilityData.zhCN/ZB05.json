@@ -25,11 +25,6 @@
       "Id": "anam",
       "Type": 3,
       "Value": "群体凋零缠绕"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "A coil of death that can damage an enemy living unit or heal a friendly Undead unit. |n|n|cffffcc00等级 1|r - Heals for <AUdc,DataA1> hit points. |n|cffffcc00等级 2|r - Heals for <AUdc,DataA2> hit points. |n|cffffcc00等级 3|r - Heals for <AUdc,DataA3> hit points. |n|cffffcc00等级 4|r - Heals for <AUdc,DataA4> hit points."
     }
   ],
   "NewId": "ZB05"

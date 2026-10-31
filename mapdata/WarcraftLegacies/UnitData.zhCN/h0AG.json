@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造刀剑大厅"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "主要作战单位生产建筑。"
     }
   ],
   "NewId": "h0AG"

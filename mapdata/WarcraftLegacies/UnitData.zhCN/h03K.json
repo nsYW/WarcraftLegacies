@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练元帅"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "南方人类军队的指挥官。"
     }
   ],
   "NewId": "h03K"

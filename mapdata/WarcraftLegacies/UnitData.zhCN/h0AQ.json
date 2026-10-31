@@ -15,6 +15,11 @@
       "Value": "接舷战船"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "特种中型船只。"
+    },
+    {
       "Id": "utip",
       "Type": 3,
       "Value": "训练接舷战船"

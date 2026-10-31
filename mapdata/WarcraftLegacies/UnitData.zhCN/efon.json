@@ -15,6 +15,11 @@
       "Value": "训练树人"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "基本的木质战士"
+    },
+    {
       "Id": "unam",
       "Type": 3,
       "Value": "树人"

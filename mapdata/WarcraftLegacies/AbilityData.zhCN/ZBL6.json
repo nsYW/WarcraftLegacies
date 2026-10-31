@@ -47,12 +47,7 @@
     {
       "Id": "anam",
       "Type": 3,
-      "Value": "神圣风暴"
-    },
-    {
-      "Id": "aret",
-      "Type": 3,
-      "Value": "学习神圣风暴 - [|cffffcc00等级 %d|r]"
+      "Value": "献祭"
     }
   ],
   "NewId": "ZBL6"

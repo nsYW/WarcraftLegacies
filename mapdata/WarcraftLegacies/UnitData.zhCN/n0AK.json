@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练见习法师"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "轻型远程单位。"
     }
   ],
   "NewId": "n0AK"

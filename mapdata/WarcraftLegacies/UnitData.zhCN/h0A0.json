@@ -15,6 +15,11 @@
       "Value": "燧发枪手"
     },
     {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "远程骑射手。"
+    },
+    {
       "Id": "utip",
       "Type": 3,
       "Value": "训练燧发枪手"

@@ -15,9 +15,9 @@
       "Value": "控制点防卫者"
     },
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "建造潮汐守望者"
+      "Value": "|cff2fc6ba防御塔|r"
     }
   ],
   "NewId": "n0BB"

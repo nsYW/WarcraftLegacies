@@ -37,11 +37,6 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "向地图上任意位置的一个目标敌方单位发射一枚水晶，击昏目标<ADCS,Dur2>秒。（对英雄为<ADCS,HeroDur2,.>秒）"
-    },
-    {
-      "Id": "arut",
-      "Type": 3,
-      "Value": "A magical hammer that is thrown at an enemy unit, causing damage and stunning the target. |n|n|cffffcc00等级 1|r - <AHtb,DataA1> damage, <AHtb,Dur1> second stun. 1 second on Heroes.|n|cffffcc00等级 2|r - <AHtb,DataA2> damage, <AHtb,Dur2> second stun. 1.5 seconds on Heroes.|n|cffffcc00等级 3|r - <AHtb,DataA3> damage, <AHtb,Dur3> second stun. 2 seconds on Heroes.|n|cffffcc00等级 4|r - <AHtb,DataA4> damage, <AHtb,Dur4> second stun. 2.5 seconds on Heroes."
     }
   ],
   "NewId": "ADCS"

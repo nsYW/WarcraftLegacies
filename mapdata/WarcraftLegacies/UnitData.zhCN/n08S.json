@@ -10,14 +10,19 @@
       "Value": "（天空之墙）"
     },
     {
-      "Id": "utip",
+      "Id": "utub",
       "Type": 3,
-      "Value": "训练元素领主"
+      "Value": "掌控四大元素的元素领主。"
     },
     {
       "Id": "unam",
       "Type": 3,
       "Value": "元素领主"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "训练元素领主"
     }
   ],
   "NewId": "n08S"

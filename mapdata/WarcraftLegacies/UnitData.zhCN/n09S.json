@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练百夫长"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "日怒的战士。"
     }
   ],
   "NewId": "n09S"

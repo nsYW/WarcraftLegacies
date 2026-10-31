@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练秘术师"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "精通奥术之道的女巫。"
     }
   ],
   "NewId": "h01I"

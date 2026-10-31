@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练牧师"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "治疗型施法单位。"
     }
   ],
   "NewId": "h04M"

@@ -18,6 +18,11 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造牛头人码头"
+    },
+    {
+      "Id": "utub",
+      "Type": 3,
+      "Value": "船只建造设施。"
     }
   ],
   "NewId": "otsy"
