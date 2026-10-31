@@ -1,0 +1,31 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "使女祭司及附近友方单位隐形 8 秒，并使其移动速度提高 10%。单位在攻击或施放法术之前保持隐形。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（哨兵 - 月之女祭司）"
+    }
+  ],
+  "NewId": "A16I"
+}

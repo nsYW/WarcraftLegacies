@@ -1,0 +1,65 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Magatha channels the fury of the Earth Mother around her for up to 8 seconds. Enemies in the area are held in place by roots until the channel ends and take damage every second, while allies in the area are healed every second.|n|n|cffffcc00等级 1|r - 30 damage and healing per second.|n|cffffcc00等级 2|r - 45 damage and healing per second.|n|cffffcc00等级 3|r - 60 damage and healing per second."
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Wrath of the Earth Mother - [|cffffcc001 级|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Wrath of the Earth Mother - [|cffffcc002 级|r]"
+    },
+    {
+      "Level": 3,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Wrath of the Earth Mother - [|cffffcc003 级|r]"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "Magatha channels the fury of the 大地之灵 Mother around her for up to 8 seconds. Enemies in the area are held in place by roots until the channel ends and take damage every second, while allies in the area are healed every second.|n|n|cffffcc00等级 1|r - 30 damage and healing per second."
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "Magatha channels the fury of the 大地之灵 Mother around her for up to 8 seconds. Enemies in the area are held in place by roots until the channel ends and take damage every second, while allies in the area are healed every second.|n|n|cffffcc00等级 2|r - 45 damage and healing per second."
+    },
+    {
+      "Level": 3,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "Magatha channels the fury of the 大地之灵 Mother around her for up to 8 seconds. Enemies in the area are held in place by roots until the channel ends and take damage every second, while allies in the area are healed every second.|n|n|cffffcc00等级 3|r - 60 damage and healing per second."
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习引导 - [|cffffcc00等级 %d|r]"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 玛加萨）"
+    }
+  ],
+  "NewId": "A151"
+}

@@ -15,11 +15,6 @@
       "Value": "护卫舰"
     },
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "标准中型船只。"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "训练护卫舰"

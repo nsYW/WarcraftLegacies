@@ -18,11 +18,6 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造哨兵前哨"
-    },
-    {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "主要建筑。"
     }
   ],
   "NewId": "n06J"

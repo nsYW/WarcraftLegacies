@@ -1,0 +1,77 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（玛法里奥）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Plants a seed in a target enemy unit, dealing initial damage, then damage over time for 15 seconds and revealing it. Cannot be dispelled. If the unit dies while the seed is inside it, a Treant sprouts from its body under your control.|n|n|cffffcc00等级 1|r - 75 damage, then 10 damage per second.|n|cffffcc00等级 2|r - 150 damage, then 15 damage per second.|n|cffffcc00等级 3|r - 200 damage, then 20 damage per second.|n|cffffcc00等级 4|r - 250 damage, then 25 damage per second."
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Seed of Rebirth - [|cffffcc001 级|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Seed of Rebirth - [|cffffcc002 级|r]"
+    },
+    {
+      "Level": 3,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Seed of Rebirth - [|cffffcc003 级|r]"
+    },
+    {
+      "Level": 4,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Seed of Rebirth - [|cffffcc004 级|r]"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "在目标敌方单位体内种下一颗种子，造成 75 点伤害，随后每秒造成 10 点伤害，持续 15 秒，并使其显形。无法被驱散。若该单位在种子仍在体内时死亡，一棵树人会从其尸体中长出，为你作战。"
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "在目标敌方单位体内种下一颗种子，造成 150 点伤害，随后每秒造成 15 点伤害，持续 15 秒，并使其显形。无法被驱散。若该单位在种子仍在体内时死亡，一棵树人会从其尸体中长出，为你作战。"
+    },
+    {
+      "Level": 3,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "在目标敌方单位体内种下一颗种子，造成 200 点伤害，随后每秒造成 20 点伤害，持续 15 秒，并使其显形。无法被驱散。若该单位在种子仍在体内时死亡，一棵树人会从其尸体中长出，为你作战。"
+    },
+    {
+      "Level": 4,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "在目标敌方单位体内种下一颗种子，造成 250 点伤害，随后每秒造成 25 点伤害，持续 15 秒，并使其显形。无法被驱散。若该单位在种子仍在体内时死亡，一棵树人会从其尸体中长出，为你作战。"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习引导 - [|cffffcc00等级 %d|r]"
+    }
+  ],
+  "NewId": "A15O"
+}

@@ -8,6 +8,11 @@
       "Id": "ansf",
       "Type": 3,
       "Value": "（萨格拉斯之眼）（中立敌对）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "隐形术"
     }
   ],
   "NewId": "A04G"

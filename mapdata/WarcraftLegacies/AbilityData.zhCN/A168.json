@@ -1,0 +1,19 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "黑暗召唤"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（血魔的短杖）"
+    }
+  ],
+  "NewId": "A168"
+}

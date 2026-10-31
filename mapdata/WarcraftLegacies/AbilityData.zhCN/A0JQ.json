@@ -25,6 +25,11 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "为目标区域内的所有友方单位恢复 125 点生命值。"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Conjures a pillar of fire which damages ground units in a target area over time. |n|n|cffffcc00等级 1|r - 66 damage over 3 seconds, followed by 90 damage over 6 seconds. |n|cffffcc00等级 2|r - 84 damage over 3 seconds, followed by 102 damage over 6 seconds. |n|cffffcc00等级 3|r - 99 damage over 3 seconds, followed by 120 damage over 6 seconds. |n|cffffcc00等级 4|r - 117 damage over 3 seconds, followed by 138 damage over 6 seconds."
     }
   ],
   "NewId": "A0JQ"

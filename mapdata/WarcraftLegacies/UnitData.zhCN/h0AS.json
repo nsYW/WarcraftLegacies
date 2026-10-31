@@ -15,11 +15,6 @@
       "Value": "侦察船"
     },
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "小型侦察船。"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "训练侦察船"

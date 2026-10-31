@@ -1,0 +1,24 @@
+{
+  "OldId": "Basl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "fnam",
+      "Type": 3,
+      "Value": "恐怖图腾结界"
+    },
+    {
+      "Id": "ftip",
+      "Type": 3,
+      "Value": "恐怖图腾结界"
+    },
+    {
+      "Id": "fube",
+      "Type": 3,
+      "Value": "该单位靠近敌方的恐怖图腾结界，移动和攻击速度降低。"
+    }
+  ],
+  "NewId": "B0E1"
+}

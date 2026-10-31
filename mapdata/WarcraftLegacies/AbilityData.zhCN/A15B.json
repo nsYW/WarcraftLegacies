@@ -1,0 +1,19 @@
+{
+  "OldId": "Atau",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "嘲讽"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（德鲁伊 - 远古树人）"
+    }
+  ],
+  "NewId": "A15B"
+}

@@ -1,0 +1,19 @@
+{
+  "OldId": "AImr",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "觅魂者"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（克尔苏加德的法杖）"
+    }
+  ],
+  "NewId": "A167"
+}

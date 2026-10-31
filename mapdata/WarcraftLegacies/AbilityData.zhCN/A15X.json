@@ -1,0 +1,19 @@
+{
+  "OldId": "Aegr",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "艾露恩的赐福"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（哨兵 - 守望者）"
+    }
+  ],
+  "NewId": "A15X"
+}

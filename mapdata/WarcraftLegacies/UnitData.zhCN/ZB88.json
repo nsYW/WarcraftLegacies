@@ -12,7 +12,7 @@
     {
       "Id": "upro",
       "Type": 3,
-      "Value": "恶魔猎手"
+      "Value": "伊利丹·怒风"
     },
     {
       "Id": "uawt",
@@ -22,7 +22,7 @@
     {
       "Id": "utip",
       "Type": 3,
-      "Value": "召唤恶魔猎手"
+      "Value": "召唤伊利丹"
     },
     {
       "Id": "utpr",
@@ -30,9 +30,9 @@
       "Value": "复活恶魔猎手"
     },
     {
-      "Id": "utub",
+      "Id": "unam",
       "Type": 3,
-      "Value": "致命英雄，擅长冲入战团并斩杀关键目标。"
+      "Value": "恶魔猎手"
     }
   ],
   "NewId": "ZB88"

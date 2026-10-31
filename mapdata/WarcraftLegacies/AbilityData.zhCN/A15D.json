@@ -1,0 +1,19 @@
+{
+  "OldId": "Ainf",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "挑战嘲讽（护甲）"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 食人魔领主假人）"
+    }
+  ],
+  "NewId": "A15D"
+}

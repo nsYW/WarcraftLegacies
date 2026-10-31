@@ -8,6 +8,11 @@
       "Id": "ansf",
       "Type": 3,
       "Value": "（燃烧军团召唤物）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "法术免疫"
     }
   ],
   "NewId": "A0KZ"

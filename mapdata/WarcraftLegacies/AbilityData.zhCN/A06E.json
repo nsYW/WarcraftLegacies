@@ -18,13 +18,13 @@
       "Level": 2,
       "Id": "atp1",
       "Type": 3,
-      "Value": "天神下凡 - [|cffffcc002级|r]"
+      "Value": "Avatar - [|cffffcc00等级 2|r]"
     },
     {
       "Level": 3,
       "Id": "atp1",
       "Type": 3,
-      "Value": "天神下凡 - [|cffffcc003级|r]"
+      "Value": "Avatar - [|cffffcc00等级 3|r]"
     },
     {
       "Level": 1,
@@ -48,12 +48,17 @@
       "Level": 1,
       "Id": "atp1",
       "Type": 3,
-      "Value": "天神下凡 - [|cffffcc001级|r]"
+      "Value": "Avatar - [|cffffcc00等级 1|r]"
     },
     {
       "Id": "anam",
       "Type": 3,
-      "Value": "天神下凡"
+      "Value": "战斗恍惚"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习战斗恍惚"
     }
   ],
   "NewId": "A06E"

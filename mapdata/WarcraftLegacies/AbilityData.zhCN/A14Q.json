@@ -1,0 +1,77 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Wild Throw - [|cffffcc001 级|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Wild Throw - [|cffffcc002 级|r]"
+    },
+    {
+      "Level": 3,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Wild Throw - [|cffffcc003 级|r]"
+    },
+    {
+      "Level": 4,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Wild Throw - [|cffffcc004 级|r]"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Hurls a spinning axe that pierces enemies in a line and returns to Rexxar, damaging all enemies it hits and slowing their movement speed by 50% and attack rate by 25%.|n|n|cffffcc00等级 1|r - 100 damage, <A15Z,Dur1,.> (<A15Z,HeroDur1,.>) seconds slow.|n|cffffcc00等级 2|r - 175 damage, <A15Z,Dur2,.> (<A15Z,HeroDur2,.>) seconds slow.|n|cffffcc00等级 3|r - 250 damage, <A15Z,Dur3,.> (<A15Z,HeroDur3,.>) seconds slow.|n|cffffcc00等级 4|r - 325 damage, <A15Z,Dur4,.> (<A15Z,HeroDur4,.>) seconds slow."
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（雷克萨）"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "掷出一柄旋转的战斧，贯穿一条直线上的敌人后返回雷克萨，造成 100 点伤害，并使其移动速度降低 50%、攻击速度降低 25%，持续<A15Z,Dur1,.>秒（英雄为<A15Z,HeroDur1,.>秒）。"
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "掷出一柄旋转的战斧，贯穿一条直线上的敌人后返回雷克萨，造成 175 点伤害，并使其移动速度降低 50%、攻击速度降低 25%，持续<A15Z,Dur2,.>秒（英雄为<A15Z,HeroDur2,.>秒）。"
+    },
+    {
+      "Level": 3,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "掷出一柄旋转的战斧，贯穿一条直线上的敌人后返回雷克萨，造成 250 点伤害，并使其移动速度降低 50%、攻击速度降低 25%，持续<A15Z,Dur3,.>秒（英雄为<A15Z,HeroDur3,.>秒）。"
+    },
+    {
+      "Level": 4,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "掷出一柄旋转的战斧，贯穿一条直线上的敌人后返回雷克萨，造成 325 点伤害，并使其移动速度降低 50%、攻击速度降低 25%，持续<A15Z,Dur4,.>秒（英雄为<A15Z,HeroDur4,.>秒）。"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习引导 - [|cffffcc00等级 %d|r]"
+    }
+  ],
+  "NewId": "A14Q"
+}

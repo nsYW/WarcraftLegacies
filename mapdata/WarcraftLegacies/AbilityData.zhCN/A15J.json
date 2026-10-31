@@ -1,0 +1,31 @@
+{
+  "OldId": "Acmg",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "控制魔法"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "控制魔法"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "夺取一个敌方召唤单位的控制权。消耗的法力值等于该召唤单位生命值的 25%。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 先祖之灵）"
+    }
+  ],
+  "NewId": "A15J"
+}

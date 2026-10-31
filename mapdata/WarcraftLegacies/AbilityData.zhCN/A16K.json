@@ -1,0 +1,31 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "祝福女祭司及附近友方单位，使其获得 4 点额外护甲和每秒 1 点额外魔法恢复，持续 15 秒。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（哨兵 - 月之女祭司）"
+    }
+  ],
+  "NewId": "A16K"
+}

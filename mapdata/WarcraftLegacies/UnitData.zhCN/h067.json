@@ -18,11 +18,6 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造法力熔炉"
-    },
-    {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "高级部队生产建筑。"
     }
   ],
   "NewId": "h067"

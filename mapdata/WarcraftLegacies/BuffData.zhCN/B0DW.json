@@ -1,0 +1,19 @@
+{
+  "OldId": "Binf",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "fube",
+      "Type": 3,
+      "Value": "该单位的护甲已被腐蚀，护甲降低。"
+    },
+    {
+      "Id": "ftip",
+      "Type": 3,
+      "Value": "腐化"
+    }
+  ],
+  "NewId": "B0DW"
+}

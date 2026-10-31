@@ -20,6 +20,11 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "召唤一只具有<nqb4,realHP>点生命值的豪猪，向施法者的敌人投掷脊刺。 |n持续<YBSQ,Dur1>秒。"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "召唤豪猪"
     }
   ],
   "NewId": "YBSQ"

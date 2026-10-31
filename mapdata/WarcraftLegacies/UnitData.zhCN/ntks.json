@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "拥有心灵之火的中型远程单位。"
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "海象人巫师"

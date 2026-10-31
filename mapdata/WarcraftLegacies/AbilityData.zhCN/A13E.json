@@ -25,6 +25,11 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "召唤蜘蛛"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "The hero progenerates Carrion Beetles from a target corpse to attack the hero's enemies. Beetles are permanent. |n|n|cffffcc00等级 1|r - Spawns <AUcb,DataA1> minor Carrion Beetles. Max 6 Beetles. |n|cffffcc00等级 2|r - Spawns <AUcb,DataA2> Carrion Beetles. Max 6 Beetles. |n|cffffcc00等级 3|r - Spawns <AUcb,DataA3> Dire Carrion Beetle. Max 6 Beetles. |n|cffffcc00等级 4|r - Spawns <AUcb,DataA4> Dire Carrion Beetle. Max 12 Beetles."
     }
   ],
   "NewId": "A13E"

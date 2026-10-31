@@ -23,13 +23,13 @@
       "Level": 2,
       "Id": "atp1",
       "Type": 3,
-      "Value": "宁静 - [|cffffcc002 级|r]"
+      "Value": "Tranquility - [|cffffcc00等级 2|r]"
     },
     {
       "Level": 3,
       "Id": "atp1",
       "Type": 3,
-      "Value": "宁静 - [|cffffcc003 级|r]"
+      "Value": "Tranquility - [|cffffcc00等级 3|r]"
     },
     {
       "Level": 1,
@@ -48,6 +48,11 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "召唤治疗能量之雨倾泻于大片区域，每秒为友方盟友单位恢复 50 点生命值。|n持续 20 秒。"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "宁静"
     }
   ],
   "NewId": "AGYN"

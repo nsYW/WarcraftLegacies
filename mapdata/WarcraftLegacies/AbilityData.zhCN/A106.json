@@ -14,6 +14,11 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "诅咒一名敌方单位，使其攻击有<Acrs,DataA2,%>%的几率落空。|n持续<Acrs,Dur2>秒。"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "诅咒"
     }
   ],
   "NewId": "A106"

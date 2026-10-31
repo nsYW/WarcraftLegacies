@@ -1,0 +1,19 @@
+{
+  "OldId": "Aasl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "减速光环"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 恐怖图腾结界）"
+    }
+  ],
+  "NewId": "A155"
+}

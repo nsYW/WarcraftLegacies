@@ -1,0 +1,41 @@
+{
+  "OldId": "ANav",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "天神下凡"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "天神下凡"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "When Battle Trance is activated, the Hero gains bonus armor, bonus hit points, bonus damage and spell immunity.|nLasts 15 seconds.|n|n|cffffcc00等级 1|r - 5 bonus armor, 15 bonus damage.|n|cffffcc00等级 2|r - 10 bonus armor, 30 bonus damage.|n|cffffcc00等级 3|r - 15 bonus armor, 45 bonus damage."
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习战斗恍惚"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "食人魔领主暴怒，获得 8 点额外护甲、250 点额外生命值和 20 点额外攻击力。持续 20 秒。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 食人魔领主）"
+    }
+  ],
+  "NewId": "A15F"
+}

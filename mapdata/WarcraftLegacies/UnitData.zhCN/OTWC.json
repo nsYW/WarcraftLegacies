@@ -10,11 +10,6 @@
       "Value": "（牛头人部族 兵营）"
     },
     {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "建造试炼场"
-    },
-    {
       "Id": "unam",
       "Type": 3,
       "Value": "试炼场"
@@ -23,6 +18,11 @@
       "Id": "utub",
       "Type": 3,
       "Value": "主要作战单位生产建筑。"
+    },
+    {
+      "Id": "utip",
+      "Type": 3,
+      "Value": "建造试炼场"
     }
   ],
   "NewId": "otwc"

@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "弓箭手驻守的防御塔。"
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（吉尔尼斯）"

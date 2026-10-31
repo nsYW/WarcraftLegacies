@@ -1,0 +1,19 @@
+{
+  "OldId": "AId1",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "腐化地雷（护甲减益）"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（瑞文戴尔）"
+    }
+  ],
+  "NewId": "A14U"
+}

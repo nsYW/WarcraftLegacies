@@ -5,9 +5,9 @@
   ],
   "Modifications": [
     {
-      "Id": "utub",
+      "Id": "utip",
       "Type": 3,
-      "Value": "向敌人投掷巨石。"
+      "Value": "建造巨石塔"
     },
     {
       "Id": "unsf",
@@ -18,11 +18,6 @@
       "Id": "unam",
       "Type": 3,
       "Value": "控制点防卫者"
-    },
-    {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "建造巨石塔"
     }
   ],
   "NewId": "n0B6"

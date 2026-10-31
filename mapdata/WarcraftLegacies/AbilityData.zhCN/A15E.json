@@ -1,0 +1,36 @@
+{
+  "OldId": "ANht",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "恐惧嚎叫"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "恐惧嚎叫"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "The Pit Lord lets loose a terrifying howl that causes nearby enemy units to shiver in fear, reducing their attack damage. |nLasts <ANht,Dur1> seconds. |n|n|cffffcc00等级 1|r - <ANht,DataA1,%>% attack damage reduction. |n|cffffcc00等级 2|r - <ANht,DataA2,%>% attack damage reduction. |n|cffffcc00等级 3|r - <ANht,DataA3,%>% attack damage reduction. |n|cffffcc00等级 4|r - <ANht,DataA4,%>% attack damage reduction. |n|cffffcc00等级 5|r - <ANht,DataA5,%>% attack damage reduction. |n|cffffcc00等级 6|r - <ANht,DataA6,%>% attack damage reduction."
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "发出一声骇人的嚎叫，使附近敌方单位的攻击力降低 30%。持续 12 秒，英雄为 8 秒。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 食人魔领主）"
+    }
+  ],
+  "NewId": "A15E"
+}

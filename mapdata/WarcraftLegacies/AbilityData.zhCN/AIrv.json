@@ -1,0 +1,13 @@
+{
+  "OldId": "AIrv",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "物品 - 暴露整张地图"
+    }
+  ]
+}

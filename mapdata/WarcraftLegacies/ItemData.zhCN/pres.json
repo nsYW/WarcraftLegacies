@@ -1,0 +1,13 @@
+{
+  "OldId": "pres",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "unam",
+      "Type": 3,
+      "Value": "复原药水"
+    }
+  ]
+}

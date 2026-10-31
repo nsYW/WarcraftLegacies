@@ -1,0 +1,19 @@
+{
+  "OldId": "AOwk",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "疾风步"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（艾露恩恩典之弓）"
+    }
+  ],
+  "NewId": "A16A"
+}

@@ -10,19 +10,14 @@
       "Value": "强化奥术塔"
     },
     {
-      "Id": "utub",
+      "Id": "utip",
       "Type": 3,
-      "Value": "强化魔法防御建筑。"
+      "Value": "升级到|cffffcc00Z|r强化奥术塔"
     },
     {
       "Id": "unsf",
       "Type": 3,
       "Value": "（洛丹伦塔）"
-    },
-    {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "升级到|cffffcc00Z|r强化奥术塔"
     }
   ],
   "NewId": "h008"

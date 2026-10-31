@@ -25,9 +25,14 @@
       "Value": "召唤基尔加丹"
     },
     {
-      "Id": "utub",
+      "Id": "uawt",
       "Type": 3,
-      "Value": "施法型英雄，擅长范围伤害。"
+      "Value": "复活污染者"
+    },
+    {
+      "Id": "utpr",
+      "Type": 3,
+      "Value": "复活污染者"
     }
   ],
   "NewId": "U004"

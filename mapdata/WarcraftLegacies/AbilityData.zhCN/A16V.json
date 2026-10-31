@@ -1,0 +1,31 @@
+{
+  "OldId": "ACce",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "顺劈斩"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "顺劈斩"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "对同一目标的每第四次攻击造成 40 点额外伤害。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（兽人部落 - 剑圣）"
+    }
+  ],
+  "NewId": "A16V"
+}

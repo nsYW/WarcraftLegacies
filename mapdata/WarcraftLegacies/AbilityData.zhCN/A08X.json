@@ -25,6 +25,11 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "使 600 范围内附近敌方单位的护甲降低 6 点。"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Gives additional armor to nearby friendly units in 450 range. |n|n|cffffcc00等级 1|r - Increases armor by <AHad,DataA1,.>. |n|cffffcc00等级 2|r - Increases armor by <AHad,DataA2,.>. |n|cffffcc00等级 3|r - Increases armor by <AHad,DataA3,.>.|n|cffffcc00等级 4|r - Increases armor by <AHad,DataA4,.>."
     }
   ],
   "NewId": "A08X"

@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "施法单位生产建筑。"
-    },
-    {
       "Id": "unsf",
       "Type": 3,
       "Value": "（天灾 魔法）"

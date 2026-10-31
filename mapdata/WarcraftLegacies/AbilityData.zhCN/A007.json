@@ -54,6 +54,11 @@
       "Id": "anam",
       "Type": 3,
       "Value": "星辰坠落"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习星辰坠落 - [|cffffcc00等级 %d|r]"
     }
   ],
   "NewId": "A007"

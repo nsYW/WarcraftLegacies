@@ -25,6 +25,11 @@
       "Id": "anam",
       "Type": 3,
       "Value": "圣光术"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "A holy light that can heal a friendly living unit or damage an enemy Undead unit. |n|n|cffffcc00等级 1|r - Heals for 200 hit points. |n|cffffcc00等级 2|r - Heals for 400 hit points. |n|cffffcc00等级 3|r - Heals for 600 hit points. |n|cffffcc00等级 4|r - Heals for 800 hit points."
     }
   ],
   "NewId": "MD06"

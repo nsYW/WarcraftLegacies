@@ -1,0 +1,29 @@
+{
+  "OldId": "Bhwd",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "fnam",
+      "Type": 3,
+      "Value": "火山结界"
+    },
+    {
+      "Id": "ftip",
+      "Type": 3,
+      "Value": "火山结界"
+    },
+    {
+      "Id": "fube",
+      "Type": 3,
+      "Value": "该结界向附近的敌人投掷熔岩。"
+    },
+    {
+      "Id": "fnsf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 唤地者）"
+    }
+  ],
+  "NewId": "B0E8"
+}

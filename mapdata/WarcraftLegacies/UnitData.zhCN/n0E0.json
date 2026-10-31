@@ -10,19 +10,14 @@
       "Value": "天怒之塔"
     },
     {
-      "Id": "utub",
+      "Id": "utip",
       "Type": 3,
-      "Value": "|cff2fc6ba防御塔|r"
+      "Value": "升级到天怒之塔"
     },
     {
       "Id": "unsf",
       "Type": 3,
       "Value": "（日怒塔）"
-    },
-    {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "升级到天怒之塔"
     }
   ],
   "NewId": "n0E0"

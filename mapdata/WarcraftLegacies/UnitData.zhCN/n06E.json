@@ -7,7 +7,7 @@
     {
       "Id": "unsf",
       "Type": 3,
-      "Value": "（哨兵 - 精英）"
+      "Value": "（哨兵）"
     },
     {
       "Id": "unam",
@@ -18,11 +18,6 @@
       "Id": "utip",
       "Type": 3,
       "Value": "训练影叶"
-    },
-    {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "由珊蒂斯·羽月训练的优秀弓箭手。"
     }
   ],
   "NewId": "n06E"

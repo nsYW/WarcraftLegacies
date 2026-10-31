@@ -1,0 +1,19 @@
+{
+  "OldId": "ACav",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "腐化地雷（增益施加）"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（增益施加）"
+    }
+  ],
+  "NewId": "A14V"
+}

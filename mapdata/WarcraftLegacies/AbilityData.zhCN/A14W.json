@@ -1,0 +1,65 @@
+{
+  "OldId": "ANrf",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（安东尼达斯）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "火焰之雨"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Channels for up to 5 seconds, gathering a ball of raw arcane energy above Antonidas' head that grows larger the longer he channels. It then launches at the target point, dealing damage based on how large it grew. If Antonidas is interrupted early, the ball launches anyway, just smaller and weaker.|n|n|cffffcc00等级 1|r - Up to 300 damage at full size.|n|cffffcc00等级 2|r - Up to 450 damage at full size.|n|cffffcc00等级 3|r - Up to 600 damage at full size."
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Arcane Cataclysm - [|cffffcc001 级|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Arcane Cataclysm - [|cffffcc002 级|r]"
+    },
+    {
+      "Level": 3,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Arcane Cataclysm - [|cffffcc003 级|r]"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "最多引导 5 秒，在安东尼达斯头顶聚集一颗奥术能量球，它会随时间变大，随后射向目标地点，依其大小最多造成 300 点伤害。若被打断，会提前以较小的体积和伤害射出。"
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "最多引导 5 秒，在安东尼达斯头顶聚集一颗奥术能量球，它会随时间变大，随后射向目标地点，依其大小最多造成 450 点伤害。若被打断，会提前以较小的体积和伤害射出。"
+    },
+    {
+      "Level": 3,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "最多引导 5 秒，在安东尼达斯头顶聚集一颗奥术能量球，它会随时间变大，随后射向目标地点，依其大小最多造成 600 点伤害。若被打断，会提前以较小的体积和伤害射出。"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习火焰之雨 - [|cffffcc00等级 %d|r]"
+    }
+  ],
+  "NewId": "A14W"
+}

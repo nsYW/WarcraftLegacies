@@ -25,6 +25,11 @@
       "Id": "anam",
       "Type": 3,
       "Value": "撕裂之爪"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Gives a percent chance to avoid attacks. |n|n|cffffcc00等级 1|r - <AEev,DataA1,%>% chance that an opponent misses. |n|cffffcc00等级 2|r - <AEev,DataA2,%>% chance that an opponent misses. |n|cffffcc00等级 3|r - <AEev,DataA3,%>% chance that an opponent misses. |n|cffffcc00等级 3|r - 35% chance that an opponent misses."
     }
   ],
   "NewId": "YBRC"

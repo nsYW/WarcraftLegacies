@@ -19,6 +19,11 @@
       "Id": "anam",
       "Type": 3,
       "Value": "治疗狂热"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "The Warden hurls a flurry of knives, damaging nearby enemies. |n|n|cffffcc00等级 1|r - <AEfk,DataA1> damage per target. |n|cffffcc00等级 2|r - <AEfk,DataA2> damage per target. |n|cffffcc00等级 3|r - <AEfk,DataA3> damage per target. |n|cffffcc00等级 4|r - <AEfk,DataA4> damage per target."
     }
   ],
   "NewId": "Z3X9"

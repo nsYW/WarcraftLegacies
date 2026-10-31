@@ -1,0 +1,19 @@
+{
+  "OldId": "Aasl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "重生之种"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（增益施加）"
+    }
+  ],
+  "NewId": "A15P"
+}

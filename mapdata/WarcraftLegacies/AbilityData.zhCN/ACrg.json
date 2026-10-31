@@ -8,6 +8,11 @@
       "Id": "ansf",
       "Type": 3,
       "Value": "（法术书）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "火焰之雨"
     }
   ]
 }

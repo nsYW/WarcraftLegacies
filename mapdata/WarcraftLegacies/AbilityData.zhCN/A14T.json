@@ -1,0 +1,24 @@
+{
+  "OldId": "AHtb",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "A magical hammer that is thrown at an enemy unit, causing damage and stunning the target. |n|n|cffffcc00等级 1|r - <AHtb,DataA1> damage, <AHtb,Dur1> second stun. 1 second on Heroes.|n|cffffcc00等级 2|r - <AHtb,DataA2> damage, <AHtb,Dur2> second stun. 1.5 seconds on Heroes.|n|cffffcc00等级 3|r - <AHtb,DataA3> damage, <AHtb,Dur3> second stun. 2 seconds on Heroes.|n|cffffcc00等级 4|r - <AHtb,DataA4> damage, <AHtb,Dur4> second stun. 2.5 seconds on Heroes."
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "腐化地雷（昏迷）"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（腐化地雷）"
+    }
+  ],
+  "NewId": "A14T"
+}

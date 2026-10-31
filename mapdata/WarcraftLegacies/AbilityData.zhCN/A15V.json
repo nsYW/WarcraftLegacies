@@ -1,0 +1,31 @@
+{
+  "OldId": "Amls",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "万能枷锁"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "万能枷锁"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "用魔法束缚一个目标敌方单位，使其无法移动或攻击，并每秒受到 25 点伤害。|n持续 3 秒，英雄为 1.5 秒。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（哨兵 - 守望者）"
+    }
+  ],
+  "NewId": "A15V"
+}

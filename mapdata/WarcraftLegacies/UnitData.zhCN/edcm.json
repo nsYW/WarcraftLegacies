@@ -10,19 +10,14 @@
       "Value": "（熊形态）"
     },
     {
-      "Id": "utub",
+      "Id": "utip",
       "Type": 3,
-      "Value": "强大的前线近战单位。"
+      "Value": "训练熊"
     },
     {
       "Id": "unam",
       "Type": 3,
       "Value": "巨熊"
-    },
-    {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "训练熊"
     }
   ]
 }

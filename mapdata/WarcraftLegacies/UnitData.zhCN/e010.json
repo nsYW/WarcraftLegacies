@@ -18,11 +18,6 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造创造古树"
-    },
-    {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "通用研发建筑。"
     }
   ],
   "NewId": "e010"

@@ -8,6 +8,21 @@
       "Id": "anam",
       "Type": 3,
       "Value": "卷轴传送"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Teleports units, including the caster, to a friendly building or unit. |n|cffffcc00等级 1|r - Teleports 60 units.|n|cffffcc00等级 2|r - Teleports 72 units.|n|cffffcc00等级 3|r - Teleports 84 units."
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（吉安娜）"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习群体传送 - [|cffffcc00等级 %d|r]"
     }
   ],
   "NewId": "A00M"

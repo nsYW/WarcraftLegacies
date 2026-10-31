@@ -1,0 +1,65 @@
+{
+  "OldId": "AEtq",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（玛法里奥）"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Causes rains of healing energy to pour down in a large area, healing friendly allied units.|nLasts <A15Q,Dur1> seconds. |n|n|cffffcc00等级 1|r - Heals <A15Q,DataA1> hit points per second. 180 seconds cooldown. |n|cffffcc00等级 2|r - Heals <A15Q,DataA2> hit points per second. 165 seconds cooldown. |n|cffffcc00等级 3|r - Heals <A15Q,DataA3> hit points per second. 150 seconds cooldown. "
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Tranquility - [|cffffcc00等级 1|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Tranquility - [|cffffcc00等级 2|r]"
+    },
+    {
+      "Level": 3,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Tranquility - [|cffffcc00等级 3|r]"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "召唤治疗能量之雨倾泻于大片区域，每秒为友方盟友单位恢复 30 点生命值。|n持续 20 秒。"
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "召唤治疗能量之雨倾泻于大片区域，每秒为友方盟友单位恢复 40 点生命值。|n持续 20 秒。"
+    },
+    {
+      "Level": 3,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "召唤治疗能量之雨倾泻于大片区域，每秒为友方盟友单位恢复 50 点生命值。|n持续 20 秒。"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "宁静"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习宁静 - [|cffffcc00等级 %d|r]"
+    }
+  ],
+  "NewId": "A15Q"
+}

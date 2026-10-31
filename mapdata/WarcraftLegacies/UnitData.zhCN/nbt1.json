@@ -5,11 +5,6 @@
   ],
   "Modifications": [
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "向敌人投掷巨石。"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "升级到巨石塔"

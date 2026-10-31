@@ -1,0 +1,19 @@
+{
+  "OldId": "Sshm",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "影遁"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（哨兵 - 月之女祭司）"
+    }
+  ],
+  "NewId": "A16O"
+}

@@ -10,11 +10,6 @@
       "Value": "（兽人部落）"
     },
     {
-      "Id": "unam",
-      "Type": 3,
-      "Value": "微型战争营地"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "购买微型战争营地"
@@ -23,6 +18,11 @@
       "Id": "utub",
       "Type": 3,
       "Value": "购买微型战争营地"
+    },
+    {
+      "Id": "unam",
+      "Type": 3,
+      "Value": "微型战争营地"
     }
   ],
   "NewId": "I020"

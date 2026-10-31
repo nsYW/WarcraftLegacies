@@ -19,6 +19,17 @@
       "Id": "anam",
       "Type": 3,
       "Value": "刀扇"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "The Warden hurls a flurry of knives, damaging nearby enemies. |n|n|cffffcc00等级 1|r - <AEfk,DataA1> damage per target. |n|cffffcc00等级 2|r - <AEfk,DataA2> damage per target. |n|cffffcc00等级 3|r - <AEfk,DataA3> damage per target. |n|cffffcc00等级 4|r - <AEfk,DataA4> damage per target."
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "向附近敌方单位掷出一阵战刃，至多对 6 个目标各造成 75 点伤害。"
     }
   ],
   "NewId": "A00T"

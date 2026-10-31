@@ -1,0 +1,77 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（德鲁伊 - 塞纳留斯）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Grows a Tree of Renewal at the target location for 20 seconds. Friendly units near the tree regain a portion of their maximum hit points every second and gain bonus armor. The tree is immune to magic, but can be attacked.|n|n|cffffcc00等级 1|r - 1.5% hit points per second, 2 bonus armor.|n|cffffcc00等级 2|r - 1.7% hit points per second, 3 bonus armor.|n|cffffcc00等级 3|r - 1.8% hit points per second, 4 bonus armor.|n|cffffcc00等级 4|r - 2.0% hit points per second, 5 bonus armor."
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Tree of Renewal - [|cffffcc001 级|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Tree of Renewal - [|cffffcc002 级|r]"
+    },
+    {
+      "Level": 3,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Tree of Renewal - [|cffffcc003 级|r]"
+    },
+    {
+      "Level": 4,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Tree of Renewal - [|cffffcc004 级|r]"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "Grows a 治疗结界 at the target location for 20 seconds. Friendly units near the tree regain a portion of their maximum hit points every second and gain bonus armor. The tree is immune to magic, but can be attacked.|n|n|cffffcc00等级 1|r - 1.5% hit points per second, 2 bonus armor."
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "Grows a 治疗结界 at the target location for 20 seconds. Friendly units near the tree regain a portion of their maximum hit points every second and gain bonus armor. The tree is immune to magic, but can be attacked.|n|n|cffffcc00等级 2|r - 1.7% hit points per second, 3 bonus armor."
+    },
+    {
+      "Level": 3,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "Grows a 治疗结界 at the target location for 20 seconds. Friendly units near the tree regain a portion of their maximum hit points every second and gain bonus armor. The tree is immune to magic, but can be attacked.|n|n|cffffcc00等级 3|r - 1.8% hit points per second, 4 bonus armor."
+    },
+    {
+      "Level": 4,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "Grows a 治疗结界 at the target location for 20 seconds. Friendly units near the tree regain a portion of their maximum hit points every second and gain bonus armor. The tree is immune to magic, but can be attacked.|n|n|cffffcc00等级 4|r - 2.0% hit points per second, 5 bonus armor."
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习引导 - [|cffffcc00等级 %d|r]"
+    }
+  ],
+  "NewId": "A156"
+}

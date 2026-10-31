@@ -3,5 +3,11 @@
   "Unk": [
     0
   ],
-  "Modifications": []
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "物品 - 治疗"
+    }
+  ]
 }

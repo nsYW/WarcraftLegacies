@@ -1,0 +1,19 @@
+{
+  "OldId": "Aslo",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "森林之主（减速）"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（德鲁伊 - 塞纳留斯假人）"
+    }
+  ],
+  "NewId": "A15A"
+}

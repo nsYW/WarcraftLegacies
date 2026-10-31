@@ -1,0 +1,24 @@
+{
+  "OldId": "AHad",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "虔诚光环"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Gives additional armor to nearby friendly units in 450 range. |n|n|cffffcc00等级 1|r - Increases armor by <AHad,DataA1,.>. |n|cffffcc00等级 2|r - Increases armor by <AHad,DataA2,.>. |n|cffffcc00等级 3|r - Increases armor by <AHad,DataA3,.>.|n|cffffcc00等级 4|r - Increases armor by <AHad,DataA4,.>."
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（德鲁伊 - 恢复之树）"
+    }
+  ],
+  "NewId": "A158"
+}

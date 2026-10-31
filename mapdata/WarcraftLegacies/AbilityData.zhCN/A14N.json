@@ -1,0 +1,19 @@
+{
+  "OldId": "AIat",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "狂野怒火（伤害加成）"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（雷克萨）"
+    }
+  ],
+  "NewId": "A14N"
+}

@@ -10,19 +10,14 @@
       "Value": "强化太阳塔"
     },
     {
-      "Id": "utub",
+      "Id": "utip",
       "Type": 3,
-      "Value": "强化防御建筑。"
+      "Value": "升级到强化太阳塔"
     },
     {
       "Id": "unsf",
       "Type": 3,
       "Value": "（奎尔萨拉斯塔）"
-    },
-    {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "升级到强化太阳塔"
     }
   ],
   "NewId": "n003"

@@ -15,11 +15,6 @@
       "Value": "炮舰"
     },
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "远程攻城重型船只。"
-    },
-    {
       "Id": "utip",
       "Type": 3,
       "Value": "训练炮舰"

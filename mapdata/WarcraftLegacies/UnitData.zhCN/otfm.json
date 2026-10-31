@@ -18,11 +18,6 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造帐篷"
-    },
-    {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "提供 10 人口，可提高可训练单位的数量上限。"
     }
   ],
   "NewId": "otfm"

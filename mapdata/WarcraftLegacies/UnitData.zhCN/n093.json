@@ -10,19 +10,14 @@
       "Value": "（暴风城）"
     },
     {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "南方王国的圣人。"
-    },
-    {
       "Id": "unam",
       "Type": 3,
-      "Value": "特遣牧师"
+      "Value": "法师"
     },
     {
       "Id": "utip",
       "Type": 3,
-      "Value": "训练特遣牧师"
+      "Value": "训练法师"
     }
   ],
   "NewId": "n093"

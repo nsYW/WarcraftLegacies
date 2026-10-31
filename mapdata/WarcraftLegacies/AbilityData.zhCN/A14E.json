@@ -1,0 +1,77 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（玛法里奥）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "翡翠梦境"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Pulls a target friendly unit into the Emerald Dream. While there it cannot be harmed and cannot act, and it recovers health and mana before returning.|n|n|cffffcc00等级 1|r - 2 seconds. Restores 20% health and 10% mana.|n|cffffcc00等级 2|r - 2.5 seconds. Restores 30% health and 15% mana.|n|cffffcc00等级 3|r - 3 seconds. Restores 40% health and 20% mana.|n|cffffcc00等级 4|r - 3.5 seconds. Restores 50% health and 25% mana."
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Emerald Dream - [|cffffcc001 级|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Emerald Dream - [|cffffcc002 级|r]"
+    },
+    {
+      "Level": 3,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Emerald Dream - [|cffffcc003 级|r]"
+    },
+    {
+      "Level": 4,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Emerald Dream - [|cffffcc004 级|r]"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "将一个目标友方单位拉入翡翠梦境，持续 2 秒，并恢复其 20% 生命值和 10% 魔法值。"
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "将一个目标友方单位拉入翡翠梦境，持续 2.5 秒，并恢复其 30% 生命值和 15% 魔法值。"
+    },
+    {
+      "Level": 3,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "将一个目标友方单位拉入翡翠梦境，持续 3 秒，并恢复其 40% 生命值和 20% 魔法值。"
+    },
+    {
+      "Level": 4,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "将一个目标友方单位拉入翡翠梦境，持续 3.5 秒，并恢复其 50% 生命值和 25% 魔法值。"
+    },
+    {
+      "Id": "aret",
+      "Type": 3,
+      "Value": "学习翡翠梦境 - [|cffffcc00等级 %d|r]"
+    }
+  ],
+  "NewId": "A14E"
+}

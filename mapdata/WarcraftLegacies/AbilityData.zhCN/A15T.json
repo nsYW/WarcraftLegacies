@@ -1,0 +1,31 @@
+{
+  "OldId": "ANcl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "引导"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "汲取心木古树自身的根须，将其 10% 的最大生命值转化为一半的魔法值。魔法值已满或会致心木古树死亡时无法使用。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（德鲁伊 - 心木古树）"
+    }
+  ],
+  "NewId": "A15T"
+}

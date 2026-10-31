@@ -5,19 +5,14 @@
   ],
   "Modifications": [
     {
-      "Id": "utub",
+      "Id": "utip",
       "Type": 3,
-      "Value": "轻型近战单位。"
+      "Value": "训练邪能兽"
     },
     {
       "Id": "unam",
       "Type": 3,
       "Value": "邪能兽"
-    },
-    {
-      "Id": "utip",
-      "Type": 3,
-      "Value": "训练邪能兽"
     }
   ]
 }

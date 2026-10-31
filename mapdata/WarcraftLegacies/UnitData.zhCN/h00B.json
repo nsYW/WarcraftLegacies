@@ -18,11 +18,6 @@
       "Id": "utip",
       "Type": 3,
       "Value": "纵向木门"
-    },
-    {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "修复破损的大门。"
     }
   ],
   "NewId": "h00B"

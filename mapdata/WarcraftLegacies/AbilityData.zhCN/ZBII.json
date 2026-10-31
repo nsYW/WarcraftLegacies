@@ -25,6 +25,11 @@
       "Id": "aub1",
       "Type": 3,
       "Value": "该英雄可以在你控制的任一英雄周围 800 码范围内的任意位置施放其技能。"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Gives a percent chance to avoid attacks. |n|n|cffffcc00等级 1|r - <AEev,DataA1,%>% chance that an opponent misses. |n|cffffcc00等级 2|r - <AEev,DataA2,%>% chance that an opponent misses. |n|cffffcc00等级 3|r - <AEev,DataA3,%>% chance that an opponent misses. |n|cffffcc00等级 3|r - 35% chance that an opponent misses."
     }
   ],
   "NewId": "ZBII"

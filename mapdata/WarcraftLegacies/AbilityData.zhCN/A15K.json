@@ -1,0 +1,55 @@
+{
+  "OldId": "Amfl",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "法力闪耀"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 先祖之灵）"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Mana Flare - [|cffffcc001 级|r]"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "Mana Flare - [|cffffcc002 级|r]"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "使先祖之灵引导负面魔法能量，在附近敌人施放法术时对其造成伤害。|n|n持续<Amfl,Dur1>秒。|n每点法力值造成<Amfl,DataA1,.>点伤害。"
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "使先祖之灵引导负面魔法能量，在附近敌人施放法术时对其造成伤害。|n|n持续<Amfl,Dur2>秒。|n每点法力值造成<Amfl,DataA2,.>点伤害。"
+    },
+    {
+      "Level": 2,
+      "Id": "aut1",
+      "Type": 3,
+      "Value": "停止法力闪耀。"
+    },
+    {
+      "Level": 2,
+      "Id": "auu1",
+      "Type": 3,
+      "Value": "停止引导法力闪耀。"
+    }
+  ],
+  "NewId": "A15K"
+}

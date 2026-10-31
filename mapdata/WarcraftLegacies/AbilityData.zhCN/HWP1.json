@@ -20,6 +20,11 @@
       "Id": "atp1",
       "Type": 3,
       "Value": "能量波 - [|cffffcc00级别 1|r]"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Calls forth a wave of energy that heals a target and bounces to nearby friendlies. Each bounce heals less damage. |n|n|cffffcc00等级 1|r - Heals <ANhw,DataA1> damage, jumps <ANhw,DataB1> times, 25% less healing per jump.|n|cffffcc00等级 2|r - Heals <ANhw,DataA2> damage, jumps <ANhw,DataB2> times, 20% less healing per jump.|n|cffffcc00等级 3|r - Heals <ANhw,DataA3> damage, jumps <ANhw,DataB3> times, 15% less healing per jump.|n|cffffcc00等级 4|r - Heals <ANhw,DataA4> damage, jumps <ANhw,DataB4> times, 10% less healing per jump."
     }
   ],
   "NewId": "HWP1"

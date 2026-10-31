@@ -18,11 +18,6 @@
       "Id": "utip",
       "Type": 3,
       "Value": "建造教派集会所"
-    },
-    {
-      "Id": "utub",
-      "Type": 3,
-      "Value": "主要作战单位生产建筑。"
     }
   ],
   "NewId": "o03D"

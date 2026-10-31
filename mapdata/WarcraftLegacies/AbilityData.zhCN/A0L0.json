@@ -8,6 +8,11 @@
       "Id": "ansf",
       "Type": 3,
       "Value": "（假单位）"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "沉睡"
     }
   ],
   "NewId": "A0L0"

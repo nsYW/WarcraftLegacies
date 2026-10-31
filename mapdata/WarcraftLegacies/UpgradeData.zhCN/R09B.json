@@ -1,0 +1,27 @@
+{
+  "OldId": "Robs",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": "gnam",
+      "Type": 3,
+      "Value": "野蛮之力"
+    },
+    {
+      "Level": 1,
+      "Id": "gnsf",
+      "Type": 3,
+      "Value": "（兽人部落）"
+    },
+    {
+      "Level": 1,
+      "Id": "gub1",
+      "Type": 3,
+      "Value": "兽人步兵永久获得 75 点生命值。"
+    }
+  ],
+  "NewId": "R09B"
+}

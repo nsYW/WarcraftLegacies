@@ -19,12 +19,29 @@
       "Level": 1,
       "Id": "aub1",
       "Type": 3,
-      "Value": "让英雄传送一小段距离，从而切入或撤出战斗。|n12 秒冷却时间。"
+      "Value": "让英雄传送一小段距离，从而切入或撤出战斗。"
+    },
+    {
+      "Level": 2,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "闪现"
+    },
+    {
+      "Level": 2,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "让英雄传送一小段距离，从而切入或撤出战斗。"
     },
     {
       "Id": "anam",
       "Type": 3,
       "Value": "闪现"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Short distance teleportation that allows the Hero to move in and out of combat. |n|n|cffffcc00等级 1|r - <AEbl,Cool1> second cooldown, <AEbl,Cost1> mana. |n|cffffcc00等级 2|r - <AEbl,Cool2> second cooldown, <AEbl,Cost2> mana. |n|cffffcc00等级 3|r - <AEbl,Cool3> second cooldown, <AEbl,Cost3> mana.  |n|cffffcc00等级 4|r - <AEbl,Cool4> second cooldown, <AEbl,Cost4> mana."
     }
   ],
   "NewId": "A0DW"

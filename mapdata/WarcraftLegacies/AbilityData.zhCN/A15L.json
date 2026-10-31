@@ -1,0 +1,31 @@
+{
+  "OldId": "AHdr",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "法力虹吸"
+    },
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "法力虹吸"
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "在先祖之灵与目标之间引导灵魂能量。每秒从敌人身上汲取 15 点魔法值，或每秒向盟友输送 10 点魔法值。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（牛头人部族 - 先祖之灵）"
+    }
+  ],
+  "NewId": "A15L"
+}

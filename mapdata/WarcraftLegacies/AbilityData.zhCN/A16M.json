@@ -1,0 +1,36 @@
+{
+  "OldId": "AEev",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "anam",
+      "Type": 3,
+      "Value": "闪避"
+    },
+    {
+      "Level": 1,
+      "Id": "atp1",
+      "Type": 3,
+      "Value": "闪避"
+    },
+    {
+      "Id": "arut",
+      "Type": 3,
+      "Value": "Gives a percent chance to avoid attacks. |n|n|cffffcc00等级 1|r - <AEev,DataA1,%>% chance that an opponent misses. |n|cffffcc00等级 2|r - <AEev,DataA2,%>% chance that an opponent misses. |n|cffffcc00等级 3|r - <AEev,DataA3,%>% chance that an opponent misses. |n|cffffcc00等级 3|r - 35% chance that an opponent misses."
+    },
+    {
+      "Level": 1,
+      "Id": "aub1",
+      "Type": 3,
+      "Value": "夜间，女祭司射出灵魂之箭，造成 20 点额外魔法伤害。"
+    },
+    {
+      "Id": "ansf",
+      "Type": 3,
+      "Value": "（哨兵 - 月之女祭司）"
+    }
+  ],
+  "NewId": "A16M"
+}

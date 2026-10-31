@@ -1,0 +1,24 @@
+{
+  "OldId": "Bslo",
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": "fnam",
+      "Type": 3,
+      "Value": "森林之主"
+    },
+    {
+      "Id": "ftip",
+      "Type": 3,
+      "Value": "森林之主"
+    },
+    {
+      "Id": "fube",
+      "Type": 3,
+      "Value": "该单位被破土而出的远古树人所击，移动和攻击速度降低。"
+    }
+  ],
+  "NewId": "B0E5"
+}
